@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tape Deck — Luyện nghe &amp; Shadowing Tiếng Anh</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="app">
+
+  <aside class="sidebar">
+    <div class="brand">
+      <span class="brand-mark" aria-hidden="true">
+        <svg viewBox="0 0 40 40" width="30" height="30">
+          <circle cx="12" cy="20" r="7" fill="none" stroke="currentColor" stroke-width="2.5"/>
+          <circle cx="28" cy="20" r="7" fill="none" stroke="currentColor" stroke-width="2.5"/>
+          <circle cx="12" cy="20" r="2" fill="currentColor"/>
+          <circle cx="28" cy="20" r="2" fill="currentColor"/>
+          <path d="M19 20h2" stroke="currentColor" stroke-width="2.5"/>
+        </svg>
+      </span>
+      <div>
+        <h1>Tape Deck</h1>
+        <p class="brand-sub">130 bài luyện nghe &amp; shadowing</p>
+      </div>
+    </div>
+
+    <div class="filters">
+      <input id="search" type="text" placeholder="Tìm bài (tên hoặc số)…" autocomplete="off">
+      <div class="level-toggle" id="levelToggle">
+        <button data-level="all" class="active">Tất cả</button>
+        <button data-level="A2">A1–A2</button>
+        <button data-level="B1">B1</button>
+        <button data-level="B1+">B1+</button>
+      </div>
+    </div>
+
+    <ol class="track-list" id="trackList" aria-label="Danh sách bài nghe"></ol>
+  </aside>
+
+  <main class="content">
+    <div id="emptyState" class="empty-state">
+      <p>← Chọn một bài nghe để bắt đầu shadowing.</p>
+    </div>
+
+    <article id="trackView" class="track-view" hidden>
+
+      <header class="track-head">
+        <p class="track-eyebrow" id="trackEyebrow"></p>
+        <h2 id="trackTitle"></h2>
+        <div class="track-meta">
+          <span class="pill" id="trackLevel"></span>
+          <span class="meta-item" id="trackWords"></span>
+          <button class="ghost-btn" id="clearHighlights" title="Xoá phần đã tô đậm của bài này">Xoá highlight</button>
+        </div>
+      </header>
+
+      <section class="audio-box" id="audioBox">
+        <div class="audio-row">
+          <label for="driveIdInput">Google Drive file ID</label>
+          <input id="driveIdInput" type="text" placeholder="Dán link hoặc ID file audio Drive…">
+          <button id="saveDriveId" class="ghost-btn">Lưu</button>
+        </div>
+        <div id="playerWrap" class="player-wrap"></div>
+        <p class="audio-hint">Dán link chia sẻ Google Drive của track này (ví dụ: <code>https://drive.google.com/file/d/FILE_ID/view</code>) — ID sẽ được lưu trong trình duyệt của bạn. Xem <code>README.md</code> để gán ID cho cả 21 track một lần.</p>
+
+        <details class="folder-browser">
+          <summary>Duyệt thư mục Audio trên Drive để tìm file của track này</summary>
+          <p class="audio-hint">Bấm vào một file bên dưới để xem preview, rồi copy phần ID trong đường link (giữa <code>/d/</code> và <code>/view</code>) và dán vào ô phía trên.</p>
+          <iframe class="folder-frame" src="https://drive.google.com/embeddedfolderview?id=18HR1MLSf05qvzrZdqtL78VD5RFgxjaPw#list" title="Thư mục audio 130BaiNgheAudio"></iframe>
+        </details>
+      </section>
+
+      <nav class="tabs" id="tabs">
+        <button data-tab="transcript" class="active">Transcript</button>
+        <button data-tab="vocab">Từ vựng</button>
+        <button data-tab="speaking">Speaking</button>
+      </nav>
+
+      <section class="tab-panel" id="panel-transcript">
+        <div class="shadow-controls">
+          <button id="shadowModeBtn" class="ghost-btn">▶ Chế độ Shadowing</button>
+          <span class="shadow-hint">Chọn một câu để phóng to &amp; luyện theo. Bôi đen đoạn văn để đánh dấu từ/cụm từ khó.</span>
+        </div>
+        <div class="transcript" id="transcript"></div>
+      </section>
+
+      <section class="tab-panel" id="panel-vocab" hidden>
+        <pre class="raw-block" id="vocabBlock"></pre>
+      </section>
+
+      <section class="tab-panel" id="panel-speaking" hidden>
+        <pre class="raw-block" id="speakingBlock"></pre>
+      </section>
+
+    </article>
+  </main>
+</div>
+
+<div id="highlightPopover" class="highlight-popover" hidden>
+  <button data-color="yellow" style="--hl:#F4D35E">Vàng</button>
+  <button data-color="green" style="--hl:#A9D9B0">Xanh</button>
+  <button data-color="pink" style="--hl:#F2B8C6">Hồng</button>
+  <button data-color="remove" class="remove">Xoá</button>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
