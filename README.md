@@ -1,9 +1,9 @@
 # Tape Deck — Luyện nghe & Shadowing Tiếng Anh
 
 Web app tĩnh (HTML/CSS/JS thuần, không cần build) để trình chiếu transcript của
-21 track luyện nghe (Track 5–25, trích từ *"130 bài luyện nghe Tiếng Anh"*),
-phát audio từng track từ Google Drive, và cho phép highlight nội dung để
-luyện shadowing / luyện nói ở trình độ A1–A2 và B1.
+39 track luyện nghe (Track 5–43, trích từ *"130 bài luyện nghe Tiếng Anh"*),
+phát audio từng track từ Google Drive, cho phép highlight nội dung, và tạo
+prompt để luyện nói trực tiếp với ChatGPT — dùng cho trình độ A1–A2 và B1.
 
 **Demo trực tiếp:** sau khi bật GitHub Pages (xem bên dưới),
 app sẽ chạy tại `https://<username>.github.io/<repo>/`.
@@ -21,7 +21,12 @@ app sẽ chạy tại `https://<username>.github.io/<repo>/`.
   trình duyệt của bạn, hoặc bạn có thể gán sẵn cho tất cả mọi người dùng app
   (xem phần dưới).
 - **Từ vựng & Speaking prompts** — tab riêng cho bảng từ vựng (IPA + nghĩa) và
-  đề bài nói gợi ý cho A2/B1, lấy nguyên văn từ file PDF gốc.
+  đề bài nói gợi ý cho A2/B1, lấy nguyên văn từ file gốc.
+- **Luyện nói với AI** — tab mới tự tạo sẵn một đoạn prompt (dựa trên chủ đề,
+  đề bài A2/B1 và một số từ vựng mục tiêu của track) để bạn dán vào ChatGPT
+  (hoặc Claude, Gemini…) và luyện hội thoại nói trực tiếp, có sửa lỗi và gợi ý
+  theo từng lượt trả lời. Bấm "Sao chép prompt" rồi dán vào ChatGPT là dùng
+  được ngay.
 
 ## Cấu trúc project
 
@@ -92,11 +97,13 @@ Drive"** trong mỗi track vẫn còn để bạn tiện tra cứu/thay thế kh
 
 ## Nguồn dữ liệu
 
-Transcript, bảng từ vựng và đề bài nói được trích xuất từ file PDF người dùng
-tải lên (`130 bài luyện nghe Tiếng Anh`, Track 5–25). File PDF gốc dài hơn
-(130 bài) nhưng bản upload chỉ chứa 21 track này — nếu bạn có transcript đầy đủ
-130 bài, chạy lại pipeline trích xuất (regex tách theo `Track N.`) và nối thêm
-vào `tracks.json` theo đúng cấu trúc hiện có.
+Transcript, bảng từ vựng và đề bài nói được trích xuất từ 2 file người dùng
+tải lên (`130 bài luyện nghe Tiếng Anh`, bản PDF chứa Track 5–25 và bản Word bổ
+sung tới Track 43). Bộ tài liệu gốc có 130 bài nhưng hiện tại mới có transcript
+đủ tới Track 43 — nếu bạn có thêm transcript (Track 44 trở đi), chạy lại
+pipeline trích xuất (regex tách theo `Track N.`, xem qua text đã export bằng
+`pandoc`/`pdftotext -layout`) và nối thêm vào `tracks.json` theo đúng cấu trúc
+hiện có.
 
 ## Cấu trúc một object trong `tracks.json`
 

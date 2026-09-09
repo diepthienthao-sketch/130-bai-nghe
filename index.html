@@ -80,6 +80,7 @@
         <button data-tab="transcript" class="active">Transcript</button>
         <button data-tab="vocab">Từ vựng</button>
         <button data-tab="speaking">Speaking</button>
+        <button data-tab="chatgpt">Luyện nói với AI</button>
       </nav>
 
       <section class="tab-panel" id="panel-transcript">
@@ -96,6 +97,25 @@
 
       <section class="tab-panel" id="panel-speaking" hidden>
         <pre class="raw-block" id="speakingBlock"></pre>
+      </section>
+
+      <section class="tab-panel" id="panel-chatgpt" hidden>
+        <div class="chat-intro">
+          <h3>Luyện nói trực tiếp với ChatGPT</h3>
+          <p>Bấm chọn trình độ, sao chép đoạn prompt, dán vào ChatGPT (hoặc Claude, Gemini…) và bắt đầu hội thoại nói/gõ trực tiếp bằng tiếng Anh về chủ đề của track này.</p>
+        </div>
+
+        <div class="chat-level-toggle" id="chatLevelToggle">
+          <button data-clevel="0" class="active">A1–A2 (Cơ bản)</button>
+          <button data-clevel="1">B1 (Trung cấp)</button>
+        </div>
+
+        <pre class="raw-block chat-prompt" id="chatPromptBlock"></pre>
+
+        <div class="chat-actions">
+          <button id="copyChatPrompt" class="ghost-btn">Sao chép prompt</button>
+          <a id="openChatgpt" class="ghost-btn link-btn" href="https://chatgpt.com" target="_blank" rel="noopener">Mở ChatGPT ↗</a>
+        </div>
       </section>
 
     </article>

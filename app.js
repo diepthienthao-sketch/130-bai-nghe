@@ -22,6 +22,7 @@ async function init() {
   wireAudioBox();
   wireHighlighting();
   wireShadowControls();
+  wireChatPrompt();
 
   const hash = decodeURIComponent(location.hash.replace('#', ''));
   const initial = TRACKS.find(t => String(t.track) === hash) || null;
@@ -32,7 +33,8 @@ function cacheEls() {
   ['trackList','emptyState','trackView','trackEyebrow','trackTitle','trackLevel',
    'trackWords','clearHighlights','driveIdInput','saveDriveId','playerWrap',
    'transcript','vocabBlock','speakingBlock','search','levelToggle','tabs',
-   'shadowModeBtn','highlightPopover'
+   'shadowModeBtn','highlightPopover','chatLevelToggle','chatPromptBlock',
+   'copyChatPrompt','openChatgpt'
   ].forEach(id => els[id] = document.getElementById(id));
 }
 
@@ -108,14 +110,17 @@ function selectTrack(t) {
 
   loadDriveId(t);
   resetTabs();
+  renderChatPrompt(t);
   els.transcript.classList.remove('shadow-mode');
   els.shadowModeBtn.textContent = '▶ Chế độ Shadowing';
   document.querySelector('.shadow-nav')?.remove();
 }
 
+const TAB_NAMES = ['transcript','vocab','speaking','chatgpt'];
+
 function resetTabs() {
   els.tabs.querySelectorAll('button').forEach(b => b.classList.toggle('active', b.dataset.tab === 'transcript'));
-  ['transcript','vocab','speaking'].forEach(name => {
+  TAB_NAMES.forEach(name => {
     document.getElementById('panel-' + name).hidden = name !== 'transcript';
   });
 }
@@ -125,7 +130,7 @@ function wireTabs() {
     btn.addEventListener('click', () => {
       els.tabs.querySelectorAll('button').forEach(b => b.classList.remove('active'));
       btn.classList.add('active');
-      ['transcript','vocab','speaking'].forEach(name => {
+      TAB_NAMES.forEach(name => {
         document.getElementById('panel-' + name).hidden = name !== btn.dataset.tab;
       });
     });
@@ -379,6 +384,70 @@ function getAllHighlights() {
 function applyStoredHighlights(trackNum) {
   const saved = getAllHighlights()[trackNum];
   if (saved) els.transcript.innerHTML = saved;
+}
+
+/* ---------------- ChatGPT speaking-practice prompt ---------------- */
+
+let chatLevelIdx = 0; // 0 = A1-A2, 1 = B1
+
+function wireChatPrompt() {
+  els.chatLevelToggle.querySelectorAll('button').forEach(btn => {
+    btn.addEventListener('click', () => {
+      els.chatLevelToggle.querySelectorAll('button').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      chatLevelIdx = Number(btn.dataset.clevel);
+      if (currentTrack) renderChatPrompt(currentTrack);
+    });
+  });
+
+  els.copyChatPrompt.addEventListener('click', async () => {
+    try {
+      await navigator.clipboard.writeText(els.chatPromptBlock.textContent);
+      const old = els.copyChatPrompt.textContent;
+      els.copyChatPrompt.textContent = 'Đã sao chép ✓';
+      setTimeout(() => els.copyChatPrompt.textContent = old, 1500);
+    } catch {
+      alert('Không sao chép được tự động — hãy bôi đen và copy thủ công.');
+    }
+  });
+}
+
+// Speaking blocks contain exactly two quoted prompts: index 0 = A2 prompt, index 1 = B1 prompt.
+function extractSpeakingPrompt(speakingText, idx) {
+  const quotes = [...(speakingText || '').matchAll(/"([^"]+)"/g)].map(m => m[1]);
+  return quotes[idx] || null;
+}
+
+function renderChatPrompt(t) {
+  const levelLabel = chatLevelIdx === 0 ? 'A1–A2 (cơ bản)' : 'B1 (trung cấp)';
+  const promptLine = extractSpeakingPrompt(t.speaking, chatLevelIdx);
+  const topicLine = promptLine
+    ? `Đề bài gợi ý: "${promptLine}"`
+    : `Chủ đề: ${t.title}`;
+
+  const vocabHint = (t.vocab || '')
+    .split('\n')
+    .filter(l => /^\s*\d+\s+\S/.test(l))
+    .slice(0, 10)
+    .map(l => l.trim().split(/\s{2,}/)[1] || '')
+    .filter(Boolean);
+
+  const prompt = `Bạn hãy đóng vai một giáo viên tiếng Anh bản ngữ, thân thiện, đang luyện nói (speaking practice) 1-kèm-1 với tôi ở trình độ ${levelLabel}.
+
+Chủ đề hôm nay dựa trên bài nghe "Track ${t.track} – ${t.title}".
+${topicLine}
+
+Hãy làm theo đúng các bước sau, MỖI LẦN CHỈ HỎI 1 CÂU rồi dừng lại chờ tôi trả lời (không tự trả lời thay tôi):
+1. Chào tôi bằng tiếng Anh đơn giản, giới thiệu ngắn gọn chủ đề.
+2. Đặt câu hỏi mở đầu dựa trên đề bài ở trên để tôi luyện nói.
+3. Sau mỗi câu trả lời của tôi: nhẹ nhàng sửa lỗi ngữ pháp/từ vựng quan trọng nhất (nếu có), gợi ý cách nói tự nhiên hơn, rồi đặt câu hỏi tiếp theo để duy trì hội thoại (tổng cộng khoảng 5-6 câu hỏi).
+4. Trong lúc trò chuyện, nếu phù hợp, hãy khuyến khích tôi dùng các từ vựng mục tiêu sau: ${vocabHint.length ? vocabHint.join(', ') : '(không có, hãy tự chọn từ phù hợp với chủ đề)'}.
+5. Giữ câu hỏi và phản hồi của bạn ở độ khó phù hợp với trình độ ${levelLabel} — câu ngắn, từ vựng thông dụng nếu là A1–A2; câu phức hơn một chút và có thể tranh luận nếu là B1.
+6. Sau câu hỏi cuối cùng, đưa ra một đoạn nhận xét tổng kết ngắn (3-4 câu) về điểm mạnh và điểm cần cải thiện trong cách tôi nói.
+
+Bắt đầu ngay bằng bước 1.`;
+
+  els.chatPromptBlock.textContent = prompt;
 }
 
 init();
