@@ -455,6 +455,140 @@ body{
   align-items:center;
 }
 
+/* ---------- Vocab drill & writing practice ---------- */
+.drill-intro h3{
+  font-family:var(--serif);
+  font-size:1.3rem;
+  margin:0 0 6px;
+  color:var(--ink);
+}
+.drill-intro p{
+  margin:0 0 18px;
+  font-size:0.9rem;
+  color:#6b6a58;
+  line-height:1.6;
+  max-width:64ch;
+}
+.drill-mode-toggle{
+  display:flex;
+  gap:8px;
+  margin-bottom:20px;
+}
+.drill-mode-toggle button{
+  padding:7px 14px;
+  border-radius:20px;
+  border:1px solid var(--line);
+  background:#fff;
+  color:#6b6a58;
+  font-size:0.82rem;
+  cursor:pointer;
+  font-family:var(--sans);
+}
+.drill-mode-toggle button.active{
+  background:var(--moss);
+  border-color:var(--moss);
+  color:#eee8d8;
+  font-weight:600;
+}
+.drill-empty{
+  color:#8a8368;
+  font-size:0.9rem;
+  padding:20px 0;
+}
+
+.flash-grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fill, minmax(220px, 1fr));
+  gap:14px;
+}
+.flashcard{
+  min-height:120px;
+  border:1px solid var(--line);
+  border-radius:var(--radius);
+  background:var(--panel);
+  cursor:pointer;
+  padding:16px;
+  text-align:left;
+  font-family:var(--sans);
+  display:flex;
+  align-items:center;
+}
+.flashcard:hover{border-color:var(--mustard);}
+.fc-face{display:flex; flex-direction:column; gap:6px; width:100%;}
+.fc-word{
+  font-family:var(--serif);
+  font-size:1.15rem;
+  font-weight:600;
+  color:var(--ink);
+}
+.fc-ipa{
+  font-family:var(--mono);
+  font-size:0.78rem;
+  color:var(--moss);
+}
+.fc-back{
+  font-size:0.9rem;
+  line-height:1.5;
+  color:var(--ink);
+}
+.fc-back mark{background:#F4D35E; padding:0 2px; border-radius:2px;}
+
+.cloze-list{display:flex; flex-direction:column; gap:18px;}
+.cloze-item{
+  border:1px solid var(--line);
+  border-radius:var(--radius);
+  padding:16px 18px;
+  background:var(--panel);
+}
+.cloze-sentence{
+  font-family:var(--serif);
+  font-size:1.08rem;
+  line-height:1.6;
+  margin:0 0 10px;
+}
+.cloze-sentence .blank{
+  display:inline-block;
+  border-bottom:2px solid var(--moss);
+  min-width:70px;
+  text-align:center;
+  color:var(--moss);
+  font-weight:600;
+}
+.cloze-answer{
+  margin:10px 0 0;
+  font-size:0.88rem;
+  color:var(--moss-dark);
+}
+
+.write-item{
+  border:1px solid var(--line);
+  border-radius:var(--radius);
+  padding:16px 18px;
+  margin-bottom:16px;
+  background:var(--panel);
+}
+.write-prompt{
+  margin:0 0 10px;
+  font-size:0.95rem;
+  line-height:1.5;
+}
+.write-input{
+  width:100%;
+  padding:9px 11px;
+  border:1px solid var(--line);
+  border-radius:var(--radius);
+  font-family:var(--sans);
+  font-size:0.9rem;
+  resize:vertical;
+  margin-bottom:10px;
+}
+.write-answer{
+  margin:10px 0 0;
+  font-size:0.9rem;
+  color:var(--moss-dark);
+  line-height:1.5;
+}
+
 /* ---------- Highlight popover ---------- */
 .highlight-popover{
   position:fixed;

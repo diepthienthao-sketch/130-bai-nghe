@@ -23,6 +23,7 @@ async function init() {
   wireHighlighting();
   wireShadowControls();
   wireChatPrompt();
+  wireDrillMode();
 
   const hash = decodeURIComponent(location.hash.replace('#', ''));
   const initial = TRACKS.find(t => String(t.track) === hash) || null;
@@ -34,7 +35,7 @@ function cacheEls() {
    'trackWords','clearHighlights','driveIdInput','saveDriveId','playerWrap',
    'transcript','vocabBlock','speakingBlock','search','levelToggle','tabs',
    'shadowModeBtn','highlightPopover','chatLevelToggle','chatPromptBlock',
-   'copyChatPrompt','openChatgpt'
+   'copyChatPrompt','openChatgpt','drillModeToggle','drillArea','writingArea'
   ].forEach(id => els[id] = document.getElementById(id));
 }
 
@@ -111,12 +112,14 @@ function selectTrack(t) {
   loadDriveId(t);
   resetTabs();
   renderChatPrompt(t);
+  renderVocabDrill(t);
+  renderWritingPractice(t);
   els.transcript.classList.remove('shadow-mode');
   els.shadowModeBtn.textContent = '▶ Chế độ Shadowing';
   document.querySelector('.shadow-nav')?.remove();
 }
 
-const TAB_NAMES = ['transcript','vocab','speaking','chatgpt'];
+const TAB_NAMES = ['transcript','vocab','speaking','vocabdrill','writing','chatgpt'];
 
 function resetTabs() {
   els.tabs.querySelectorAll('button').forEach(b => b.classList.toggle('active', b.dataset.tab === 'transcript'));
@@ -448,6 +451,91 @@ Hãy làm theo đúng các bước sau, MỖI LẦN CHỈ HỎI 1 CÂU rồi d�
 Bắt đầu ngay bằng bước 1.`;
 
   els.chatPromptBlock.textContent = prompt;
+}
+
+/* ---------------- Vocabulary-in-context drill ---------------- */
+
+let drillMode = 'flash'; // 'flash' | 'cloze'
+
+function wireDrillMode() {
+  els.drillModeToggle.querySelectorAll('button').forEach(btn => {
+    btn.addEventListener('click', () => {
+      els.drillModeToggle.querySelectorAll('button').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      drillMode = btn.dataset.dmode;
+      if (currentTrack) renderVocabDrill(currentTrack);
+    });
+  });
+}
+
+function escapeReg(s) { return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); }
+
+function renderVocabDrill(t) {
+  const items = t.vocabItems || [];
+  if (!items.length) {
+    els.drillArea.innerHTML = `<p class="drill-empty">Track này chưa trích được từ vựng có câu ví dụ rõ ràng — xem đầy đủ ở tab "Từ vựng".</p>`;
+    return;
+  }
+
+  if (drillMode === 'flash') {
+    els.drillArea.innerHTML = `<div class="flash-grid">${items.map((it, i) => `
+      <button class="flashcard" data-idx="${i}">
+        <span class="fc-face fc-front">
+          <span class="fc-word">${escapeHtml(it.word)}</span>
+          <span class="fc-ipa">${escapeHtml(it.ipa)}</span>
+        </span>
+        <span class="fc-face fc-back" hidden>${escapeHtml(it.context).replace(new RegExp('('+escapeReg(it.word)+')','ig'), '<mark>$1</mark>')}</span>
+      </button>`).join('')}</div>`;
+
+    els.drillArea.querySelectorAll('.flashcard').forEach(card => {
+      card.addEventListener('click', () => {
+        const front = card.querySelector('.fc-front');
+        const back = card.querySelector('.fc-back');
+        const flipped = !back.hidden;
+        front.hidden = !flipped;
+        back.hidden = flipped;
+      });
+    });
+  } else {
+    els.drillArea.innerHTML = `<div class="cloze-list">${items.map((it, i) => {
+      const blanked = it.context.replace(new RegExp(escapeReg(it.word), 'i'), '<span class="blank">_____</span>');
+      return `<div class="cloze-item" data-idx="${i}">
+        <p class="cloze-sentence">${blanked}</p>
+        <button class="ghost-btn reveal-btn" data-idx="${i}">Hiện đáp án</button>
+        <p class="cloze-answer" id="clozeAns${i}" hidden>Đáp án: <strong>${escapeHtml(it.word)}</strong> <span class="fc-ipa">${escapeHtml(it.ipa)}</span></p>
+      </div>`;
+    }).join('')}</div>`;
+
+    els.drillArea.querySelectorAll('.reveal-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        document.getElementById('clozeAns' + btn.dataset.idx).hidden = false;
+      });
+    });
+  }
+}
+
+/* ---------------- Writing practice ---------------- */
+
+function renderWritingPractice(t) {
+  const items = t.vocabItems || [];
+  if (!items.length) {
+    els.writingArea.innerHTML = `<p class="drill-empty">Track này chưa có đủ dữ liệu từ vựng để tạo bài luyện viết — bạn vẫn có thể tự chọn từ ở tab "Từ vựng" và viết câu.</p>`;
+    return;
+  }
+
+  els.writingArea.innerHTML = items.map((it, i) => `
+    <div class="write-item">
+      <p class="write-prompt">${i + 1}. Viết một câu đơn giản có dùng từ: <strong>${escapeHtml(it.word)}</strong> <span class="fc-ipa">${escapeHtml(it.ipa)}</span></p>
+      <textarea class="write-input" rows="2" placeholder="Viết câu của bạn ở đây…" data-idx="${i}"></textarea>
+      <button class="ghost-btn reveal-btn" data-idx="${i}">Xem đáp án mẫu</button>
+      <p class="write-answer" id="writeAns${i}" hidden>Câu mẫu (trích từ bài nghe): <em>“${escapeHtml(it.context)}”</em></p>
+    </div>`).join('');
+
+  els.writingArea.querySelectorAll('.reveal-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.getElementById('writeAns' + btn.dataset.idx).hidden = false;
+    });
+  });
 }
 
 init();

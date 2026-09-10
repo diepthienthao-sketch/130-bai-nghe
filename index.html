@@ -80,6 +80,8 @@
         <button data-tab="transcript" class="active">Transcript</button>
         <button data-tab="vocab">Từ vựng</button>
         <button data-tab="speaking">Speaking</button>
+        <button data-tab="vocabdrill">Ôn từ vựng</button>
+        <button data-tab="writing">Luyện viết câu</button>
         <button data-tab="chatgpt">Luyện nói với AI</button>
       </nav>
 
@@ -97,6 +99,26 @@
 
       <section class="tab-panel" id="panel-speaking" hidden>
         <pre class="raw-block" id="speakingBlock"></pre>
+      </section>
+
+      <section class="tab-panel" id="panel-vocabdrill" hidden>
+        <div class="drill-intro">
+          <h3>Ghi nhớ từ vựng theo ngữ cảnh</h3>
+          <p>Từ vựng của track này, kèm câu ví dụ thật lấy từ chính bài nghe. Bấm thẻ để lật xem câu ví dụ, hoặc chuyển sang chế độ điền từ vào chỗ trống để tự kiểm tra.</p>
+        </div>
+        <div class="drill-mode-toggle" id="drillModeToggle">
+          <button data-dmode="flash" class="active">Thẻ ghi nhớ</button>
+          <button data-dmode="cloze">Điền từ vào câu</button>
+        </div>
+        <div id="drillArea"></div>
+      </section>
+
+      <section class="tab-panel" id="panel-writing" hidden>
+        <div class="drill-intro">
+          <h3>Luyện viết câu đơn giản</h3>
+          <p>Viết một câu tiếng Anh đơn giản có dùng từ gợi ý, rồi bấm "Xem đáp án mẫu" để so sánh với câu thật trong bài nghe. Không cần giống hệt — miễn đúng nghĩa và dùng đúng từ là được.</p>
+        </div>
+        <div id="writingArea"></div>
       </section>
 
       <section class="tab-panel" id="panel-chatgpt" hidden>

@@ -27,6 +27,12 @@ app sẽ chạy tại `https://<username>.github.io/<repo>/`.
   (hoặc Claude, Gemini…) và luyện hội thoại nói trực tiếp, có sửa lỗi và gợi ý
   theo từng lượt trả lời. Bấm "Sao chép prompt" rồi dán vào ChatGPT là dùng
   được ngay.
+- **Ôn từ vựng theo ngữ cảnh** — thẻ ghi nhớ (flashcard) lật để xem câu ví dụ
+  thật trích từ chính bài nghe, hoặc chế độ "Điền từ vào câu" (cloze) để tự
+  kiểm tra trí nhớ trước khi bấm hiện đáp án.
+- **Luyện viết câu** — với mỗi từ vựng mục tiêu, bạn viết một câu đơn giản rồi
+  bấm "Xem đáp án mẫu" để so sánh với câu gốc trong bài nghe (đáp án có sẵn,
+  không cần chấm điểm tự động).
 
 ## Cấu trúc project
 
@@ -123,3 +129,9 @@ hiện có.
 
 `level` được gán tự động theo tỉ lệ từ dài (≥8 ký tự) trong bài — chỉ mang
 tính tham khảo, bạn có thể sửa tay nếu thấy chưa hợp lý.
+
+`vocabItems` (dùng cho tab "Ôn từ vựng" và "Luyện viết câu") được trích tự
+động từ bảng từ vựng gốc và chỉ giữ lại những từ tìm được câu ví dụ khớp
+trong chính transcript — vì vậy mỗi track thường chỉ có 3–11 từ (không phải
+toàn bộ bảng từ vựng đầy đủ, bạn vẫn xem được đầy đủ ở tab "Từ vựng"). Track 34
+hiện chưa có mục nào đạt yêu cầu này.
