@@ -131,7 +131,6 @@ hiện có.
 tính tham khảo, bạn có thể sửa tay nếu thấy chưa hợp lý.
 
 `vocabItems` (dùng cho tab "Ôn từ vựng" và "Luyện viết câu") được trích tự
-động từ bảng từ vựng gốc và chỉ giữ lại những từ tìm được câu ví dụ khớp
-trong chính transcript — vì vậy mỗi track thường chỉ có 3–11 từ (không phải
-toàn bộ bảng từ vựng đầy đủ, bạn vẫn xem được đầy đủ ở tab "Từ vựng"). Track 34
-hiện chưa có mục nào đạt yêu cầu này.
+động từ bảng từ vựng gốc, gồm từ, phiên âm IPA, nghĩa tiếng Việt, và câu ví dụ
+— ưu tiên lấy câu ví dụ thật khớp trong chính transcript, nếu không tìm thấy
+thì dùng câu ví dụ gốc trong bảng từ vựng. Mỗi track có khoảng 9–19 từ.

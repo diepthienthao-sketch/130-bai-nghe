@@ -34,59 +34,118 @@
     "driveFileId": "1RBxSRhSlHRN71LtyRgAL24w02367EBAN",
     "vocabItems": [
       {
+        "word": "Disaster",
+        "ipa": "/dɪˈzɑːstə(r)/",
+        "meaning": "Thảm họa, tai ương",
+        "context": "You cannot always prevent disasters, but you can insure against them."
+      },
+      {
+        "word": "Third-party insurance",
+        "ipa": "/ˌθɜːd ˈpɑːti ɪnˈʃʊərəns/",
+        "meaning": "Bảo hiểm bên thứ ba (trách nhiệm dân sự)",
+        "context": "For example, a driver must take out a third-party insurance policy."
+      },
+      {
+        "word": "Comprehensive policy",
+        "ipa": "/ˌkɒmprɪˈhensɪv ˈpɒləsi/",
+        "meaning": "Gói bảo hiểm toàn diện (hai chiều)",
+        "context": "If you want to insure against all the other terrible things that might happen to you or your car, you can take a comprehensive policy."
+      },
+      {
+        "word": "National insurance",
+        "ipa": "/ˌnæʃnəl ɪnˈʃʊərəns/",
+        "meaning": "Bảo hiểm quốc gia",
+        "context": "Another form of compulsory insurance is national insurance."
+      },
+      {
         "word": "Contribution",
         "ipa": "/ˌkɒntrɪˈbjuːʃn/",
+        "meaning": "Khoản đóng góp, tiền đóng",
         "context": "These weekly contributions cover part of the cost of the National Health Service and the other social service benefits."
       },
       {
         "word": "Benefit",
         "ipa": "/ˈbenɪfɪt/",
+        "meaning": "Phúc lợi, trợ cấp",
         "context": "These weekly contributions cover part of the cost of the National Health Service and the other social service benefits."
       },
       {
-        "word": "Sickness",
+        "word": "Unemployment benefit",
+        "ipa": "/ˌʌnɪmˈplɔɪmənt ˈbenɪfɪt/",
+        "meaning": "Trợ cấp thất nghiệp",
+        "context": "Example, unemployment benefit, sickness benefit, old age pensions, and so on."
+      },
+      {
+        "word": "Sickness benefit",
         "ipa": "/ˈsɪknəs ˈbenɪfɪt/",
+        "meaning": "Trợ cấp ốm đau",
+        "context": "Example, unemployment benefit, sickness benefit, old age pensions, and so on."
+      },
+      {
+        "word": "Old age pension",
+        "ipa": "/ˌəʊld ˈeɪdʒ ˈpenʃn/",
+        "meaning": "Lương hưu",
         "context": "Example, unemployment benefit, sickness benefit, old age pensions, and so on."
       },
       {
         "word": "Burn down",
         "ipa": "/bɜːn daʊn/",
+        "meaning": "Bốc cháy, cháy rụi",
         "context": "Your house may burn down, and you may fall out of the window and break your neck."
       },
       {
         "word": "Prevent",
         "ipa": "/prɪˈvent/",
+        "meaning": "Ngăn chặn, phòng ngừa",
         "context": "You cannot always prevent disasters, but you can insure against them."
       },
       {
-        "word": "Take out",
+        "word": "Insure against (st)",
+        "ipa": "/ɪnˈʃʊər əˈɡenst/",
+        "meaning": "Mua bảo hiểm để đề phòng (rủi ro gì)",
+        "context": "You cannot always prevent disasters, but you can insure against them."
+      },
+      {
+        "word": "Take out (a policy)",
         "ipa": "/teɪk aʊt/",
+        "meaning": "Mua/ký (một hợp đồng bảo hiểm)",
         "context": "For example, a driver must take out a third-party insurance policy."
       },
       {
-        "word": "Have a",
+        "word": "Have a crash",
         "ipa": "/hæv ə kræʃ/",
+        "meaning": "Gặp tai nạn (xe cộ), đâm xe",
         "context": "That means you have to insure."
       },
       {
         "word": "Cover",
         "ipa": "/ˈkʌvə(r)/",
+        "meaning": "Bao gồm, chi trả, bảo vệ khỏi",
         "context": "It doesn't cover fire, theft, or anything else."
       },
       {
         "word": "Protect",
         "ipa": "/prəˈtekt/",
+        "meaning": "Bảo vệ",
         "context": "Its aim is only to protect road users from each other."
       },
       {
         "word": "Voluntary",
         "ipa": "/ˈvɒləntri/",
+        "meaning": "Tự nguyện",
         "context": "Most forms of insurance are voluntary."
       },
       {
         "word": "Compulsory",
         "ipa": "/kəmˈpʌlsəri/",
+        "meaning": "Bắt buộc",
         "context": "But some forms are compulsory."
+      },
+      {
+        "word": "On a regular basis",
+        "ipa": "/ɒn ə ˈreɡjələ ˈbeɪsɪs/",
+        "meaning": "Một cách thường xuyên, đều đặn",
+        "context": "Everybody over 16 earning money on a regular basis must pay a sum each week to the state."
       }
     ]
   },
@@ -124,53 +183,93 @@
     "driveFileId": "1bleuFO632q-S2AXNwonA2XDbuLKpQyPD",
     "vocabItems": [
       {
+        "word": "Mind picture",
+        "ipa": "/maɪnd ˈpɪktʃə(r)/",
+        "meaning": "Hình ảnh trong tâm trí/tiềm thức",
+        "context": "A dream is made up of a series of mind pictures that form during sleep."
+      },
+      {
         "word": "Snowstorm",
         "ipa": "/ˈsnəʊstɔːm/",
+        "meaning": "Cơn bão tuyết",
         "context": "If a person is cold, he may dream that he is out in a snowstorm."
+      },
+      {
+        "word": "Study of human sleep",
+        "ipa": "/ˈstʌdi əv ˈhjuːmən sliːp/",
+        "meaning": "Nghiên cứu về giấc ngủ con người",
+        "context": "Studies of human sleep have shown though that everyone dreams..."
       },
       {
         "word": "Theory",
         "ipa": "/ˈθɪəri/",
+        "meaning": "Thuyết, giả thuyết",
         "context": "One theory is that dreaming gives us a chance to escape from the rules of our real world."
       },
       {
-        "word": "Have",
-        "ipa": "/hæv ˈlɪtl /",
+        "word": "Rules of the real world",
+        "ipa": "/ruːlz əv ðə ˈriːəl wɜːld/",
+        "meaning": "Quy tắc/quy luật của thế giới thực",
+        "context": "One theory is that dreaming gives us a chance to escape from the rules of our real world."
+      },
+      {
+        "word": "Be made up of",
+        "ipa": "/bi meɪd ʌp əv/",
+        "meaning": "Được tạo thành bởi, bao gồm",
+        "context": "A dream is made up of a series of mind pictures..."
+      },
+      {
+        "word": "Have little/no control over",
+        "ipa": "Have little/no control over",
+        "meaning": "/hæv ˈlɪtl / nəʊ kənˈtrəʊl ˈəʊvə(r)/",
         "context": "Studies of human sleep have shown, though, that everyone dreams every night."
+      },
+      {
+        "word": "Be influenced by",
+        "ipa": "/bi ˈɪnfluənst baɪ/",
+        "meaning": "Chịu ảnh hưởng bởi",
+        "context": "Dreams may be influenced by different things that are present during sleep."
       },
       {
         "word": "Wake up",
         "ipa": "/weɪk ʌp/",
+        "meaning": "Thức dậy",
         "context": "If a person thinks he does not dream, it is because he does not remember dreaming when he wakes up."
       },
       {
-        "word": "Escape",
+        "word": "Escape from",
         "ipa": "/ɪˈskeɪp frəm/",
+        "meaning": "Trốn thoát khỏi, giải thoát khỏi",
         "context": "One theory is that dreaming gives us a chance to escape from the rules of our real world."
       },
       {
         "word": "Come true",
         "ipa": "/kʌm truː/",
+        "meaning": "Trở thành sự thật",
         "context": "In dreams, we can see our wishes come true."
       },
       {
         "word": "Asleep",
         "ipa": "/əˈsliːp/",
+        "meaning": "Đang ngủ (trạng thái)",
         "context": "When a person is asleep, he has little or no control over his mind."
       },
       {
         "word": "Seldom",
         "ipa": "/ˈseldəm/",
+        "meaning": "Hiếm khi",
         "context": "Some people think that they seldom dream, and other people are quite sure that they do not dream at all."
       },
       {
         "word": "Powerful",
         "ipa": "/ˈpaʊəfl/",
+        "meaning": "Quyền lực, mạnh mẽ",
         "context": "We can be rich, powerful, and successful."
       },
       {
         "word": "Successful",
         "ipa": "/səkˈsesfl/",
+        "meaning": "Thành công",
         "context": "We can be rich, powerful, and successful."
       }
     ]
@@ -204,27 +303,98 @@
       {
         "word": "Job interview",
         "ipa": "/ˈdʒɒb ˌɪntəvjuː/",
+        "meaning": "Buổi phỏng vấn xin việc",
         "context": "Nowadays, when a person is hunting for a job, there will always be a job interview, through which the interviewee and the interviewer can know about each other."
       },
       {
         "word": "Interviewer",
         "ipa": "/ˈɪntəvjuːə(r)/",
+        "meaning": "Người phỏng vấn (nhà tuyển dụng)",
         "context": "Nowadays, when a person is hunting for a job, there will always be a job interview, through which the interviewee and the interviewer can know about each other."
       },
       {
         "word": "Interviewee",
         "ipa": "/ˌɪntəvjuːˈiː/",
+        "meaning": "Người được phỏng vấn (ứng viên)",
         "context": "Nowadays, when a person is hunting for a job, there will always be a job interview, through which the interviewee and the interviewer can know about each other."
       },
       {
         "word": "Wage",
         "ipa": "/weɪdʒ/",
+        "meaning": "Mức lương, tiền công",
         "context": "During the interview, the interviewer lets the interviewee know something about the job, such as the wage, the working conditions, and chances to get promotion."
       },
       {
-        "word": "Impress",
+        "word": "Working conditions",
+        "ipa": "/ˈwɜːkɪŋ kənˈdɪʃnz/",
+        "meaning": "Điều kiện làm việc",
+        "context": "During the interview, the interviewer lets the interviewee know something about the job, such as the wage, the working conditions, and chances to get promotion."
+      },
+      {
+        "word": "Chance to get promotion",
+        "ipa": "/tʃɑːns tə ɡet prəˈməʊʃn/",
+        "meaning": "Cơ hội thăng tiến",
+        "context": "During the interview, the interviewer lets the interviewee know something about the job, such as the wage, the working conditions, and chances to get promotion."
+      },
+      {
+        "word": "Educational background",
+        "ipa": "/ˌedʒuˈkeɪʃənl ˈbækɡraʊnd/",
+        "meaning": "Trình độ/Nền tảng học vấn",
+        "context": "He can tell the interviewer in person about his educational background or his working experience."
+      },
+      {
+        "word": "Working experience",
+        "ipa": "/ˈwɜːkɪŋ ɪkˈspɪəriəns/",
+        "meaning": "Kinh nghiệm làm việc",
+        "context": "He can tell the interviewer in person about his educational background or his working experience."
+      },
+      {
+        "word": "Hunt for a job",
+        "ipa": "/hʌnt fər ə dʒɒb/",
+        "meaning": "Tìm kiếm việc làm",
+        "context": "Nowadays, when a person is hunting for a job, there will always be a job interview, through which the interviewee and the interviewer can know about each other."
+      },
+      {
+        "word": "Impress (sb)",
         "ipa": "/ɪmˈpres/",
+        "meaning": "Gây ấn tượng (với ai)",
         "context": "Besides, the job interview is also a good chance for the interviewee, because he can impress the interviewer by showing both his ability and his confidence."
+      },
+      {
+        "word": "Figure out",
+        "ipa": "/ˈfɪɡər aʊt/",
+        "meaning": "Tìm ra, nhận ra, xác định",
+        "context": "Thus, the interviewer can figure out whether he is the right person for the job."
+      },
+      {
+        "word": "Do good to (sb/st)",
+        "ipa": "Do good to (sb/st)",
+        "meaning": "/duː ɡʊd tuː/",
+        "context": "Có lợi, mang lại điều tốt cho"
+      },
+      {
+        "word": "Make the best of",
+        "ipa": "/meɪk ðə best əv/",
+        "meaning": "Tận dụng tối đa",
+        "context": "By means of interview, the interviewee can find a good job and the interviewer can find a suitable person if both of them make the best of the job interview."
+      },
+      {
+        "word": "Suitable for (sb/st)",
+        "ipa": "Suitable for (sb/st)",
+        "meaning": "/ˈsuːtəbl fə(r)/",
+        "context": "Then, the interviewee can decide whether the job is really suitable for him."
+      },
+      {
+        "word": "In person",
+        "ipa": "/ɪn ˈpɜːsn/",
+        "meaning": "Trực tiếp (mặt đối mặt)",
+        "context": "He can tell the interviewer in person about his educational background or his working experience."
+      },
+      {
+        "word": "By means of",
+        "ipa": "/baɪ miːnz əv/",
+        "meaning": "Bằng phương cách, bằng việc",
+        "context": "By means of interview, the interviewee can find a good job and the interviewer can find a suitable person if both of them make the best of the job interview."
       }
     ]
   },
@@ -282,12 +452,86 @@
       {
         "word": "Career",
         "ipa": "/kəˈrɪə(r)/",
+        "meaning": "Sự nghiệp, nghề nghiệp",
         "context": "Black: Has your son chosen his career yet, Mrs."
+      },
+      {
+        "word": "Mechanical engineer",
+        "ipa": "/məˌkænɪkl ˌendʒɪˈnɪə(r)/",
+        "meaning": "Kỹ sư cơ khí",
+        "context": "A mechanical engineer like my husband?"
+      },
+      {
+        "word": "Civil engineering",
+        "ipa": "/ˌsɪvl ˌendʒɪˈnɪərɪŋ/",
+        "meaning": "Ngành kỹ thuật dân dụng / xây dựng",
+        "context": "Young: Oh no, Patrick is taking a general course on civil engineering at the university."
       },
       {
         "word": "Water supply",
         "ipa": "/ˈwɔːtə səplaɪ/",
+        "meaning": "Việc/Hệ thống cấp nước",
         "context": "When he's finished the course, he'll take a special course on water-supply."
+      },
+      {
+        "word": "Opportunity",
+        "ipa": "/ˌɒpəˈtjuːnəti/",
+        "meaning": "Cơ hội",
+        "context": "There are a lot of opportunities for water supply engineers."
+      },
+      {
+        "word": "Underdeveloped country",
+        "ipa": "/ˌʌndədɪˈveləpt ˈkʌntri/",
+        "meaning": "Quốc gia chậm phát triển",
+        "context": "There are a lot of opportunities for water-supply engineers, especially in underdeveloped countries."
+      },
+      {
+        "word": "Make up one's mind",
+        "ipa": "/meɪk ʌp wʌnz maɪnd/",
+        "meaning": "Quyết định (đã đưa ra lựa chọn)",
+        "context": "But he isn't going to make them."
+      },
+      {
+        "word": "Take a course",
+        "ipa": "/teɪk ə kɔːs/",
+        "meaning": "Tham gia một khóa học",
+        "context": "When he's finished the course, he'll take a special course on water-supply."
+      },
+      {
+        "word": "Intend to (do sth)",
+        "ipa": "/ɪnˈtend tuː/",
+        "meaning": "Có ý định (làm gì)",
+        "context": "Does he intend to go abroad?"
+      },
+      {
+        "word": "Go abroad",
+        "ipa": "/ɡəʊ əˈbrɔːd/",
+        "meaning": "Đi ra nước ngoài",
+        "context": "Does he intend to go abroad?"
+      },
+      {
+        "word": "Take a job",
+        "ipa": "/teɪk ə dʒɒb/",
+        "meaning": "Nhận/Làm một công việc",
+        "context": "Young: Oh yes, when he's finished his education, perhaps he'll take a job abroad."
+      },
+      {
+        "word": "General course",
+        "ipa": "/ˈdʒenrəl kɔːs/",
+        "meaning": "Khóa học đại cương/tổng quát",
+        "context": "Young: Oh no, Patrick is taking a general course on civil engineering at the university."
+      },
+      {
+        "word": "Special course",
+        "ipa": "/ˈspeʃl kɔːs/",
+        "meaning": "Khóa học chuyên sâu/chuyên ngành",
+        "context": "When he's finished the course, he'll take a special course on water-supply."
+      },
+      {
+        "word": "Hard life",
+        "ipa": "/hɑːd laɪf/",
+        "meaning": "Cuộc sống vất vả",
+        "context": "He's seen the hard life of a doctor."
       }
     ]
   },
@@ -323,52 +567,110 @@
       {
         "word": "Profession",
         "ipa": "/prəˈfeʃn/",
+        "meaning": "Nghề nghiệp (cần chuyên môn cao)",
         "context": "They claim that they know their children well enough to decide what kind of job suits them, hoping that their children will go in for professions that will bring them the greatest prestige and economic benefit, many parents think that their children are too young to see this for themselves."
       },
       {
         "word": "Prestige",
         "ipa": "/preˈstiːʒ/",
+        "meaning": "Uy tín, thế lực, sự danh giá",
         "context": "They claim that they know their children well enough to decide what kind of job suits them, hoping that their children will go in for professions that will bring them the greatest prestige and economic benefit, many parents think that their children are too young to see this for themselves."
+      },
+      {
+        "word": "Economic benefit",
+        "ipa": "/ˌiːkəˈnɒmɪk ˈbenɪfɪt/",
+        "meaning": "Lợi ích kinh tế (thu nhập tốt)",
+        "context": "They claim that they know their children well enough to decide what kind of job suits them, hoping that their children will go in for professions that will bring them the greatest prestige and economic benefit, many parents think that their children are too young to see this for themselves."
+      },
+      {
+        "word": "Spirit of independence",
+        "ipa": "/ˈspɪrɪt əv ˌɪndɪˈpendəns/",
+        "meaning": "Tinh thần tự lập",
+        "context": "For another, children have been brought up in a different age from their parents, and therefore they should be allowed to cultivate a spirit of independence and self-reliance."
+      },
+      {
+        "word": "Self-reliance",
+        "ipa": "/ˌself rɪˈlaɪəns/",
+        "meaning": "Sự tự lực, không phụ thuộc",
+        "context": "For another, children have been brought up in a different age from their parents, and therefore they should be allowed to cultivate a spirit of independence and self-reliance."
+      },
+      {
+        "word": "Mutual understanding",
+        "ipa": "/ˈmjuːtʃuəl ˌʌndəˈstændɪŋ/",
+        "meaning": "Sự thấu hiểu lẫn nhau",
+        "context": "In my opinion, in this case, as in many other things, Mutual understanding is important."
       },
       {
         "word": "Well-being",
         "ipa": "/ˌwel ˈbiːɪŋ/",
+        "meaning": "Mức độ hạnh phúc, sự bình an",
         "context": "On the one hand, parents' view does reflect their concern for the well-being of their children."
+      },
+      {
+        "word": "Go in for",
+        "ipa": "/ɡəʊ ɪn fɔː(r)/",
+        "meaning": "Theo đuổi, chọn (ngành/nghề)",
+        "context": "They claim that they know their children well enough to decide what kind of job suits them, hoping that their children will go in for professions that will bring them the greatest prestige and economic benefit, many parents think that their children are too young to see this for themselves."
+      },
+      {
+        "word": "Take over",
+        "ipa": "/teɪk ˈəʊvə(r)/",
+        "meaning": "Tiếp quản, nối nghiệp",
+        "context": "There are some parents who even expect their children to take over the careers of their fathers."
       },
       {
         "word": "Insist that",
         "ipa": "/ɪnˈsɪst ðæt/",
+        "meaning": "Khăng khăng, nhất quyết rằng",
         "context": "For these reasons, many parents insist that their children should obey them in choosing careers."
       },
       {
-        "word": "Share the",
-        "ipa": "/      /",
+        "word": "Share the same interest",
+        "ipa": "/ʃeə ðə seɪm ˈɪntrest/",
+        "meaning": "Có cùng sở thích / mối quan tâm",
         "context": "For one thing, parents and children may not share the same interest."
       },
       {
-        "word": "Appeal to",
+        "word": "Appeal to (sb)",
         "ipa": "/əˈpiːl tuː/",
+        "meaning": "Hấp dẫn, lôi cuốn (ai)",
         "context": "A job that appeals to parents is likely to be boring for their children."
       },
       {
         "word": "Bring up",
         "ipa": "/brɪŋ ʌp/",
+        "meaning": "Nuôi nấng, dạy dỗ",
         "context": "They claim that they know their children well enough to decide what kind of job suits them, hoping that their children will go in for professions that will bring them the greatest prestige and economic benefit, many parents think that their children are too young to see this for themselves."
       },
       {
         "word": "Cultivate",
         "ipa": "/ˈkʌltɪveɪt/",
+        "meaning": "Trau dồi, nuôi dưỡng (tính cách, kỹ năng)",
         "context": "For another, children have been brought up in a different age from their parents, and therefore they should be allowed to cultivate a spirit of independence and self-reliance."
       },
       {
         "word": "Consult",
         "ipa": "/kənˈsʌlt/",
+        "meaning": "Thảo luận, xin ý kiến, tham vấn",
         "context": "Therefore, it will be wise for parents to give them this freedom while children should consult their parents when it is necessary."
       },
       {
         "word": "Suit (sb)",
         "ipa": "/suːt/",
+        "meaning": "Phù hợp với (ai)",
         "context": "They claim that they know their children well enough to decide what kind of job suits them, hoping that their children will go in for professions that will bring them the greatest prestige and economic benefit, many parents think that their children are too young to see this for themselves."
+      },
+      {
+        "word": "Be left free to (do sth)",
+        "ipa": "/bi left friː tuː/",
+        "meaning": "Được tự do (làm gì)",
+        "context": "...they should be left free to choose their own careers."
+      },
+      {
+        "word": "On the one hand... On the other hand...",
+        "ipa": "/ɒn ðə wʌn hænd ... ɒn ði ˈʌðə hænd/",
+        "meaning": "Một mặt thì... Mặt khác thì...",
+        "context": "On the one hand, parents' view does reflect... On the other hand, after all, it is children who..."
       }
     ]
   },
@@ -395,38 +697,99 @@
     "driveFileId": "14jSsM9MJYrwO_bbhQchsiYxk1Jwdw5pN",
     "vocabItems": [
       {
-        "word": "Job applicant",
-        "ipa": "/ Job /",
+        "word": "Job applicant / Job seeker",
+        "ipa": "Job applicant / Job seeker",
+        "meaning": "/dʒɒb ˈæplɪkənt/ / /dʒɒb ˈsiːkə(r)/",
+        "context": "To be successful in a job interview, the applicant should show certain personal and professional qualities."
+      },
+      {
+        "word": "Lasting impression",
+        "ipa": "/ˈlɑːstɪŋ ɪmˈpreʃn/",
+        "meaning": "Ấn tượng sâu sắc, khó phai",
         "context": "In as much as the first and often lasting impression of a person is decided by the clothes he wears, the job applicant should take care to appear well-groomed and modestly dressed, avoiding the extremes of too elaborate or too casual."
       },
       {
-        "word": "Pay attention",
-        "ipa": "/peɪ əˈtenʃn tuː/",
+        "word": "Personal appearance",
+        "ipa": "/ˈpɜːsənl əˈpɪərəns/",
+        "meaning": "Diện mạo cá nhân, vẻ bề ngoài",
         "context": "Besides care for personal appearance, he should pay attention to his manner of speaking, which should be neither ostentatious nor familiar, but rather straightforward, accurate, and friendly."
       },
       {
-        "word": "Be prepared to",
-        "ipa": "/bi prɪˈpeəd tuː/",
+        "word": "Manner of speaking",
+        "ipa": "/ˈmænər əv ˈspiːkɪŋ/",
+        "meaning": "Cách nói chuyện, phong thái giao tiếp",
+        "context": "Besides care for personal appearance, he should pay attention to his manner of speaking, which should be neither ostentatious nor familiar, but rather straightforward, accurate, and friendly."
+      },
+      {
+        "word": "Professional experience",
+        "ipa": "/prəˈfeʃənl ɪkˈspɪəriəns/",
+        "meaning": "Kinh nghiệm chuyên môn",
         "context": "In addition, he should be prepared to talk knowledgeably about the requirements of the position for which he is applying in relation to his own professional experience and interests."
       },
       {
-        "word": "Convey a sense",
-        "ipa": "/kənˈveɪ ə sens əv/",
+        "word": "Self-confidence",
+        "ipa": "/ˌself ˈkɒnfɪdəns/",
+        "meaning": "Sự tự tin",
         "context": "And finally, the really impressive applicant must convey a sense of self-confidence and enthusiasm for work, factors which all interviewers value highly."
+      },
+      {
+        "word": "Enthusiasm for work",
+        "ipa": "/ɪnˈθjuːziæzəm fər wɜːk/",
+        "meaning": "Sự nhiệt huyết / hào hứng với công việc",
+        "context": "And finally, the really impressive applicant must convey a sense of self-confidence and enthusiasm for work, factors which all interviewers value highly."
+      },
+      {
+        "word": "Pay attention to",
+        "ipa": "/peɪ əˈtenʃn tuː/",
+        "meaning": "Chú ý đến",
+        "context": "Besides care for personal appearance, he should pay attention to his manner of speaking, which should be neither ostentatious nor familiar, but rather straightforward, accurate, and friendly."
+      },
+      {
+        "word": "Be prepared to (do sth)",
+        "ipa": "/bi prɪˈpeəd tuː/",
+        "meaning": "Sẵn sàng (làm gì)",
+        "context": "...he should be prepared to talk knowledgeably..."
+      },
+      {
+        "word": "Talk knowledgeably about",
+        "ipa": "/tɔːk ˈnɒlɪdʒəbli əˈbaʊt/",
+        "meaning": "Nói một cách am hiểu về",
+        "context": "In addition, he should be prepared to talk knowledgeably about the requirements of the position for which he is applying in relation to his own professional experience and interests."
+      },
+      {
+        "word": "Convey a sense of",
+        "ipa": "/kənˈveɪ ə sens əv/",
+        "meaning": "Truyền tải / Thể hiện cảm giác",
+        "context": "And finally, the really impressive applicant must convey a sense of self-confidence and enthusiasm for work, factors which all interviewers value highly."
+      },
+      {
+        "word": "Display characteristics",
+        "ipa": "/dɪˈspleɪ ˌkærəktəˈrɪstɪks/",
+        "meaning": "Thể hiện các đặc điểm / phẩm chất",
+        "context": "The job seeker who displays these characteristics, with just a little luck, will certainly succeed in the typical personnel interview."
+      },
+      {
+        "word": "Well-groomed",
+        "ipa": "/ˌwel ˈɡruːmd/",
+        "meaning": "Dáng vẻ chỉn chu, gọn gàng",
+        "context": "In as much as the first and often lasting impression of a person is decided by the clothes he wears, the job applicant should take care to appear well-groomed and modestly dressed, avoiding the extremes of too elaborate or too casual."
       },
       {
         "word": "Modestly dressed",
         "ipa": "/ˈmɒdɪstli drest/",
+        "meaning": "Ăn mặc lịch sự, nhã nhặn",
         "context": "In as much as the first and often lasting impression of a person is decided by the clothes he wears, the job applicant should take care to appear well-groomed and modestly dressed, avoiding the extremes of too elaborate or too casual."
       },
       {
         "word": "Straightforward",
         "ipa": "/ˌstreɪtˈfɔːwəd/",
+        "meaning": "Thẳng thắn, rõ ràng",
         "context": "Besides care for personal appearance, he should pay attention to his manner of speaking, which should be neither ostentatious nor familiar, but rather straightforward, accurate, and friendly."
       },
       {
         "word": "Impressive",
         "ipa": "/ɪmˈpresɪv/",
+        "meaning": "Gây ấn tượng mạnh",
         "context": "And finally, the really impressive applicant must convey a sense of self-confidence and enthusiasm for work, factors which all interviewers value highly."
       }
     ]
@@ -470,39 +833,94 @@
     "driveFileId": "1kvM0ONjOwQRFS6KP-2PutVgLDYWqYqSh",
     "vocabItems": [
       {
-        "word": "Middle kid",
-        "ipa": "/  /",
+        "word": "Middle kid / child",
+        "ipa": "Middle kid / child",
+        "meaning": "/ˈmɪdl kɪd/",
         "context": "With 6 people in my family, it's not fun being the middle kid."
+      },
+      {
+        "word": "Eldest brother",
+        "ipa": "/ˈeldɪst ˈbrʌðə(r)/",
+        "meaning": "Anh cả",
+        "context": "Chang Han is my eldest brother."
       },
       {
         "word": "Freshman",
         "ipa": "/ˈfreʃmən/",
+        "meaning": "Sinh viên năm nhất",
         "context": "He is only a freshman, but he is really good."
       },
       {
         "word": "Junior",
         "ipa": "/ˈdʒuːniə(r)/",
+        "meaning": "Sinh viên năm ba",
         "context": "He is a junior in a university now."
       },
       {
         "word": "Senior",
         "ipa": "/ˈsiːniə(r)/",
+        "meaning": "Học sinh/Sinh viên năm cuối",
         "context": "I'm only a senior in high school."
       },
       {
-        "word": "Whiz at",
+        "word": "Whiz at (sth)",
         "ipa": "/wɪz æt/",
+        "meaning": "Người cực giỏi / \"Thần đồng\" về cái gì",
         "context": "My second elder brother is a whiz at math."
+      },
+      {
+        "word": "Chemistry major",
+        "ipa": "/ˈkemɪstri ˈmeɪdʒə(r)/",
+        "meaning": "Sinh viên chuyên ngành Hóa học",
+        "context": "Since I'm going to be a chemistry major in college, I sometimes need his help with my homework."
       },
       {
         "word": "Housework",
         "ipa": "/ˈhaʊswɜːk/",
+        "meaning": "Việc nhà",
         "context": "We all try to help with the housework."
       },
       {
-        "word": "Boss",
-        "ipa": "/bɒs/",
+        "word": "Have one's nose in a book",
+        "ipa": "/hæv wʌnz nəʊz ɪn ə bʊk/",
+        "meaning": "Luôn dán mắt vào sách (chăm đọc sách)",
+        "context": "Besides Mom and Dad, I have 2 older brothers and a pretty sister."
+      },
+      {
+        "word": "Make the slightest noise",
+        "ipa": "/meɪk ðə ˈslaɪtɪst nɔɪz/",
+        "meaning": "Tạo ra tiếng động dù là nhỏ nhất",
+        "context": "When he is at home, he has his nose in a book and yells at me if I make the slightest noise."
+      },
+      {
+        "word": "Get pushed around",
+        "ipa": "/ɡet pʊʃt əˈraʊnd/",
+        "meaning": "Bị bắt nạt / Bị sai bảo",
         "context": "I'm just young enough to get pushed around by my big brothers and not old enough yet to boss my younger sister."
+      },
+      {
+        "word": "Boss (someone)",
+        "ipa": "/bɒs/",
+        "meaning": "Sai bảo, chỉ tay 5 ngón với ai",
+        "context": "I'm just young enough to get pushed around by my big brothers and not old enough yet to boss my younger sister."
+      },
+      {
+        "word": "Be proud of",
+        "ipa": "/bi praʊd əv/",
+        "meaning": "Tự hào về",
+        "context": "I'm proud of all of them."
+      },
+      {
+        "word": "Be good at (V-ing/N)",
+        "ipa": "Be good at (V-ing/N)",
+        "meaning": "/bi ɡʊd æt/",
+        "context": "Giỏi làm việc gì"
+      },
+      {
+        "word": "Cannot complain too much",
+        "ipa": "/ˈkænɒt kəmˈpleɪn tuː mʌtʃ/",
+        "meaning": "Không thể phàn nàn quá nhiều (hài lòng với hiện tại)",
+        "context": "However, I cannot complain too much."
       }
     ]
   },
@@ -542,21 +960,85 @@
       {
         "word": "Pain-free life",
         "ipa": "/peɪn friː laɪf/",
+        "meaning": "Cuộc sống không có đau khổ / khó khăn",
         "context": "The way people hold to the belief that a fun-filled, pain-free life equals happiness actually reduces their chances of ever attaining real happiness."
+      },
+      {
+        "word": "Professional achievement",
+        "ipa": "/prəˈfeʃənl əˈtʃiːvmənt/",
+        "meaning": "Thành tựu nghề nghiệp / sự nghiệp",
+        "context": "They fear the pain inevitably brought by such things as marriage, raising children, professional achievement, religious commitment, self-improvement."
+      },
+      {
+        "word": "Self-improvement",
+        "ipa": "/ˌself ɪmˈpruːvmənt/",
+        "meaning": "Sự tự hoàn thiện / phát triển bản thân",
+        "context": "They fear the pain inevitably brought by such things as marriage, raising children, professional achievement, religious commitment, self-improvement."
       },
       {
         "word": "Bachelor",
         "ipa": "/ˈbætʃələ(r)/",
+        "meaning": "Người đàn ông độc thân",
         "context": "Ask a bachelor why he resists marriage even though he finds dating to be less and less satisfying."
+      },
+      {
+        "word": "Distinguishing feature",
+        "ipa": "/dɪˈstɪŋɡwɪʃɪŋ ˈfiːtʃə(r)/",
+        "meaning": "Đặc điểm nhận dạng / nét đặc trưng",
+        "context": "Marriage has such moments, but they are not its most distinguishing features."
+      },
+      {
+        "word": "Liberating realization",
+        "ipa": "/ˈlɪbəreɪtɪŋ ˌriːəlaɪˈzeɪʃn/",
+        "meaning": "Sự nhận thức mang lại cảm giác giải thoát / khai sáng",
+        "context": "Understanding and accepting that true happiness has nothing to do with fun is one of the most liberating realizations."
       },
       {
         "word": "Envy",
         "ipa": "/ˈenvi/",
+        "meaning": "Sự đố kỵ, ghen tị",
         "context": "It liberates us from envy: we now understand that all those who are always having so much fun actually may not be happy at all."
+      },
+      {
+        "word": "Hold to the belief (that)",
+        "ipa": "/həʊld tuː ðə bɪˈliːf/",
+        "meaning": "Tin rằng, giữ niềm tin rằng",
+        "context": "The way people hold to the belief that a fun-filled, pain-free life equals happiness actually reduces their chances of ever attaining real happiness."
+      },
+      {
+        "word": "Attain real happiness",
+        "ipa": "/əˈteɪn rɪəl ˈhæpɪnəs/",
+        "meaning": "Đạt được hạnh phúc thực sự",
+        "context": "The way people hold to the belief that a fun-filled, pain-free life equals happiness actually reduces their chances of ever attaining real happiness."
+      },
+      {
+        "word": "Avoid the attempts",
+        "ipa": "/əˈvɔɪd ði əˈtempts/",
+        "meaning": "Tránh né những nỗ lực / cố gắng",
+        "context": "As a result, many people avoid the very attempts that are the source of true happiness."
+      },
+      {
+        "word": "Make a commitment",
+        "ipa": "/meɪk ə kəˈmɪtmənt/",
+        "meaning": "Thực hiện sự cam kết / gắn bó",
+        "context": "...afraid of making a commitment."
+      },
+      {
+        "word": "Liberate (sb) from (st)",
+        "ipa": "/ˈlɪbəreɪt frəm/",
+        "meaning": "Giải phóng / Giải thoát (ai) khỏi (cái gì)",
+        "context": "It liberates us from envy: we now understand that all those who are always having so much fun actually may not be happy at all."
+      },
+      {
+        "word": "More often than not",
+        "ipa": "/mɔːr ˈɒfn ðən nɒt/",
+        "meaning": "Thường xuyên, hầu như luôn luôn",
+        "context": "If fun and pleasure are: more equal to happiness, then pain must be equal to unhappiness."
       },
       {
         "word": "Inevitably",
         "ipa": "/ɪnˈevɪtəbli/",
+        "meaning": "Một cách tất yếu, không thể tránh khỏi",
         "context": "They fear the pain inevitably brought by such things as marriage, raising children, professional achievement, religious commitment, self-improvement."
       }
     ]
@@ -591,48 +1073,81 @@
     "driveFileId": "1Vm76T5wClEwpP-x91oOVeeMElcNgu3j2",
     "vocabItems": [
       {
+        "word": "Warm colors",
+        "ipa": "/wɔːm ˈkʌləz/",
+        "meaning": "Gam màu nóng (đỏ, cam, vàng)",
+        "context": "In general, people talk about two groups of colors: warm colors and cool colors."
+      },
+      {
+        "word": "Cool colors",
+        "ipa": "/kuːl ˈkʌləz/",
+        "meaning": "Gam màu lạnh (xanh lá, xanh dương, tím)",
+        "context": "In general, people talk about two groups of colors: warm colors and cool colors."
+      },
+      {
+        "word": "Sociable people",
+        "ipa": "/ˈsəʊʃəbl ˈpiːpl/",
+        "meaning": "Những người cởi mở, hòa đồng",
+        "context": "Sociable people, those who like to be with others, like red."
+      },
+      {
         "word": "Sunlight",
         "ipa": "/ˈsʌnlaɪt/",
+        "meaning": "Ánh sáng mặt trời, ánh nắng",
         "context": "Because in the north the sun is low during winter, the sunlight appears quite blue."
       },
       {
         "word": "Violet",
         "ipa": "/ˈvaɪələt/",
+        "meaning": "Màu tím (màu hoa violet)",
         "context": "The cool colors are green, blue, and violet."
       },
       {
         "word": "Prefer",
         "ipa": "/prɪˈfɜː(r)/",
+        "meaning": "Thích hơn, ưu tiên chọn",
         "context": "Researchers think that there are also two groups of people: people who prefer warm colors and people who prefer cool colors."
       },
       {
-        "word": "Remind",
+        "word": "Spend time alone",
+        "ipa": "/spend taɪm əˈləʊn/",
+        "meaning": "Dành thời gian ở một mình",
+        "context": "People who like to spend time alone often prefer blue."
+      },
+      {
+        "word": "Remind (sb) of (st)",
         "ipa": "/rɪˈmaɪnd əv/",
+        "meaning": "Gợi nhớ cho (ai) về (cái gì)",
         "context": "Perhaps warm colors remind people of warm days and the cool colors remind them of cool days."
       },
       {
         "word": "Appear",
         "ipa": "/əˈpɪə(r)/",
+        "meaning": "Trông có vẻ, xuất hiện",
         "context": "Because in the north the sun is low during winter, the sunlight appears quite blue."
       },
       {
         "word": "In general",
         "ipa": "/ɪn ˈdʒenrəl/",
+        "meaning": "Nhìn chung, nói chung",
         "context": "In general, people talk about two groups of colors: warm colors and cool colors."
       },
       {
         "word": "Active",
         "ipa": "/ˈæktɪv/",
+        "meaning": "Năng động, chủ động",
         "context": "Where there are warm colors and a lot of light, people usually want to be active."
       },
       {
         "word": "Relaxing",
         "ipa": "/rɪˈlæksɪŋ/",
+        "meaning": "Mang lại cảm giác thư thái, dễ chịu",
         "context": "These colors, unlike warm colors, are relaxing."
       },
       {
         "word": "Unlike",
         "ipa": "/ʌnˈlaɪk/",
+        "meaning": "Khác với, không giống như",
         "context": "These colors, unlike warm colors, are relaxing."
       }
     ]
@@ -670,24 +1185,82 @@
     "driveFileId": "1eykJVXit0o2KFVEaWI6YxyYSTjcqNusp",
     "vocabItems": [
       {
-        "word": "Physical",
-        "ipa": "/     /",
+        "word": "Physical exercise",
+        "ipa": "/ˌfɪzɪkl ˈeksəsaɪz/",
+        "meaning": "Bài tập thể dục / Hoạt động thể chất",
         "context": "More and more people today are realizing the importance of regular physical exercise."
+      },
+      {
+        "word": "Physical labor",
+        "ipa": "/ˌfɪzɪkl ˈleɪbə(r)/",
+        "meaning": "Lao động chân tay",
+        "context": "In the past, most people's work involved physical labor out in the fresh air of the fields."
+      },
+      {
+        "word": "Competitive sport",
+        "ipa": "/kəmˈpetətɪv spɔːt/",
+        "meaning": "Môn thể thao có tính cạnh tranh / đối kháng",
+        "context": "Some people enjoy competitive sports and play with others who share their interest."
       },
       {
         "word": "Workplace",
         "ipa": "/ˈwɜːkpleɪs/",
+        "meaning": "Nơi làm việc",
         "context": "In parks and workplaces, you can see them learning and practicing qigong or taijiquan, developing their skill in these sports as well as improving their health."
       },
       {
-        "word": "Suit",
-        "ipa": "/      /",
+        "word": "Realize the importance of",
+        "ipa": "/ˈrɪəlaɪz ðə ɪmˈpɔːtns əv/",
+        "meaning": "Nhận ra tầm quan trọng của",
+        "context": "More and more people today are realizing the importance of..."
+      },
+      {
+        "word": "Provide (sb) with (st)",
+        "ipa": "/prəˈvaɪd wɪð/",
+        "meaning": "Cung cấp cho ai cái gì",
+        "context": "Their daily lives do not provide them with the exercise their bodies need."
+      },
+      {
+        "word": "Suit different tastes",
+        "ipa": "/suːt ˈdɪfrənt teɪsts/",
+        "meaning": "Phù hợp với nhiều sở thích / gu khác nhau",
         "context": "There are many different forms of physical exercise to suit different tastes."
+      },
+      {
+        "word": "Share an interest",
+        "ipa": "/ʃeər ən ˈɪntrest/",
+        "meaning": "Có cùng sở thích",
+        "context": "Some people enjoy competitive sports and play with others who share their interest."
+      },
+      {
+        "word": "Do (sb) more harm than good",
+        "ipa": "/duː mɔː hɑːm ðən ɡʊd/",
+        "meaning": "Gây hại nhiều hơn có lợi cho ai",
+        "context": "...an exercise which might do them more harm than good."
+      },
+      {
+        "word": "Improve health",
+        "ipa": "/ɪmˈpruːv helθ/",
+        "meaning": "Cải thiện sức khỏe",
+        "context": "Whatever people may choose, if they exercise regularly, they will be sure to improve health throughout their lives."
+      },
+      {
+        "word": "Regular",
+        "ipa": "/ˈreɡjələ(r)/",
+        "meaning": "Đều đặn, thường xuyên",
+        "context": "More and more people today are realizing the importance of regular physical exercise."
       },
       {
         "word": "Traditional",
         "ipa": "/trəˈdɪʃənl/",
+        "meaning": "Truyền thống",
         "context": "The traditional forms of exercise are chosen by many."
+      },
+      {
+        "word": "Throughout one's life",
+        "ipa": "/θruːˈaʊt wʌnz laɪf/",
+        "meaning": "Trong suốt cuộc đời (của ai)",
+        "context": "Whatever people may choose, if they exercise regularly, they will be sure to improve health throughout their lives."
       }
     ]
   },
@@ -724,22 +1297,56 @@
       {
         "word": "Teenager",
         "ipa": "/ˈtiːneɪdʒə(r)/",
+        "meaning": "Thanh thiếu niên (13-19 tuổi)",
         "context": "Others are teenagers."
       },
       {
         "word": "Adult",
         "ipa": "/ˈædʌlt/",
+        "meaning": "Người trưởng thành / Người lớn",
         "context": "Many are adults."
       },
       {
-        "word": "Higher",
+        "word": "Higher studies",
         "ipa": "/ˈhaɪə ˈstʌdiz/",
+        "meaning": "Việc học ở bậc cao hơn (Cao đẳng/Đại học)",
         "context": "Teenagers often learn English for their higher studies because some of their books are in English at the college or university."
       },
       {
-        "word": "School",
+        "word": "School subject",
         "ipa": "/skuːl ˈsʌbdʒɪkt/",
+        "meaning": "Môn học ở trường",
         "context": "Some learn at school."
+      },
+      {
+        "word": "Study by oneself",
+        "ipa": "/ˈstʌdi baɪ wʌnˈself/",
+        "meaning": "Tự học",
+        "context": "Others study by themselves."
+      },
+      {
+        "word": "Learn by hearing",
+        "ipa": "/lɜːn baɪ ˈhɪərɪŋ/",
+        "meaning": "Học bằng cách nghe (thụ động)",
+        "context": "Every year, people in many countries learn English."
+      },
+      {
+        "word": "Work hard",
+        "ipa": "/wɜːk hɑːd/",
+        "meaning": "Học tập/Làm việc chăm chỉ",
+        "context": "Most people must work hard to learn English."
+      },
+      {
+        "word": "Be lucky enough to (do sth)",
+        "ipa": "/bi ˈlʌki ɪˈnʌf tuː/",
+        "meaning": "Đủ may mắn để làm gì",
+        "context": "But not many are lucky enough to do that."
+      },
+      {
+        "word": "Be useful for (st/V-ing)",
+        "ipa": "Be useful for (st/V-ing)",
+        "meaning": "/bi ˈjuːsfl fə(r)/",
+        "context": "Hữu ích cho cái gì"
       }
     ]
   },
@@ -770,19 +1377,82 @@
     "driveFileId": "1bsFChWNDoJqLjO2TIF1lT_Xjn_J6Nh4D",
     "vocabItems": [
       {
-        "word": "Nerve-wracking",
-        "ipa": "/        /",
+        "word": "Mental disease",
+        "ipa": "/ˈmentl dɪˈziːz/",
+        "meaning": "Bệnh tâm thần / tổn hại sức khỏe thần kinh",
+        "context": "In the past, noise was rarely associated with pollution, but recently it is found that many mental diseases are closely related to noise."
+      },
+      {
+        "word": "Tranquil leisure time",
+        "ipa": "/ˈtræŋkwɪl ˈleʒə taɪm/",
+        "meaning": "Thời gian rảnh rỗi yên bình, tĩnh lặng",
+        "context": "Especially in big cities, it is almost a dream to enjoy a short period of noiseless, tranquil leisure time, except at dawn or in the depth of night."
+      },
+      {
+        "word": "Bustling crowd",
+        "ipa": "/ˈbʌslɪŋ kraʊd/",
+        "meaning": "Đám đông nhộn nhịp / hối hả",
         "context": "Whistling vehicles, bustling crowds of people, untiring loudspeakers of various stores, and lots of others, produce nerve-wracking noise."
       },
       {
-        "word": "Think",
+        "word": "Nerve-wracking noise",
+        "ipa": "/ˈnɜːv rækɪŋ nɔɪz/",
+        "meaning": "Tiếng ồn nhức óc / căng thẳng thần kinh",
+        "context": "Whistling vehicles, bustling crowds of people, untiring loudspeakers of various stores, and lots of others, produce nerve-wracking noise."
+      },
+      {
+        "word": "Be associated with",
+        "ipa": "/bi əˈsəʊʃieɪtɪd wɪð/",
+        "meaning": "Gắn liền với / Liên quan đến",
+        "context": "In the past, noise was rarely associated with pollution..."
+      },
+      {
+        "word": "Afflict daily life",
+        "ipa": "/əˈflɪkt ˈdeɪli laɪf/",
+        "meaning": "Tác động tiêu cực / Gây phiền hà đến đời sống hàng ngày",
+        "context": "That there is too much noise afflicting our daily life is a manifest fact."
+      },
+      {
+        "word": "Divert attention",
+        "ipa": "/daɪˈvɜːt əˈtenʃn/",
+        "meaning": "Làm xao nhãng sự chú ý",
+        "context": "Noise diverts our attention, disturbs our sleep, and destroys our ears."
+      },
+      {
+        "word": "Disturb sleep",
+        "ipa": "/dɪˈstɜːb sliːp/",
+        "meaning": "Gián đoạn / Làm ảnh hưởng giấc ngủ",
+        "context": "Noise diverts our attention, disturbs our sleep, and destroys our ears."
+      },
+      {
+        "word": "Think twice",
         "ipa": "/θɪŋk twaɪs/",
+        "meaning": "Cân nhắc kỹ / Suy nghĩ kỹ lưỡng",
         "context": "It is an arduous task, yet it can be accomplished if only we try not to be short-sighted and think twice before any hasty and irrational decisions are made."
+      },
+      {
+        "word": "Manifest fact",
+        "ipa": "/ˈmænɪfest fækt/",
+        "meaning": "Sự thật hiển nhiên / rõ ràng",
+        "context": "That there is too much noise afflicting our daily life is a manifest fact."
       },
       {
         "word": "Fidgety",
         "ipa": "/ˈfɪdʒɪti/",
+        "meaning": "Bồn chồn, bứt rứt, không yên",
         "context": "As a consequence, we are becoming more and more fidgety and upset because of the noise pollution."
+      },
+      {
+        "word": "Arduous task",
+        "ipa": "/ˈɑːdjuəs tɑːsk/",
+        "meaning": "Nhiệm vụ gian khổ, khó khăn",
+        "context": "It is an arduous task, yet it can be accomplished if only we try not to be short-sighted and think twice before any hasty and irrational decisions are made."
+      },
+      {
+        "word": "Short-sighted",
+        "ipa": "/ˌʃɔːt ˈsaɪtɪd/",
+        "meaning": "Thiển cận, tầm nhìn ngắn hạn",
+        "context": "It is an arduous task, yet it can be accomplished if only we try not to be short-sighted and think twice before any hasty and irrational decisions are made."
       }
     ]
   },
@@ -820,17 +1490,86 @@
       {
         "word": "Proverb",
         "ipa": "/ˈprɒvɜːb/",
+        "meaning": "Tục ngữ, ngạn ngữ",
         "context": "As the proverb says, “No one knows the value of health until he loses it.”, in other words, nothing is more valuable than health."
       },
       {
-        "word": "Foundation",
+        "word": "Foundation of",
         "ipa": "/faʊnˈdeɪʃn əv/",
+        "meaning": "Nền tảng của...",
         "context": "It is clear that health is the foundation of one's future success."
+      },
+      {
+        "word": "Outlook on life",
+        "ipa": "/ˈaʊtlʊk ɒn laɪf/",
+        "meaning": "Quan điểm / Góc nhìn về cuộc sống",
+        "context": "This habit can do wonders for our outlook on life."
+      },
+      {
+        "word": "Component of success",
+        "ipa": "/kəmˈpəʊnənt əv səkˈses/",
+        "meaning": "Yếu tố / Thành tố của thành công",
+        "context": "If you want your wish to come true, health is the most important component of your success."
+      },
+      {
+        "word": "Pursue a career",
+        "ipa": "/pəˈsjuː ə kəˈrɪə(r)/",
+        "meaning": "Theo đuổi sự nghiệp",
+        "context": "If you become sick, it is nearly impossible to pursue your career effectively, much less make your dreams come true."
+      },
+      {
+        "word": "Make dreams come true",
+        "ipa": "/meɪk driːmz kʌm truː/",
+        "meaning": "Biến ước mơ thành hiện thực",
+        "context": "If you become sick, it is nearly impossible to pursue your career effectively, much less make your dreams come true."
+      },
+      {
+        "word": "Go all out",
+        "ipa": "/ɡəʊ ɔːl aʊt/",
+        "meaning": "Dốc hết sức, nỗ lực tối đa",
+        "context": "On the other hand, if you are strong, you can go all out to overcome the obstacles that lie ahead of you."
+      },
+      {
+        "word": "Overcome obstacles",
+        "ipa": "/ˌəʊvəˈkʌm ˈɒbstəklz/",
+        "meaning": "Vượt qua rào cản, trở ngại",
+        "context": "On the other hand, if you are strong, you can go all out to overcome the obstacles that lie ahead of you."
+      },
+      {
+        "word": "Keep good hours",
+        "ipa": "/kiːp ɡʊd ˈaʊəz/",
+        "meaning": "Giữ giờ giấc sinh hoạt điều độ",
+        "context": "Second, we might as well keep good hours."
+      },
+      {
+        "word": "Do wonders for",
+        "ipa": "/duː ˈwʌndəz fə(r)/",
+        "meaning": "Mang lại hiệu quả kỳ diệu cho...",
+        "context": "This habit can do wonders for our outlook on life."
+      },
+      {
+        "word": "Pay close attention to",
+        "ipa": "/peɪ kləʊs əˈtenʃn tuː/",
+        "meaning": "Chú ý kỹ / Quan tâm sát sao đến...",
+        "context": "Third, there is a proverb that says “Prevention is better than cure.” If you pay close attention to your health, you can avoid getting sick, or at least cure yourself of a disease while it is still in its beginning stage."
+      },
+      {
+        "word": "In other words",
+        "ipa": "/ɪn ˈʌðə wɜːdz/",
+        "meaning": "Nói cách khác",
+        "context": "As the proverb says, “No one knows the value of health until he loses it.”, in other words, nothing is more valuable than health."
       },
       {
         "word": "Much less",
         "ipa": "/mʌtʃ les/",
+        "meaning": "Huống chi là / Chưa nói đến",
         "context": "If you become sick, it is nearly impossible to pursue your career effectively, much less make your dreams come true."
+      },
+      {
+        "word": "Prevention is better than cure",
+        "ipa": "/prɪˈvenʃn ɪz ˈbetə ðæn kjʊə(r)/",
+        "meaning": "Phòng bệnh hơn chữa bệnh",
+        "context": "Third, there is a proverb that says “Prevention is better than cure.” If you pay close attention to your health, you can avoid getting sick, or at least cure yourself of a disease while it is still in its beginning stage."
       }
     ]
   },
@@ -872,27 +1611,80 @@
       {
         "word": "Rural area",
         "ipa": "/ˈrʊərəl ˈeəriə/",
+        "meaning": "Khu vực nông thôn",
         "context": "People in the rural area are more closely related with each other, and they seldom feel lonely."
       },
       {
         "word": "Urban area",
         "ipa": "/ˈɜːbən ˈeəriə/",
+        "meaning": "Khu vực thành thị",
         "context": "There are both advantages and disadvantages for people either living in the rural or urban areas."
+      },
+      {
+        "word": "Suburban area",
+        "ipa": "/səˈbɜːbən ˈeəriə/",
+        "meaning": "Khu vực ngoại thành / ngoại ô",
+        "context": "Maybe the suburban area is the best choice."
       },
       {
         "word": "Crime rate",
         "ipa": "/kraɪm reɪt/",
+        "meaning": "Tỷ lệ tội phạm",
         "context": "Life in the countryside is also peaceful and safe, the crime rate there is much lower than in the cities."
+      },
+      {
+        "word": "Leisure and entertainment",
+        "ipa": "/ˈleʒər ænd ˌentəˈteɪnmənt/",
+        "meaning": "Giải trí và tiêu khiển",
+        "context": "In addition, urban people can enjoy more leisure and entertainment."
+      },
+      {
+        "word": "Be close to nature",
+        "ipa": "/bi kləʊs tu ˈneɪtʃə(r)/",
+        "meaning": "Gần gũi với thiên nhiên",
+        "context": "What's more, we are much closer to nature."
       },
       {
         "word": "Lend a hand",
         "ipa": "/lend ə hænd/",
+        "meaning": "Giúp đỡ, ra tay hỗ trợ",
         "context": "Whenever one is in trouble, others will lend a hand."
+      },
+      {
+        "word": "Have advantages and disadvantages",
+        "ipa": "/hæv ədˈvɑːntɪdʒɪz ænd ˌdɪsədˈvɑːntɪdʒɪz/",
+        "meaning": "Có cả ưu điểm lẫn nhược điểm",
+        "context": "In a word, city people can always have fun if they have time and money."
+      },
+      {
+        "word": "Well developed",
+        "ipa": "/wel dɪˈveləpt/",
+        "meaning": "Phát triển tốt / hiện đại",
+        "context": "City traffic is so well developed that people can go anywhere easily and quickly."
+      },
+      {
+        "word": "Just around the corner",
+        "ipa": "/dʒʌst əˈraʊnd ðə ˈkɔːnə(r)/",
+        "meaning": "Ngay gần đây / ở ngay góc phố",
+        "context": "It is also convenient to do shopping because many shops and markets are just around the corner."
+      },
+      {
+        "word": "On the other hand",
+        "ipa": "/ɒn ði ˈʌðə hænd/",
+        "meaning": "Mặt khác",
+        "context": "On the other hand, to live in the cities is not a bad choice either."
       },
       {
         "word": "In a word",
         "ipa": "/ɪn ə wɜːd/",
+        "meaning": "Tóm lại",
         "context": "In a word, city people can always have fun if they have time and money."
+      },
+      {
+        "word": "You can't eat the cake and have it",
+        "ipa": "/juː kɑːnt iːt ðə keɪk ænd hæv ɪt/",
+        "meaning": "Được cái này mất cái kia / Không thể được cả đôi đường",
+        "context": "As the saying goes, “you can't eat the cake and have it.” As for myself, I would prefer to work in a city and live in the countryside."
       }
     ]
   },
@@ -923,14 +1715,70 @@
     "driveFileId": "1-KbGASSw5q84xwYTehGOnKfmErQmcLGe",
     "vocabItems": [
       {
-        "word": "Link (A) to",
+        "word": "Life's essentials",
+        "ipa": "/laɪfs ɪˈsenʃlz/",
+        "meaning": "Những điều/yếu tố thiết yếu trong cuộc sống",
+        "context": "Generations of Americans have been brought up to believe that a good breakfast is one of life's essentials."
+      },
+      {
+        "word": "Scientific evidence",
+        "ipa": "/ˌsaɪənˈtɪfɪk ˈevɪdəns/",
+        "meaning": "Bằng chứng khoa học",
+        "context": "Bender, former professor of nutrition at Queen Elizabeth College in London. “nor does giving people breakfast improve performance.” Scientific evidence linking breakfast to better health or better performance is surprisingly inadequate, and most of the recent work involves children, not adults. “The literature”, says one researcher, Dr."
+      },
+      {
+        "word": "Professor of nutrition",
+        "ipa": "/prəˈfesər əv njuːˈtrɪʃn/",
+        "meaning": "Giáo sư dinh dưỡng",
+        "context": "Bender, former professor of nutrition at Queen Elizabeth College in London. “nor does giving people breakfast improve performance.” Scientific evidence linking breakfast to better health or better performance is surprisingly inadequate, and most of the recent work involves children, not adults. “The literature”, says one researcher, Dr."
+      },
+      {
+        "word": "Be brought up to (do sth)",
+        "ipa": "/bi brɔːt ʌp tuː/",
+        "meaning": "Được nuôi dạy / giáo dục để làm gì",
+        "context": "Generations of Americans have been brought up to believe that..."
+      },
+      {
+        "word": "Omit breakfast",
+        "ipa": "/əˈmɪt ˈbrekfəst/",
+        "meaning": "Bỏ bữa sáng",
+        "context": "Several studies in the last few years indicate that, for adults especially, there may be nothing wrong with omitting breakfast. “Going without breakfast does not affect performance,” said Arnold E."
+      },
+      {
+        "word": "Go without breakfast",
+        "ipa": "/ɡəʊ wɪˈðaʊt ˈbrekfəst/",
+        "meaning": "Nhịn / Không ăn sáng",
+        "context": "\"Going without breakfast does not affect performance,\" said Arnold E. Bender."
+      },
+      {
+        "word": "Affect performance",
+        "ipa": "/əˈfekt pəˈfɔːməns/",
+        "meaning": "Ảnh hưởng đến hiệu suất (học tập/làm việc)",
+        "context": "Several studies in the last few years indicate that, for adults especially, there may be nothing wrong with omitting breakfast. “Going without breakfast does not affect performance,” said Arnold E."
+      },
+      {
+        "word": "Link (A) to (B)",
         "ipa": "/lɪŋk/",
+        "meaning": "Gắn kết / Liên kết cái gì với cái gì",
         "context": "Bender, former professor of nutrition at Queen Elizabeth College in London. “nor does giving people breakfast improve performance.” Scientific evidence linking breakfast to better health or better performance is surprisingly inadequate, and most of the recent work involves children, not adults. “The literature”, says one researcher, Dr."
       },
       {
         "word": "By no means",
         "ipa": "/baɪ nəʊ miːnz/",
+        "meaning": "Hoàn toàn không / Không chút nào",
         "context": "But for many people the thought of food as the first thing in the morning is by no means a pleasure."
+      },
+      {
+        "word": "Feel guilt about",
+        "ipa": "/fiːl ɡɪlt əˈbaʊt/",
+        "meaning": "Cảm thấy có lỗi / cắn rứt về",
+        "context": "For those who feel pain or guilt about not eating breakfast however, there is some good news."
+      },
+      {
+        "word": "Surprisingly inadequate",
+        "ipa": "/səˈpraɪzɪŋli ɪnˈædɪkwət/",
+        "meaning": "Thiếu hụt / Không đầy đủ một cách đáng kinh ngạc",
+        "context": "Bender, former professor of nutrition at Queen Elizabeth College in London. “nor does giving people breakfast improve performance.” Scientific evidence linking breakfast to better health or better performance is surprisingly inadequate, and most of the recent work involves children, not adults. “The literature”, says one researcher, Dr."
       }
     ]
   },
@@ -970,24 +1818,76 @@
     "driveFileId": "1WsveTrrL1rBd7woM-7uWyGXhgdjN3ZCH",
     "vocabItems": [
       {
-        "word": "Lung",
+        "word": "Lung damage",
         "ipa": "/lʌŋ ˈdæmɪdʒ/",
+        "meaning": "Tổn thương phổi",
         "context": "Children as young as 11 are suffering lung damage from too much smoking."
       },
       {
-        "word": "Health",
+        "word": "Breathing disorder",
+        "ipa": "/ˈbriːðɪŋ dɪsˈɔːdə(r)/",
+        "meaning": "Rối loạn hô hấp",
+        "context": "Professor Goose said: “We believe that health education may be improved by making full use of knowledge concerning the breathing disorders in children who are regular smokers."
+      },
+      {
+        "word": "Health warning",
         "ipa": "/helθ ˈwɔːnɪŋ/",
+        "meaning": "Cảnh báo sức khỏe",
         "context": "This is mainly because children find it hard to believe that health warnings apply to them."
       },
       {
-        "word": "Bring on",
+        "word": "Health risk",
+        "ipa": "/helθ rɪsk/",
+        "meaning": "Rủi ro về sức khỏe",
+        "context": "Both non-smokers and smokers knew cigarettes could cause cancer, but few know of the other health risks."
+      },
+      {
+        "word": "Ignorance of (sth)",
+        "ipa": "/ˈɪɡnərəns əv/",
+        "meaning": "Sự thiếu hiểu biết / không biết về",
+        "context": "But Professor Guz's team was surprised at the children's ignorance of the damage caused by smoking."
+      },
+      {
+        "word": "Carry out research / a survey",
+        "ipa": "Carry out research / a survey",
+        "meaning": "/ˈkæri aʊt/",
+        "context": "Tiến hành nghiên cứu / khảo sát"
+      },
+      {
+        "word": "Concentrate on",
+        "ipa": "/ˈkɒnsntreɪt ɒn/",
+        "meaning": "Tập trung vào",
+        "context": "The team was worried that most reports on the dangers of smoking have concentrated on adults."
+      },
+      {
+        "word": "Bring on (breathlessness)",
         "ipa": "/brɪŋ ɒn/",
+        "meaning": "Gây ra / Dẫn đến (chứng khó thở)",
         "context": "About 53% of regular smokers admitted to bring up phlegm when they had a cold, compared to only 2% of non-smokers."
       },
       {
         "word": "Apply to",
         "ipa": "/əˈplaɪ tuː/",
+        "meaning": "Áp dụng đối với / Tác động đến",
         "context": "This is mainly because children find it hard to believe that health warnings apply to them."
+      },
+      {
+        "word": "Suffer from",
+        "ipa": "/ˈsʌfə(r) frəm/",
+        "meaning": "Gánh chịu / Bị (bệnh, tổn hại)",
+        "context": "Children as young as 11 are suffering lung damage from too much smoking."
+      },
+      {
+        "word": "Remain constant",
+        "ipa": "/rɪˈmeɪn ˈkɒnstənt/",
+        "meaning": "Giữ nguyên / Không thay đổi",
+        "context": "The number of adults has gone down steadily but the number of children smoking remained constant."
+      },
+      {
+        "word": "Regular smoker",
+        "ipa": "/ˈreɡjələ ˈsməʊkə(r)/",
+        "meaning": "Người hút thuốc thường xuyên",
+        "context": "Analysis showed 15% of regular smokers coughed every day."
       }
     ]
   },
@@ -1026,9 +1926,82 @@
     "driveFileId": "1L2yJ_UpiDU7qlWu51ACldON5xPQnmSCM",
     "vocabItems": [
       {
-        "word": "Along",
+        "word": "Regular school",
+        "ipa": "/ˈreɡjələ skuːl/",
+        "meaning": "Trường học chính quy / bình thường",
+        "context": "They work several hours every day, so they cannot go to a regular school."
+      },
+      {
+        "word": "Child actor",
+        "ipa": "/tʃaɪld ˈæktə(r)/",
+        "meaning": "Diễn viên nhí",
+        "context": "Child actors are required to attend classes 20 hours each week."
+      },
+      {
+        "word": "Permitted hours",
+        "ipa": "/pəˈmɪtɪd ˈaʊəz/",
+        "meaning": "Số giờ làm việc được cho phép",
+        "context": "She is responsible for making sure that the child works only the permitted hours each week; she is responsible for making sure that the child learns the required subjects."
+      },
+      {
+        "word": "Required subjects",
+        "ipa": "/rɪˈkwaɪəd ˈsʌbdʒɪkts/",
+        "meaning": "Các môn học bắt buộc",
+        "context": "She is responsible for making sure that the child works only the permitted hours each week; she is responsible for making sure that the child learns the required subjects."
+      },
+      {
+        "word": "Act in TV shows",
+        "ipa": "/ækt ɪn ˌtiː ˈviː ʃəʊz/",
+        "meaning": "Đóng phim / diễn xuất trên chương trình TV",
+        "context": "Many children act in TV shows."
+      },
+      {
+        "word": "Give lessons",
+        "ipa": "/ɡɪv ˈlesnz/",
+        "meaning": "Giảng dạy / Cho bài học",
+        "context": "In Hollywood, where many TV shows are made, about 40 teachers give lessons for the children in the shows."
+      },
+      {
+        "word": "Be responsible for (V-ing/sth)",
+        "ipa": "Be responsible for (V-ing/sth)",
+        "meaning": "/bi rɪˈspɒnsəbl fə(r)/",
+        "context": "Chịu trách nhiệm cho việc gì"
+      },
+      {
+        "word": "Be required to (do sth)",
+        "ipa": "/bi rɪˈkwaɪəd tuː/",
+        "meaning": "Được yêu cầu / Bắt buộc phải làm gì",
+        "context": "Child actors are required to attend classes 20 hours each week."
+      },
+      {
+        "word": "Be permitted to (do sth)",
+        "ipa": "/bi pəˈmɪtɪd tuː/",
+        "meaning": "Được phép làm gì",
+        "context": "...they are not permitted to continue working in TV shows."
+      },
+      {
+        "word": "Get good marks",
+        "ipa": "/ɡet ɡʊd mɑːks/",
+        "meaning": "Đạt điểm số tốt",
+        "context": "If they do not get good marks in school they are not permitted to continue working in TV shows."
+      },
+      {
+        "word": "Special kind of work",
+        "ipa": "/ˈspeʃl kaɪnd əv wɜːk/",
+        "meaning": "Loại công việc đặc biệt",
+        "context": "TV children are usually good pupils, and most of their teachers like this special kind of work."
+      },
+      {
+        "word": "Along with",
         "ipa": "/əˈlɒŋ wɪð/",
+        "meaning": "Cùng với / Đi kèm với",
         "context": "She makes sure, too, that the child gets enough rest and play along with his education."
+      },
+      {
+        "word": "Hold classes",
+        "ipa": "/həʊld ˈklɑːsɪz/",
+        "meaning": "Tổ chức lớp học",
+        "context": "Their classes are held in many interesting places."
       }
     ]
   },
@@ -1073,13 +2046,69 @@
     "driveFileId": "1gW54q4IeSvq-b8ZVDJCrmMscgdAWBIJC",
     "vocabItems": [
       {
+        "word": "Grammatical rules",
+        "ipa": "/ɡrəˈmætɪkl ruːlz/",
+        "meaning": "Các quy tắc ngữ pháp",
+        "context": "At the beginning of my English study, I spent a lot of time in memorizing the grammatical rules of English."
+      },
+      {
+        "word": "Reading comprehension",
+        "ipa": "/ˈriːdɪŋ ˌkɒmprɪˈhenʃn/",
+        "meaning": "Khả năng đọc hiểu",
+        "context": "In this way, I've improved my reading comprehension."
+      },
+      {
         "word": "Spare time",
         "ipa": "/speə(r) taɪm/",
+        "meaning": "Thời gian rảnh rỗi",
         "context": "In my spare time, I often listen to English tapes and watch some English programs on TV."
       },
       {
-        "word": "The more\\...,",
+        "word": "Pay attention to",
+        "ipa": "/peɪ əˈtenʃn tuː/",
+        "meaning": "Chú ý / Tập trung vào",
+        "context": "From then on, I have begun to pay attention to listening."
+      },
+      {
+        "word": "Grasp the main idea",
+        "ipa": "/ɡrɑːsp ðə meɪn aɪˈdɪə/",
+        "meaning": "Nắm bắt ý chính",
+        "context": "I try my best to grasp the main idea."
+      },
+      {
+        "word": "Go through",
+        "ipa": "/ɡəʊ θruː/",
+        "meaning": "Đọc qua / Đọc lướt",
+        "context": "Although there are lots of new words, I often go through what I read without paying much attention to the new words or difficult sentences."
+      },
+      {
+        "word": "Make mistakes",
+        "ipa": "/meɪk mɪˈsteɪks/",
+        "meaning": "Mắc lỗi / Phạm sai lầm",
+        "context": "Though I often make mistakes, I am not discouraged."
+      },
+      {
+        "word": "Be determined to (do sth)",
+        "ipa": "/bi dɪˈtɜːmɪnd tuː/",
+        "meaning": "Quyết tâm làm gì",
+        "context": "I'm determined to study English well."
+      },
+      {
+        "word": "Widely used language",
+        "ipa": "/ˈwaɪdli juːzd ˈlæŋɡwɪdʒ/",
+        "meaning": "Ngôn ngữ được sử dụng rộng rãi",
+        "context": "As we all know, English is the most widely used language in the world."
+      },
+      {
+        "word": "Be discouraged",
+        "ipa": "/bi dɪsˈkʌrɪdʒd/",
+        "meaning": "Bị nản lòng / Bị thui chí",
+        "context": "Though I often make mistakes, I am not discouraged."
+      },
+      {
+        "word": "The more..., the more...",
         "ipa": "/ðə mɔː(r)/",
+        "meaning": "Càng... thì càng...",
         "context": "As we all know, English is the most widely used language in the world."
       }
     ]
@@ -1109,8 +2138,75 @@
     "driveFileId": "1aH2reHDnOjTj9Lt5nAp8XZe-amhXaifs",
     "vocabItems": [
       {
+        "word": "Formative years",
+        "ipa": "/ˈfɔːmətɪv jɪəz/",
+        "meaning": "Những năm tháng hình thành nhân cách / phát triển",
+        "context": "Mozart never showed talent in any direction whatsoever during his formative years until he was 22 when he suddenly became fired with a great passion for music."
+      },
+      {
+        "word": "Peak of one's career",
+        "ipa": "/piːk əv wʌnz kəˈrɪə(r)/",
+        "meaning": "Đỉnh cao sự nghiệp",
+        "context": "They surely can arrive at the peak of their career in the near future as long as they avail themselves of valuable time and exert themselves to accomplish their share of work carefully and persistently."
+      },
+      {
+        "word": "Great passion",
+        "ipa": "/ɡreɪt ˈpæʃn/",
+        "meaning": "Niềm đam mê lớn",
+        "context": "Mozart never showed talent in any direction whatsoever during his formative years until he was 22 when he suddenly became fired with a great passion for music."
+      },
+      {
+        "word": "Amount to nothing",
+        "ipa": "/əˈmaʊnt tə ˈnʌθɪŋ/",
+        "meaning": "Không làm nên trò trống gì / Chẳng đạt thành công",
+        "context": "Some parents worry very much that their children will amount to nothing since they are given to daydreaming, indecision, and they show no promise of being a doctor, lawyer, or manager."
+      },
+      {
+        "word": "Be given to (sth/V-ing)",
+        "ipa": "Be given to (sth/V-ing)",
+        "meaning": "/bi ˈɡɪvn tuː/",
+        "context": "Hay / Hay mắc vào (thói quen mơ mộng, nghi ngờ)"
+      },
+      {
+        "word": "Show promise of",
+        "ipa": "/ʃəʊ ˈprɒmɪs əv/",
+        "meaning": "Hứa hẹn / Cho thấy triển vọng trở thành",
+        "context": "Some parents worry very much that their children will amount to nothing since they are given to daydreaming, indecision, and they show no promise of being a doctor, lawyer, or manager."
+      },
+      {
+        "word": "Despair of",
+        "ipa": "/dɪˈspeə(r) əv/",
+        "meaning": "Tuyệt vọng về",
+        "context": "Meanwhile, the teenagers themselves also despair of the future and their success for they are constantly scorned and blamed."
+      },
+      {
+        "word": "Become fired with",
+        "ipa": "/bɪˈkʌm ˈfaɪəd wɪð/",
+        "meaning": "Bùng cháy / Tràn đầy (nhiệt huyết, đam mê)",
+        "context": "...he suddenly became fired with a great passion for music."
+      },
+      {
+        "word": "Avail oneself of",
+        "ipa": "/əˈveɪl wʌnˈself əv/",
+        "meaning": "Tận dụng / Tranh thủ (thời gian, cơ hội)",
+        "context": "They surely can arrive at the peak of their career in the near future as long as they avail themselves of valuable time and exert themselves to accomplish their share of work carefully and persistently."
+      },
+      {
+        "word": "Exert oneself",
+        "ipa": "/ɪɡˈzɜːt wʌnˈself/",
+        "meaning": "Nỗ lực / Cố gắng hết sức",
+        "context": "They surely can arrive at the peak of their career in the near future as long as they avail themselves of valuable time and exert themselves to accomplish their share of work carefully and persistently."
+      },
+      {
+        "word": "It's never too late for success",
+        "ipa": "/ɪts ˈnevə tuː leɪt fə səkˈses/",
+        "meaning": "Không bao giờ là quá muộn để thành công",
+        "context": "Therefore, it's never too late for success."
+      },
+      {
         "word": "Persistently",
         "ipa": "/pəˈsɪstəntli/",
+        "meaning": "Một cách kiên trì / Bền bỉ",
         "context": "They surely can arrive at the peak of their career in the near future as long as they avail themselves of valuable time and exert themselves to accomplish their share of work carefully and persistently."
       }
     ]
@@ -1156,19 +2252,64 @@
     "driveFileId": "1cUsjMp0CKYc6wpkH7da3x3u43zz2zb4M",
     "vocabItems": [
       {
-        "word": "Young",
-        "ipa": "/   gia /",
+        "word": "Values of the culture",
+        "ipa": "/ˈvæljuːz əv ðə ˈkʌltʃə(r)/",
+        "meaning": "Các giá trị của văn hóa",
+        "context": "In every country, cities reflect the values of the culture."
+      },
+      {
+        "word": "Racial conflict",
+        "ipa": "/ˈreɪʃl ˈkɒnflɪkt/",
+        "meaning": "Xung đột sắc tộc / chủng tộc",
+        "context": "They also contain the very worst parts of a society: violent crime, racial conflict, and poverty."
+      },
+      {
+        "word": "Young professionals",
+        "ipa": "/jʌŋ prəˈfeʃənlz/",
+        "meaning": "Giới chuyên gia / Người đi làm trẻ tuổi có trình độ",
         "context": "Many young professionals, doctors, lawyers, and executives are moving back into the city."
       },
       {
-        "word": "Move out",
-        "ipa": "/muːv aʊt əv /",
+        "word": "Fuel shortage",
+        "ipa": "/ˈfjuːəl ˈʃɔːtɪdʒ/",
+        "meaning": "Sự thiếu hụt nhiên liệu / xăng dầu",
+        "context": "They prefer the city to the suburbs because their jobs are there; they are afraid of the fuel shortage; or they just enjoy the excitement and opportunities which the city offers."
+      },
+      {
+        "word": "Reflect the values of",
+        "ipa": "/rɪˈflekt ðə ˈvæljuːz əv/",
+        "meaning": "Phản ánh các giá trị của",
+        "context": "In every country, cities reflect the values of the culture."
+      },
+      {
+        "word": "Move out of / Move back into",
+        "ipa": "Move out of / Move back into",
+        "meaning": "/muːv aʊt əv / muːv bæk ˈɪntə/",
         "context": "They moved out of their apartments in the city to buy their own homes."
+      },
+      {
+        "word": "Prefer (A) to (B)",
+        "ipa": "/prɪˈfɜːr... tu.../",
+        "meaning": "Thích cái gì hơn cái gì",
+        "context": "They prefer the city to the suburbs because their jobs are there; they are afraid of the fuel shortage; or they just enjoy the excitement and opportunities which the city offers."
       },
       {
         "word": "Prosperous",
         "ipa": "/ˈprɒspərəs/",
+        "meaning": "Thịnh vượng / Giàu có",
         "context": "After World War II, city residents became wealthier, more prosperous."
+      },
+      {
+        "word": "American dream",
+        "ipa": "/əˈmerɪkən driːm/",
+        "meaning": "Giấc mơ Mỹ (mô hình cuộc sống ấm no, nhà cửa rộng rãi)",
+        "context": "During the 1950s, the American dream was to have a house in the suburbs."
+      },
+      {
+        "word": "Mobile class",
+        "ipa": "/ˈməʊbaɪl klɑːs/",
+        "meaning": "Tầng lớp dịch chuyển (linh hoạt thay đổi nơi ở/làm việc)",
+        "context": "A new class is moving into the city, a wealthier, more mobile class."
       }
     ]
   },
@@ -1199,19 +2340,76 @@
     "driveFileId": "1AhvD9Kaho3hkyqirt2MgwMhStcovSqwf",
     "vocabItems": [
       {
-        "word": "Measure a",
+        "word": "Foreign language",
+        "ipa": "/ˌfɒrən ˈlæŋɡwɪdʒ/",
+        "meaning": "Ngoại ngữ",
+        "context": "TOEFL is a short way of saying test of English as a Foreign Language."
+      },
+      {
+        "word": "Graduate school",
+        "ipa": "/ˈɡrædʒuət skuːl/",
+        "meaning": "Trường cao học / Chương trình sau đại học",
+        "context": "Many American universities will advise you to take this test if you plan to attend a graduate school."
+      },
+      {
+        "word": "Spoken English",
+        "ipa": "/ˈspəʊkən ˈɪŋɡlɪʃ/",
+        "meaning": "Tiếng Anh nói / Kỹ năng nói tiếng Anh",
+        "context": "The Test of Spoken English does."
+      },
+      {
+        "word": "Written English",
+        "ipa": "/ˈrɪtn ˈɪŋɡlɪʃ/",
+        "meaning": "Tiếng Anh viết / Kỹ năng viết tiếng Anh",
+        "context": "Some universities also will tell you to take yet another test, the Test of Written English."
+      },
+      {
+        "word": "Measure a person's ability",
         "ipa": "/ˈmeʒə(r)/",
+        "meaning": "Đo lường / Đánh giá năng lực của một người",
         "context": "It measures a person's ability to understand, read and write English."
       },
       {
-        "word": "Involve",
-        "ipa": "/ɪnˈvɒlv/",
+        "word": "Involve (V-ing/sth)",
+        "ipa": "Involve (V-ing/sth)",
+        "meaning": "/ɪnˈvɒlv/",
         "context": "It is about a 20-minute test that involves speaking English."
       },
       {
-        "word": "Plan to",
+        "word": "Organize information",
+        "ipa": "/ˈɔːɡənaɪz ˌɪnfəˈmeɪʃn/",
+        "meaning": "Sắp xếp / Tổ chức thông tin",
+        "context": "The test measures your ability to organize information and to express ideas in correct English."
+      },
+      {
+        "word": "Express ideas",
+        "ipa": "/ɪkˈspres aɪˈdɪəz/",
+        "meaning": "Diễn đạt ý tưởng",
+        "context": "The test measures your ability to organize information and to express ideas in correct English."
+      },
+      {
+        "word": "Be expected to (do sth)",
+        "ipa": "/bi ɪkˈspektɪd tuː/",
+        "meaning": "Được kỳ vọng / Yêu cầu làm gì",
+        "context": "...they do not know how much they are expected to talk in class."
+      },
+      {
+        "word": "A short way of saying (sth)",
+        "ipa": "/ə ʃɔːt weɪ əv ˈseɪɪŋ/",
+        "meaning": "Cách nói tắt của",
+        "context": "TOEFL is a short way of saying test of English as a foreign language."
+      },
+      {
+        "word": "Plan to (do sth)",
         "ipa": "/plæn tuː/",
+        "meaning": "Có kế hoạch / Dự định làm gì",
         "context": "Many American universities will advise you to take this test if you plan to attend a graduate school."
+      },
+      {
+        "word": "Extremely difficult",
+        "ipa": "/ɪkˈstriːmli ˈdɪfɪkəlt/",
+        "meaning": "Cực kỳ khó khăn",
+        "context": "They say foreign students must do well in writing and speaking English or their studies in the United States will be extremely difficult."
       }
     ]
   },
@@ -1245,14 +2443,76 @@
     "driveFileId": "1UD0iOFZf-LOl37mffsDeL4wpEhNrh-Md",
     "vocabItems": [
       {
-        "word": "Think for",
-        "ipa": "/         /",
+        "word": "The three R's",
+        "ipa": "/ðə θriː ɑːz/",
+        "meaning": "Ba kỹ năng cơ bản (Đọc, Viết, Làm toán)",
+        "context": "In schools, children learn the three R's, reading, writing, and arithmetic."
+      },
+      {
+        "word": "Social studies",
+        "ipa": "/ˈsəʊʃl ˈstʌdiz/",
+        "meaning": "Môn học về xã hội (Lịch sử, Chính trị/Chính phủ)",
+        "context": "They study history and government, which are often called social studies, and many other subjects."
+      },
+      {
+        "word": "Growth and development",
+        "ipa": "/ɡrəʊθ ænd dɪˈveləpmənt/",
+        "meaning": "Sự trưởng thành và phát triển",
+        "context": "She also knows that it is necessary for them to know how to use this learning for their growth and development."
+      },
+      {
+        "word": "Open school week",
+        "ipa": "/ˈəʊpən skuːl wiːk/",
+        "meaning": "Tuần lễ mở cửa trường học (dành cho phụ huynh tham quan)",
+        "context": "During the open school week, parents have a chance to see how American education works."
+      },
+      {
+        "word": "Be based on",
+        "ipa": "/bi beɪst ɒn/",
+        "meaning": "Dựa trên / Dựa vào",
+        "context": "American education is based on the idea that..."
+      },
+      {
+        "word": "Think for oneself",
+        "ipa": "/θɪŋk fə wʌnˈself/",
+        "meaning": "Tự suy nghĩ / Tư duy độc lập",
         "context": "American education is based on the idea that children need to learn to think for themselves."
+      },
+      {
+        "word": "Make one's own judgment",
+        "ipa": "/meɪk wʌnz əʊn ˈdʒʌdʒmənt/",
+        "meaning": "Tự đưa ra đánh giá / nhận định",
+        "context": "They also learn how to be independent, how to make their own judgment, and how to develop their own abilities and interests."
+      },
+      {
+        "word": "Give one's own opinions",
+        "ipa": "/ɡɪv wʌnz əʊn əˈpɪnjənz/",
+        "meaning": "Bày tỏ / Nêu ý kiến riêng",
+        "context": "She wants them to listen carefully, to ask questions, to answer questions, and to give their own opinions."
+      },
+      {
+        "word": "Develop one's abilities and interests",
+        "ipa": "/dɪˈveləp wʌnz əˈbɪlətiz ænd ˈɪntrests/",
+        "meaning": "Phát triển khả năng và sở thích",
+        "context": "They also learn how to be independent, how to make their own judgment, and how to develop their own abilities and interests."
       },
       {
         "word": "Newcomer",
         "ipa": "/ˈnjuːkʌmə(r)/",
+        "meaning": "Người mới đến (đất nước/môi trường mới)",
         "context": "Newcomers to the United States are often surprised by the schools."
+      },
+      {
+        "word": "Sit with hands folded",
+        "ipa": "/sɪt wɪð hændz ˈfəʊldɪd/",
+        "meaning": "Ngồi khoanh tay (thụ động)",
+        "context": "The American teacher does not want the children in her class to sit with their hands folded quietly and to say nothing."
+      },
+      {
+        "word": "It is necessary for (sb) to (do sth)",
+        "ipa": "/ɪt ɪz ˈnesəsəri fə/",
+        "meaning": "Ai đó cần thiết phải làm gì",
+        "context": "...she also knows that it is necessary for them to know how to use this learning..."
       }
     ]
   },
@@ -1284,8 +2544,75 @@
     "driveFileId": "1axTvtxGS6zYLF6cvut8RJy6-_Tt_7GpC",
     "vocabItems": [
       {
+        "word": "Water supply",
+        "ipa": "/ˈwɔːtə səˈplaɪ/",
+        "meaning": "Nguồn cung cấp nước",
+        "context": "With the economic development and the increase of the population, we are faced with the lack of water supply."
+      },
+      {
+        "word": "Water consumption",
+        "ipa": "/ˈwɔːtə kənˈsʌmpʃn/",
+        "meaning": "Mức tiêu thụ nước",
+        "context": "Second, measures should be taken to restrain the increase of water consumption."
+      },
+      {
+        "word": "High technology",
+        "ipa": "/haɪ tekˈnɒlədʒi/",
+        "meaning": "Công nghệ cao",
+        "context": "First, with the development of high technology, new resources may be found, and the present ones can be exploited effectively."
+      },
+      {
+        "word": "Be faced with",
+        "ipa": "/bi feɪst wɪð/",
+        "meaning": "Đối mặt với",
+        "context": "...we are faced with the lack of water supply."
+      },
+      {
+        "word": "Exploit effectively",
+        "ipa": "/ɪkˈsplɔɪt ɪˈfektɪvli/",
+        "meaning": "Khai thác hiệu quả",
+        "context": "First, with the development of high technology, new resources may be found, and the present ones can be exploited effectively."
+      },
+      {
+        "word": "Restrain the increase of",
+        "ipa": "/rɪˈstreɪn ðər ˈɪŋkriːs əv/",
+        "meaning": "Hạn chế / Kiềm chế sự gia tăng",
+        "context": "Second, measures should be taken to restrain the increase of water consumption."
+      },
+      {
+        "word": "Advocate the recycling of",
+        "ipa": "/ˈædvəkeɪt ðə ˌriːˈsaɪklɪŋ əv/",
+        "meaning": "Cổ vũ / Ủng hộ việc tái chế",
+        "context": "For example, we can advocate the recycling of water in industry."
+      },
+      {
+        "word": "Spread the idea of",
+        "ipa": "/spred ði aɪˈdɪə əv/",
+        "meaning": "Lan tỏa ý tưởng / ý thức",
+        "context": "Being one of those whose life had been threatened by the crisis, I would like to do something helpful, such as not wasting water in daily life and spreading the idea of protecting environment."
+      },
+      {
+        "word": "Overcome difficulty",
+        "ipa": "/ˌəʊvəˈkʌm ˈdɪfɪkəlti/",
+        "meaning": "Vượt qua khó khăn",
+        "context": "As long as we take it seriously, we will definitely overcome this difficulty."
+      },
+      {
+        "word": "Remarkably raised",
+        "ipa": "/rɪˈmɑːkəbli reɪzd/",
+        "meaning": "Tăng lên một cách đáng kể",
+        "context": "From a recent survey, it can be seen that the consumption of water all over the world has been remarkably raised compared with that of last year."
+      },
+      {
+        "word": "It is high time for (sb) to (do sth)",
+        "ipa": "/ɪt ɪz haɪ taɪm/",
+        "meaning": "Đã đến lúc (ai đó) phải làm gì",
+        "context": "So, it is high time for us to find a solution to the problem."
+      },
+      {
         "word": "As long as",
         "ipa": "/æz lɒŋ æz/",
+        "meaning": "Miễn là / Chỉ cần",
         "context": "As long as we take it seriously, we will definitely overcome this difficulty."
       }
     ]
@@ -1329,23 +2656,75 @@
     "driveFileId": "1nralbcckGzuU13FkIhHJUfAaIKF_hf6N",
     "vocabItems": [
       {
+        "word": "Organizational politics",
+        "ipa": "/ˌɔːɡənaɪˈzeɪʃənl ˈpɒlətɪks/",
+        "meaning": "Chính trị công sở / Thủ thuật nơi công sở",
+        "context": "They may spend most of their time on organizational politics for advancement."
+      },
+      {
+        "word": "Symbols of success",
+        "ipa": "/ˈsɪmblz əv səkˈses/",
+        "meaning": "Các biểu tượng của sự thành công",
+        "context": "Careerists are not so much into work as into seeking identity through their jobs, their career advancement, and the symbols of success."
+      },
+      {
         "word": "Noble cause",
         "ipa": "/ˈnəʊbl kɔːz/",
+        "meaning": "Mục tiêu cao đẹp / Sứ mệnh cao cả",
         "context": "A workaholic may be working to help others or to support a noble cause."
       },
       {
-        "word": "Let (areas",
-        "ipa": "/let slaɪd/",
+        "word": "Social transformation",
+        "ipa": "/ˈsəʊʃl ˌtrænsfəˈmeɪʃn/",
+        "meaning": "Sự biến đổi / Thay đổi xã hội",
         "context": "If we are working on projects we see as important to social transformation, it is easy to become obsessed with the project and let other areas of our lives slide."
+      },
+      {
+        "word": "Advance one's career",
+        "ipa": "/ədˈvɑːns wʌnz kəˈrɪə(r)/",
+        "meaning": "Thăng tiến trong sự nghiệp",
+        "context": "Virtually everything they do is designed to advance their careers."
+      },
+      {
+        "word": "Lose one's identity",
+        "ipa": "/luːz wʌnz aɪˈdentəti/",
+        "meaning": "Đánh mất bản sắc / Đánh mất chính mình",
+        "context": "He loses his identity."
+      },
+      {
+        "word": "Become addicted to",
+        "ipa": "/bɪˈkʌm əˈdɪktɪd tuː/",
+        "meaning": "Bị nghiện / Trở nên đam mê quá mức",
+        "context": "On the other hand, a workaholic may love his job and simply become addicted to the pleasure of doing it, and doing it well."
+      },
+      {
+        "word": "Become obsessed with",
+        "ipa": "/bɪˈkʌm əbˈsest wɪð/",
+        "meaning": "Bị ám ảnh / Quá chìm đắm vào",
+        "context": "If we are working on projects we see as important to social transformation, it is easy to become obsessed with the project and let other areas of our lives slide."
+      },
+      {
+        "word": "Let (areas of life) slide",
+        "ipa": "/let slaɪd/",
+        "meaning": "Bỏ bê / Lơ là (các khía cạnh đời sống)",
+        "context": "If we are working on projects we see as important to social transformation, it is easy to become obsessed with the project and let other areas of our lives slide."
+      },
+      {
+        "word": "Strive to avoid",
+        "ipa": "/straɪv tu əˈvɔɪd/",
+        "meaning": "Nỗ lực tránh né",
+        "context": "We must all strive to avoid this pitfall."
       },
       {
         "word": "Workaholic",
         "ipa": "/ˌwɜːkəˈhɒlɪk/",
+        "meaning": "Người nghiện công việc",
         "context": "Workaholics may or may not be careerists."
       },
       {
-        "word": "Out of",
+        "word": "Out of balance",
         "ipa": "/aʊt əv ˈbæləns/",
+        "meaning": "Mất cân bằng",
         "context": "His life is seriously out of balance."
       }
     ]
@@ -1385,9 +2764,70 @@
     "driveFileId": "1Xaj_AcxIMRyAiRnvFbjkM0pfU9bk3rOq",
     "vocabItems": [
       {
+        "word": "Radiation treatment",
+        "ipa": "/ˌreɪdiˈeɪʃn triːtmənt/",
+        "meaning": "Đợt xạ trị / Việc điều trị bằng tia xạ",
+        "context": "After a month or so, I went for radiation treatment five days a week for seven weeks."
+      },
+      {
+        "word": "Tobacco companies",
+        "ipa": "/təˈbækəʊ ˌkʌmpəniz/",
+        "meaning": "Các công ty / tập đoàn thuốc lá",
+        "context": "I'm angry with myself for smoking, but I'm also angry with the tobacco companies."
+      },
+      {
+        "word": "Cigarette executives",
+        "ipa": "/ˌsɪɡəˈret ɪɡˈzekjətɪvz/",
+        "meaning": "Các giám đốc / nhà điều hành công ty thuốc lá",
+        "context": "I saw a couple of cigarette executives on TV the other day, and they had the gall to say there's no proof that smoking is bad for you."
+      },
+      {
+        "word": "Ruin (sth) for oneself",
+        "ipa": "/ˈruːɪn fə wʌnˈself/",
+        "meaning": "Tự tàn phá / Tự làm hỏng (cuộc sống/sức khỏe) của mình",
+        "context": "I thought, the world is such a beautiful place; why did I have to ruin it for myself by smoking?"
+      },
+      {
+        "word": "Have the gall to (do sth)",
+        "ipa": "/hæv ðə ɡɔːl tuː/",
+        "meaning": "Có sự trơ tráo / Cả gan làm gì",
+        "context": "On the way home, Bernice would have to pull the car off the road so I could vomit."
+      },
+      {
+        "word": "Be angry with (sb) for (V-ing)",
+        "ipa": "/bi ˈæŋɡri wɪð/",
+        "meaning": "Tức giận với ai vì đã làm gì",
+        "context": "I'm angry with myself for smoking..."
+      },
+      {
+        "word": "Struggle to (do sth)",
+        "ipa": "/ˈstrʌɡl tuː/",
+        "meaning": "Chật vật / Khó khăn làm gì",
+        "context": "...a scar from his chest round to his back, struggling to walk..."
+      },
+      {
+        "word": "Have (sth) blown up",
+        "ipa": "/hæv bləʊn ʌp/",
+        "meaning": "Cho phóng to (hình ảnh, bức ảnh)",
+        "context": "On the way home, Bernice would have to pull the car off the road so I could vomit."
+      },
+      {
         "word": "Inoperable",
         "ipa": "/ɪnˈɒpərəbl/",
+        "meaning": "Không thể phẫu thuật / mổ được",
         "context": "The tumor was inoperable, so they just sewed me up again."
+      },
+      {
+        "word": "Distorted with pain",
+        "ipa": "/dɪˈstɔːtɪd wɪð peɪn/",
+        "meaning": "Biến dạng / Méo xệch vì đau đớn",
+        "context": "A man with no teeth, a scar from his chest round to his back, struggling to walk, face distorted with pain."
+      },
+      {
+        "word": "Be shocked by",
+        "ipa": "/bi ʃɒkt baɪ/",
+        "meaning": "Bị sốc / Bị bàng hoàng bởi",
+        "context": "...I am shocked by what I see."
       }
     ]
   },
@@ -1419,9 +2859,70 @@
     "driveFileId": "1JA5soxQ3WNqicFfgVQbQhhcd7hjQldQv",
     "vocabItems": [
       {
+        "word": "Public elementary school",
+        "ipa": "/ˌpʌblɪk ˌelɪˈmentri skuːl/",
+        "meaning": "Trường tiểu học công lập",
+        "context": "Most children go to public elementary and secondary schools."
+      },
+      {
         "word": "Tax money",
         "ipa": "/tæks ˈmʌni/",
+        "meaning": "Tiền thuế (ngân sách nhà nước)",
         "context": "The parents of public pupils do not have to pay directly for their children's education because tax money supports the public schools."
+      },
+      {
+        "word": "High school graduates",
+        "ipa": "/haɪ skuːl ˈɡrædʒuəts/",
+        "meaning": "Học sinh tốt nghiệp trung học phổ thông",
+        "context": "Today, about half of the high school graduates go to college and universities that receive tax money from the government."
+      },
+      {
+        "word": "College expenses",
+        "ipa": "/ˈkɒlɪdʒ ɪkˈspensɪz/",
+        "meaning": "Chi phí học đại học",
+        "context": "When a student's family is not rich, he has to earn money for part of his college expenses."
+      },
+      {
+        "word": "Stay in school",
+        "ipa": "/steɪ ɪn skuːl/",
+        "meaning": "Duy trì việc học / Tiếp tục đến trường",
+        "context": "In some states, they must stay in school until they are 16."
+      },
+      {
+        "word": "Attend a private school",
+        "ipa": "/əˈtend ə ˈpraɪvət skuːl/",
+        "meaning": "Theo học trường tư thục",
+        "context": "If a child attends a private school, his parents pay for the child's education."
+      },
+      {
+        "word": "Receive tax money from",
+        "ipa": "/rɪˈsiːv tæks ˈmʌni frəm/",
+        "meaning": "Nhận tiền thuế hỗ trợ từ (chính phủ)",
+        "context": "Today, about half of the high school graduates go to college and universities that receive tax money from the government."
+      },
+      {
+        "word": "Earn money for",
+        "ipa": "/ɜːn ˈmʌni fə(r)/",
+        "meaning": "Kiếm tiền chi trả cho",
+        "context": "When a student's family is not rich, he has to earn money for part of his college expenses."
+      },
+      {
+        "word": "Pay directly for",
+        "ipa": "/peɪ dəˈrektli fə(r)/",
+        "meaning": "Chi trả trực tiếp cho",
+        "context": "The parents of public pupils do not have to pay directly for their children's education because tax money supports the public schools."
+      },
+      {
+        "word": "State university",
+        "ipa": "/steɪt ˌjuːnɪˈvɜːsəti/",
+        "meaning": "Trường đại học công lập bang",
+        "context": "A student at a state university does not have to pay very much if his parents live in that state."
+      },
+      {
+        "word": "Work while studying",
+        "ipa": "/wɜːk waɪl ˈstʌdiɪŋ/",
+        "meaning": "Vừa làm vừa học",
+        "context": "Private colleges and universities are expensive; however, almost half of the college students in the United States work while they are studying."
       }
     ]
   },
@@ -1456,14 +2957,70 @@
     "driveFileId": "192F4QWr90-5E4I7lYfy7T-OVY9LUcU7X",
     "vocabItems": [
       {
+        "word": "Watertight compartments",
+        "ipa": "/ˌwɔːtətaɪt kəmˈpɑːtmənts/",
+        "meaning": "Các khoang kín nước / chống tràn",
+        "context": "At that time, however, she was not only the largest ship that had ever been built but was regarded as unsinkable, for she had 16 watertight compartments."
+      },
+      {
+        "word": "Tragic sinking",
+        "ipa": "/ˈtrædʒɪk ˈsɪŋkɪŋ/",
+        "meaning": "Vụ đắm tàu thảm khốc / đau thương",
+        "context": "The tragic sinking of this great liner will always be remembered, for she went down on her first voyage with heavy loss of life."
+      },
+      {
+        "word": "Heavy loss of life",
+        "ipa": "/ˈhevi lɒs əv laɪf/",
+        "meaning": "Thảm họa thiệt mạng lớn / tổn thất lớn về người",
+        "context": "The tragic sinking of this great liner will always be remembered, for she went down on her first voyage with heavy loss of life."
+      },
+      {
+        "word": "Direct collision",
+        "ipa": "/dəˈrekt kəˈlɪʒn/",
+        "meaning": "Cú va chạm trực diện",
+        "context": "After the alarm had been given, the great ship turned sharply to avoid a direct collision."
+      },
+      {
+        "word": "Be regarded as",
+        "ipa": "/bi rɪˈɡɑːdɪd æz/",
+        "meaning": "Được xem là / được coi là",
+        "context": "...but was regarded as unsinkable..."
+      },
+      {
         "word": "Set out",
         "ipa": "/set aʊt/",
+        "meaning": "Khởi hành / Bắt đầu hành trình",
         "context": "Four days after setting out, while the Titanic was sailing across the icy waters of the North Atlantic, a huge iceberg was suddenly spotted by a lookout."
       },
       {
-        "word": "Narrowly",
-        "ipa": "/         /",
+        "word": "Narrowly miss",
+        "ipa": "/ˈnærəʊli mɪs/",
+        "meaning": "Suýt soát chệch / Sút trúng",
         "context": "The Titanic turned just in time, narrowly missing the immense wall of iceberg over 100 feet out of the water beside her."
+      },
+      {
+        "word": "Abandon the ship",
+        "ipa": "/əˈbændən ðə ʃɪp/",
+        "meaning": "Rời bỏ tàu (khi sắp đắm)",
+        "context": "The order to abandon the ship was given, and hundreds of people plunged into the icy water."
+      },
+      {
+        "word": "Plunge into",
+        "ipa": "/plʌndʒ ˈɪntə/",
+        "meaning": "Lao xuống / Nhảy xuống (dòng nước)",
+        "context": "The order to abandon the ship was given, and hundreds of people plunged into the icy water."
+      },
+      {
+        "word": "By modern standards",
+        "ipa": "/baɪ ˈmɒdn ˈstændədz/",
+        "meaning": "Theo tiêu chuẩn hiện đại",
+        "context": "Even by modern standards, the 46,000 ton Titanic was a colossal ship."
+      },
+      {
+        "word": "To one's horror",
+        "ipa": "/tə wʌnz ˈhɒrə(r)/",
+        "meaning": "Trong sự kinh hoàng của ai",
+        "context": "...the captain realized to his horror that the Titanic was sinking rapidly..."
       }
     ]
   },
@@ -1502,9 +3059,70 @@
     "driveFileId": "15zi_X8SW9UYuzQKQNxbJij4w5QhHvmDl",
     "vocabItems": [
       {
-        "word": "Formation of",
-        "ipa": "/fɔːˈmeɪʃn əv/",
+        "word": "Resistance to disease",
+        "ipa": "/rɪˈzɪstəns tu dɪˈziːz/",
+        "meaning": "Sức đề kháng với bệnh tật",
+        "context": "Lack of it may cause skin troubles and bad eyesight, and our resistance to disease may be lowered accordingly."
+      },
+      {
+        "word": "Digestion of food",
+        "ipa": "/daɪˈdʒestʃən əv fuːd/",
+        "meaning": "Sự tiêu hóa thức ăn",
+        "context": "It can play the role of a catalyst in digestion of food."
+      },
+      {
+        "word": "Formation of (teeth/bones)",
+        "ipa": "Formation of (teeth/bones)",
+        "meaning": "/fɔːˈmeɪʃn əv/",
         "context": "It is necessary for the formation of teeth, bones, and blood vessels."
+      },
+      {
+        "word": "Be essential to",
+        "ipa": "/bi ɪˈsenʃl tu/",
+        "meaning": "Rất quan trọng / Cần thiết đối với",
+        "context": "...vitamins are essential to our health."
+      },
+      {
+        "word": "Be short of",
+        "ipa": "/bi ʃɔːt əv/",
+        "meaning": "Thiếu hụt (dinh dưỡng, tiền bạc...)",
+        "context": "If we are short of it, we will probably lose our appetite..."
+      },
+      {
+        "word": "Lose one's appetite",
+        "ipa": "/luːz wʌnz ˈæpɪtaɪt/",
+        "meaning": "Mất cảm giác thèm ăn / Bỏ ăn",
+        "context": "If we are short of it, we will probably lose our appetite, and our growth will be slowed."
+      },
+      {
+        "word": "Play the role of a catalyst",
+        "ipa": "/pleɪ ðə rəʊl əv ə ˈkætəlɪst/",
+        "meaning": "Đóng vai trò làm chất xúc tác",
+        "context": "It can play the role of a catalyst in digestion of food."
+      },
+      {
+        "word": "As is known to all",
+        "ipa": "/æz ɪz nəʊn tu ɔːl/",
+        "meaning": "Như mọi người đều biết",
+        "context": "As is known to all, vitamins are essential to our health."
+      },
+      {
+        "word": "Chiefly contained in",
+        "ipa": "/ˈtʃiːfli kənˈteɪnd ɪn/",
+        "meaning": "Chủ yếu có/chứa trong",
+        "context": "Vitamin B is chiefly contained in bread, meat, milk, liver, and potatoes."
+      },
+      {
+        "word": "Vary considerably",
+        "ipa": "/ˈveəri kənˈsɪdərəbli/",
+        "meaning": "Khác nhau / Thay đổi đáng kể",
+        "context": "The amount of different kinds of vitamins needed daily by humans varies considerably."
+      },
+      {
+        "word": "Be lowered accordingly",
+        "ipa": "/bi ˈləʊəd əˈkɔːdɪŋli/",
+        "meaning": "Bị giảm xuống tương ứng",
+        "context": "Lack of it may cause skin troubles and bad eyesight, and our resistance to disease may be lowered accordingly."
       }
     ]
   },
@@ -1537,14 +3155,76 @@
     "driveFileId": "10AiUnfSqzK1EhhFwN27YPrVWOWifJRAh",
     "vocabItems": [
       {
-        "word": "Food",
-        "ipa": "/fuːd ˈædətɪvz/",
+        "word": "Profound effects",
+        "ipa": "/prəˈfaʊnd ɪˈfekts/",
+        "meaning": "Tác động / Ảnh hưởng sâu sắc",
         "context": "The food we eat seems to have profound effects on our health."
       },
       {
-        "word": "Fit",
-        "ipa": "/ Unfit to /",
+        "word": "Food additives",
+        "ipa": "/fuːd ˈædətɪvz/",
+        "meaning": "Các chất phụ gia thực phẩm",
+        "context": "In 1945, government researchers realized that nitrates, commonly used to preserve color in meats and other food additives, caused cancer."
+      },
+      {
+        "word": "Carcinogenic additives",
+        "ipa": "/ˌkɑːsɪnəˈdʒenɪk ˈædətɪvz/",
+        "meaning": "Các chất phụ gia gây ung thư",
+        "context": "Yet these carcinogenic additives remain in our food, and it becomes more difficult all the time to know what is contained in our food."
+      },
+      {
+        "word": "Medicinal purposes",
+        "ipa": "/məˈdɪsɪnl ˈpɜːpəsɪz/",
+        "meaning": "Mục đích y tế / chữa bệnh",
+        "context": "Sometimes similar drugs are administered to animals not for medicinal purposes, but for financial reasons."
+      },
+      {
+        "word": "Be related to",
+        "ipa": "/bi rɪˈleɪtɪd tu/",
+        "meaning": "Có liên quan đến / Rút ra từ",
+        "context": "...80% of all human illnesses are related to diet..."
+      },
+      {
+        "word": "Be prone to contract",
+        "ipa": "/bi prəʊn tu kənˈtrækt/",
+        "meaning": "Dễ bị / Có nguy cơ cao mắc (bệnh)",
+        "context": "Some cultures are more prone to contract certain illnesses..."
+      },
+      {
+        "word": "Preserve color",
+        "ipa": "/prɪˈzɜːv ˈkʌlə(r)/",
+        "meaning": "Bảo quản / Giữ màu sắc",
+        "context": "In 1945, government researchers realized that nitrates, commonly used to preserve color in meats and other food additives, caused cancer."
+      },
+      {
+        "word": "Administer to",
+        "ipa": "/ədˈmɪnɪstə tu/",
+        "meaning": "Cấp / Cho dùng (thuốc) cho",
+        "context": "Sometimes similar drugs are administered to animals not for medicinal purposes, but for financial reasons."
+      },
+      {
+        "word": "Fatten the animals",
+        "ipa": "/ˈfætn ðə ˈænɪmlz/",
+        "meaning": "Vỗ béo vật nuôi",
+        "context": "The farmers are simply trying to fatten the animals in order to obtain a higher price on the market."
+      },
+      {
+        "word": "Fit / Unfit to eat",
+        "ipa": "Fit / Unfit to eat",
+        "meaning": "/fɪt / ʌnˈfɪt tu iːt/",
         "context": "Although science has made enormous steps in making food more fit to eat, it has at the same time made many foods unfit to eat."
+      },
+      {
+        "word": "Be characteristic in",
+        "ipa": "/bi ˌkærəktəˈrɪstɪk ɪn/",
+        "meaning": "Mang tính đặc trưng trong",
+        "context": "...because of the food that is characteristic in these cultures."
+      },
+      {
+        "word": "For financial reasons",
+        "ipa": "/fə faɪˈnænʃl ˈriːznz/",
+        "meaning": "Vì lý do tài chính / lợi nhuận",
+        "context": "Sometimes similar drugs are administered to animals not for medicinal purposes, but for financial reasons."
       }
     ]
   },
@@ -1578,7 +3258,80 @@
     "vocab": "A. TARGET VOCABULARY\n\n1. Danh từ & Cụm danh từ (Nouns & Noun Phrases)\n\n -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n STT Từ / Cụm từ Phiên âm (IPA) Nghĩa tiếng Việt Ví dụ trong bài\n ----- ------------------------------ ------------------------------- -------------------------------------------- -----------------------------------------------------------------------------\n 1 Symbol of power and strength /ˈsɪmbl əv ˈpaʊər ænd streŋθ/ Biểu tượng của quyền lực và sức mạnh ...the hand was probably a symbol of power and strength.\n\n 2 Mark of inferiority /mɑːk əv ɪnˌfɪəriˈɒrəti/ Dấu hiệu của sự yếu thế / thấp kém ...each tried to prevent the other from showing this mark of “inferiority”.\n\n 3 Down through the ages /daʊn θruː ði eɪdʒɪz/ Trải qua nhiều thế hệ / Qua nhiều thời đại ...have been full of meaning to people down through the ages.\n -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n\n2. Động từ & Cụm động từ (Verbs & Verb Phrases)\n\n --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n STT Từ / Cụm từ Phiên âm (IPA) Nghĩa tiếng Việt Ví dụ trong bài\n ----- ----------------------- ------------------------- ------------------------------------------ -----------------------------------------------------------------------------------------\n 4 Do without thinking /duː wɪðˈaʊt ˈθɪŋkɪŋ/ Làm mà không cần suy nghĩ (theo phản xạ) ...like so many other things we do without thinking...\n\n 5 Represent goodwill /ˌreprɪˈzent ˌɡʊdˈwɪl/ Thể hiện / Đại diện cho thiện chí ...it could have represented goodwill, since it showed that the person was not armed...\n\n 6 Pay respect to /peɪ rɪˈspekt tu/ Tỏ lòng tôn kính / Bày tỏ sự tôn trọng ...the way an inferior person paid respect to a superior.\n\n 7 Resist the efforts of /rɪˈzɪst ðər ˈefəts əv/ Khước từ / Chống lại nỗ lực của ...polite Arabs began to resist the efforts of people to kiss their hands...\n\n 8 Indicate friendship /ˈɪndɪkeɪt ˈfrendʃɪp/ Bày tỏ / Thể hiện tình bạn ...when they wished to indicate friendship to a stranger.\n\n 9 Carry on a custom /ˈkæri ɒn ə ˈkʌstəm/ Tiếp nối / Duy trì một tập quán ...we are really carrying on a custom...\n\n 10 Be handed down from /bi ˈhændɪd daʊn frəm/ Được lưu truyền / Truyền lại từ ...that has been handed down to us from ancient times.\n --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n\n3. Tính từ, Cụm từ & Cấu trúc khác (Adjectives, Phrases & Structures)\n\n -----------------------------------------------------------------------------------------------------------------------------------------------------------------\n STT Từ / Cụm từ Phiên âm (IPA) Nghĩa tiếng Việt Ví dụ trong bài\n ----- -------------------- ----------------------- ------------------------------------------ -------------------------------------------------------------------\n 11 Perfectly natural /ˈpɜːfɪktli ˈnætʃrəl/ Hoàn toàn tự nhiên / Đương nhiên Today it is perfectly natural for us to shake hands...\n\n 12 Be full of meaning /bi fʊl əv ˈmiːnɪŋ/ Đầy ắp ý nghĩa / Chứa đựng nhiều ý nghĩa The hand, and what was done with it, have been full of meaning...\n -----------------------------------------------------------------------------------------------------------------------------------------------------------------",
     "speaking": "B. SPEAKING PROMPTS & HINTS\n\n1. Đề bài dành cho trình độ A2 (Cơ bản - Văn hóa Chào hỏi & Ý nghĩa Cử chỉ)\n\nĐề bài (Prompt):\n\n\"How do people greet each other in your country, and why is shaking hands or bowing a good way to show respect?\"\n\n(Mọi người chào hỏi nhau như thế nào ở quốc gia của bạn, và tại sao bắt tay hoặc cúi chào lại là một cách tốt để thể hiện sự tôn trọng?)\n\nGợi ý cấu trúc bài nói (Speaking Hints):\n\n- Mở đầu (Introduction): Giới thiệu thói quen chào hỏi thông thường.\n\n - Mẫu câu: In my country, greeting people is perfectly natural when we meet friends or new people.\n\n- Thân bài 1 (Ý nghĩa cử chỉ chào hỏi):\n\n - Mẫu câu: Shaking hands is an action many people do without thinking. When we hold out our hand, we indicate friendship and represent goodwill to others.\n\n- Thân bài 2 (Thể hiện sự tôn trọng & Truyền thống):\n\n - Mẫu câu: Bowing or shaking hands is a polite way to pay respect to older people or superiors. This habit has been handed down from our ancestors and is full of meaning.\n\n- Kết luận (Conclusion): Tóm tắt suy nghĩ.\n\n - Mẫu câu: In short, simple body gestures make social communication polite and warm.\n\n2. Đề bài dành cho trình độ B1 (Trung cấp - Giá trị của Tập quán Truyền thống & Giao tiếp Văn hóa)\n\nĐề bài (Prompt):\n\n\"Many daily gestures like shaking hands have deep historical origins. Why is it important to carry on traditional customs, and how do gestures represent goodwill in different cultures?\"\n\n(Nhiều cử chỉ hàng ngày như bắt tay có nguồn gốc lịch sử sâu xa. Tại sao việc tiếp nối các tập quán truyền thống lại quan trọng, và các cử chỉ thể hiện thiện chí như thế nào trong các nền văn hóa khác nhau?)\n\nGợi ý cấu trúc bài nói (Speaking Hints):\n\n- Mở đầu (Introduction): Dẫn dắt về ý nghĩa văn hóa của các cử chỉ hàng ngày.\n\n - Mẫu câu: Although shaking hands feels perfectly natural today, it is a practice full of meaning that has developed down through the ages.\n\n- Thân bài 1 (Lịch sử và mục đích của cử chỉ):\n\n - Mẫu câu: In ancient history, the hand was a symbol of power and strength. Extending an open hand was used to indicate friendship and represent goodwill by showing one was not armed. In many societies, people developed specific gestures to pay respect to leaders without accepting a mark of inferiority.\n\n- Thân bài 2 (Tầm quan trọng của việc duy trì truyền thống):\n\n - Mẫu câu: Modern society should carry on a custom that has been handed down from ancient times. Even when some people resist the efforts of following old habits, understanding why we perform actions that we usually do without thinking helps preserve cultural connection.\n\n- Kết luận (Conclusion): Tổng kết thông điệp.\n\n - Mẫu câu: In conclusion, understanding the history behind simple gestures enriches our daily communication and preserves shared human values.",
     "driveFileId": "1da25txP48uEb0E9R8v3vQ-t07cQxwaQp",
-    "vocabItems": []
+    "vocabItems": [
+      {
+        "word": "Symbol of power and strength",
+        "ipa": "/ˈsɪmbl əv ˈpaʊər ænd streŋθ/",
+        "meaning": "Biểu tượng của quyền lực và sức mạnh",
+        "context": "For example, in primitive life, the hand was probably a symbol of power and strength."
+      },
+      {
+        "word": "Mark of inferiority",
+        "ipa": "/mɑːk əv ɪnˌfɪəriˈɒrəti/",
+        "meaning": "Dấu hiệu của sự yếu thế / thấp kém",
+        "context": "We know that the hand was an important symbol in early religion, probably as a mark of power."
+      },
+      {
+        "word": "Down through the ages",
+        "ipa": "/daʊn θruː ði eɪdʒɪz/",
+        "meaning": "Trải qua nhiều thế hệ / Qua nhiều thời đại",
+        "context": "The hand, and what was done with it, have been full of meaning to people down through the ages."
+      },
+      {
+        "word": "Do without thinking",
+        "ipa": "/duː wɪðˈaʊt ˈθɪŋkɪŋ/",
+        "meaning": "Làm mà không cần suy nghĩ (theo phản xạ)",
+        "context": "But like so many other things we do without thinking, such actions as shaking hands at one time probably symbolize something else."
+      },
+      {
+        "word": "Represent goodwill",
+        "ipa": "/ˌreprɪˈzent ˌɡʊdˈwɪl/",
+        "meaning": "Thể hiện / Đại diện cho thiện chí",
+        "context": "So when the hand was extended to someone, it could have represented goodwill, since it showed that the person was not armed or ready to fight."
+      },
+      {
+        "word": "Pay respect to",
+        "ipa": "/peɪ rɪˈspekt tu/",
+        "meaning": "Tỏ lòng tôn kính / Bày tỏ sự tôn trọng",
+        "context": "...the way an inferior person paid respect to a superior."
+      },
+      {
+        "word": "Resist the efforts of",
+        "ipa": "/rɪˈzɪst ðər ˈefəts əv/",
+        "meaning": "Khước từ / Chống lại nỗ lực của",
+        "context": "Later on, polite Arabs began to resist the efforts of people to kiss their hands, and sometimes they would end up clapping hands as each tried to prevent the other from showing this mark of “inferiority”."
+      },
+      {
+        "word": "Indicate friendship",
+        "ipa": "/ˈɪndɪkeɪt ˈfrendʃɪp/",
+        "meaning": "Bày tỏ / Thể hiện tình bạn",
+        "context": "The early Greeks held out the right hand when they wished to indicate friendship to a stranger."
+      },
+      {
+        "word": "Carry on a custom",
+        "ipa": "/ˈkæri ɒn ə ˈkʌstəm/",
+        "meaning": "Tiếp nối / Duy trì một tập quán",
+        "context": "And while we shake hands, we are really carrying on a custom that has been handed down to us from ancient times."
+      },
+      {
+        "word": "Be handed down from",
+        "ipa": "/bi ˈhændɪd daʊn frəm/",
+        "meaning": "Được lưu truyền / Truyền lại từ",
+        "context": "...that has been handed down to us from ancient times."
+      },
+      {
+        "word": "Perfectly natural",
+        "ipa": "/ˈpɜːfɪktli ˈnætʃrəl/",
+        "meaning": "Hoàn toàn tự nhiên / Đương nhiên",
+        "context": "Today it is perfectly natural for us to shake hands when we greet someone, or say goodbye."
+      },
+      {
+        "word": "Be full of meaning",
+        "ipa": "/bi fʊl əv ˈmiːnɪŋ/",
+        "meaning": "Đầy ắp ý nghĩa / Chứa đựng nhiều ý nghĩa",
+        "context": "The hand, and what was done with it, have been full of meaning..."
+      }
+    ]
   },
   {
     "track": 35,
@@ -1612,28 +3365,63 @@
     "driveFileId": "1gV2o4COMGo5eyDEYiNXBzyOX_JQnu-rq",
     "vocabItems": [
       {
-        "word": "Selfless",
-        "ipa": "/        /",
+        "word": "Selfless love",
+        "ipa": "/ˈselfləs lʌv/",
+        "meaning": "Tình yêu vị tha / Không vị kỷ",
         "context": "Only a mother's love is selfless love."
       },
       {
-        "word": "Attend to",
+        "word": "Waking hours",
+        "ipa": "/ˈweɪkɪŋ ˈaʊəz/",
+        "meaning": "Lúc thức / Thời gian tỉnh táo",
+        "context": "In your waking hours, she held you in her arms."
+      },
+      {
+        "word": "Attend to (sb)",
         "ipa": "/əˈtend tu/",
+        "meaning": "Chăm sóc / Chăm nom ai",
         "context": "Whenever you made the least noise, she stopped her work to attend to you."
       },
       {
-        "word": "As much",
-        "ipa": "/        /",
-        "context": "When you were a baby, your mother protected you as much as she could."
+        "word": "Give one's whole heart to",
+        "ipa": "/ɡɪv wʌnz həʊl hɑːt tu/",
+        "meaning": "Dành trọn trái tim / Tâm trí cho",
+        "context": "She gave her whole heart to you."
       },
       {
-        "word": "The",
-        "ipa": "/    stɜː(r)/",
+        "word": "Feel sorry for",
+        "ipa": "/fiːl ˈsɒri fə(r)/",
+        "meaning": "Thương xót / Đau lòng cho",
+        "context": "In case your health and work were not very good, she would feel sorry for you, even more sorry than you felt yourself."
+      },
+      {
+        "word": "Shed tears for",
+        "ipa": "/ʃed tɪəz fə(r)/",
+        "meaning": "Rơi nước mắt vì ai / cái gì",
+        "context": "If you search the trunk carefully, you might find some tears in a corner, which your mother had shed for your leaving."
+      },
+      {
+        "word": "As much as (sb) could",
+        "ipa": "/æz mʌtʃ æz/",
+        "meaning": "Hết sức có thể / Nhiều nhất có thể",
+        "context": "...your mother protected you as much as she could."
+      },
+      {
+        "word": "The least noise / stir",
+        "ipa": "The least noise / stir",
+        "meaning": "/ðə liːst noɪz / stɜː(r)/",
         "context": "Only a mother's love is selfless love."
+      },
+      {
+        "word": "In case",
+        "ipa": "/ɪn keɪs/",
+        "meaning": "Trong trường hợp / Phòng khi",
+        "context": "In case your health and work were not very good, she would feel sorry for you, even more sorry than you felt yourself."
       },
       {
         "word": "As if",
         "ipa": "/æz ɪf/",
+        "meaning": "Như thể là",
         "context": "When you went home for a vacation, she would make your bed and prepare foods for you as if you were a guest."
       }
     ]
@@ -1684,23 +3472,75 @@
     "driveFileId": "1tIml4ybi-4QkIlPq6O-LbZaFaL1YNCrl",
     "vocabItems": [
       {
-        "word": "Principal",
-        "ipa": "/         /",
+        "word": "Principal role",
+        "ipa": "/ˈprɪnsəpl rəʊl/",
+        "meaning": "Vai trò chính / Vai trò chủ đạo",
         "context": "Historically, man's nose has had a principal role in his imagination."
       },
       {
-        "word": "Turn (sb)",
+        "word": "Human weakness",
+        "ipa": "/ˈhjuːmən ˈwiːknəs/",
+        "meaning": "Điểm yếu / Nhược điểm của con người",
+        "context": "Expressions concerning the nose refer to human weakness: anger, pride, jealousy, and revenge."
+      },
+      {
+        "word": "Organ for breathing and smelling",
+        "ipa": "/ˈɔːɡən fə ˈbriːðɪŋ ænd ˈsmelɪŋ/",
+        "meaning": "Cơ quan dùng để thở và ngửi",
+        "context": "However, it should be as plain as the nose on your face that the nose is more than an organ for breathing and smelling."
+      },
+      {
+        "word": "Give a person special character",
+        "ipa": "/ɡɪv ə ˈpɜːsn ˈspeʃl ˈkærəktə(r)/",
+        "meaning": "Tạo nên nét đặc trưng / Cá tính riêng",
+        "context": "The human nose has given to the languages of the world many interesting expressions."
+      },
+      {
+        "word": "Hold up one's nose (at sb/sth)",
+        "ipa": "Hold up one's nose (at sb/sth)",
+        "meaning": "/həʊld ʌp wʌnz nəʊz/",
+        "context": "For example, to hold up one's nose expresses a basic human feeling - pride."
+      },
+      {
+        "word": "Be led around by the nose",
+        "ipa": "/bi led əˈraʊnd baɪ ðə nəʊz/",
+        "meaning": "Bị dắt mũi / Bị chi phối hoàn toàn",
+        "context": "The phrase, “to be led around by the nose” shows man's weakness."
+      },
+      {
+        "word": "Follow one's nose",
+        "ipa": "/ˈfɒləʊ wʌnz nəʊz/",
+        "meaning": "Đi theo bản năng / Đi thẳng tới",
+        "context": "On the other hand, a person who follows his nose lets his instinct guide him."
+      },
+      {
+        "word": "Have one's nose put out of joint",
+        "ipa": "/hæv wʌnz nəʊz pʊt aʊt əv dʒɔɪnt/",
+        "meaning": "Bị phật ý / Cảm thấy bị ra rìa, tự ái",
+        "context": "For the human emotion of rejection, the phrase “to have one's nose put out of joint” is very descriptive."
+      },
+      {
+        "word": "Turn (sb) aside",
         "ipa": "/tɜːn əˈsaɪd/",
+        "meaning": "Gạt ai sang một bên / Phớt lờ ai",
         "context": "The expression applies to persons who have been turned aside because of a competitor."
       },
       {
-        "word": "Expressions",
-        "ipa": "/    /",
-        "context": "The human nose has given to the languages of the world many interesting expressions."
+        "word": "As plain as the nose on your face",
+        "ipa": "/æz pleɪn æz ðə nəʊz ɒn jɔː feɪs/",
+        "meaning": "Rõ ràng như ban ngày / Quá hiển nhiên",
+        "context": "However, it should be as plain as the nose on your face that the nose is more than an organ for breathing and smelling."
+      },
+      {
+        "word": "Expressions concerning",
+        "ipa": "/ɪkˈspreʃnz kənˈsɜːnɪŋ/",
+        "meaning": "Các biểu cảm / Thành ngữ liên quan đến",
+        "context": "Expressions concerning the nose refer to human weakness: anger, pride, jealousy, and revenge."
       },
       {
         "word": "Deal with",
         "ipa": "/diːl wɪð/",
+        "meaning": "Xử lý / Đề cập đến / Mối liên hệ với",
         "context": "This is only a sampling of expressions in English dealing with the nose."
       }
     ]
@@ -1735,19 +3575,70 @@
     "driveFileId": "1vTyvivbw89qfmvVLVA5aehZYEE7gjiUU",
     "vocabItems": [
       {
+        "word": "People in need",
+        "ipa": "/ˈpiːpl ɪn niːd/",
+        "meaning": "Những người gặp hoàn cảnh khó khăn / cần trợ giúp",
+        "context": "Today, the Red Cross in the United States provides a number of services for the public, such as helping people in need, teaching first aid, demonstrating water safety and artificial respiration, and providing blood."
+      },
+      {
+        "word": "Sick and wounded",
+        "ipa": "/sɪk ænd ˈwuːndɪd/",
+        "meaning": "Người ốm đau và người bị thương",
+        "context": "The idea of forming an organization to help the sick and wounded during a war started with Jean Henri Dunant."
+      },
+      {
+        "word": "Prisoners of war",
+        "ipa": "/ˈprɪznəz əv wɔː(r)/",
+        "meaning": "Tù binh chiến tranh",
+        "context": "It protects prisoners of war, the sick and wounded, and other citizens during a war."
+      },
+      {
+        "word": "First aid",
+        "ipa": "/ˌfɜːst ˈeɪd/",
+        "meaning": "Sơ cứu ban đầu",
+        "context": "Today, the Red Cross in the United States provides a number of services for the public, such as helping people in need, teaching first aid, demonstrating water safety and artificial respiration, and providing blood."
+      },
+      {
         "word": "Care for",
         "ipa": "/keə(r) fə(r)/",
+        "meaning": "Chăm sóc / Quan tâm đến",
         "context": "The Red Cross is an international organization which cares for people who are in need of help."
       },
       {
-        "word": "Be aided",
+        "word": "Be aided by",
         "ipa": "/bi ˈeɪdɪd baɪ/",
+        "meaning": "Được giúp đỡ / hỗ trợ bởi",
         "context": "A man in a Paris hospital who needs blood, a woman in Mexico who was injured in an earthquake, and a family in India that lost their home in a storm may all be aided by the Red Cross."
+      },
+      {
+        "word": "Share a common goal",
+        "ipa": "/ʃeə(r) ə ˈkɒmən ɡəʊl/",
+        "meaning": "Có chung một mục tiêu",
+        "context": "All of these agencies share a common goal of trying to help people in need."
       },
       {
         "word": "Set up",
         "ipa": "/set ʌp/",
+        "meaning": "Thành lập / Tác tạo",
         "context": "The American Red Cross was set up by Clara Barton in 1881."
+      },
+      {
+        "word": "Provide a number of services",
+        "ipa": "/prəˈvaɪd ə ˈnʌmbər əv ˈsɜːvɪsɪz/",
+        "meaning": "Cung cấp nhiều dịch vụ",
+        "context": "Today, the Red Cross in the United States provides a number of services for the public, such as helping people in need, teaching first aid, demonstrating water safety and artificial respiration, and providing blood."
+      },
+      {
+        "word": "Around the globe",
+        "ipa": "/əˈraʊnd ðə ɡləʊb/",
+        "meaning": "Trên khắp thế giới / toàn cầu",
+        "context": "The Red Cross exists in almost every country around the globe."
+      },
+      {
+        "word": "Regardless of",
+        "ipa": "/rɪˈɡɑːdləs əv/",
+        "meaning": "Bất kể / Không phân biệt",
+        "context": "He wanted to help all the wounded people regardless of which side they were fighting for."
       }
     ]
   },
@@ -1780,9 +3671,70 @@
     "driveFileId": "1vrPoW-LF80OHKZSFE6rYwXMJlJ5aA98-",
     "vocabItems": [
       {
-        "word": "Make up (the",
+        "word": "Ethnic groups",
+        "ipa": "/ˈeθnɪk ɡruːps/",
+        "meaning": "Các nhóm dân tộc",
+        "context": "What ethnic groups make up the Australian population?"
+      },
+      {
+        "word": "Be of (...) descent",
+        "ipa": "/bi əv dɪˈsent/",
+        "meaning": "Có nguồn gốc / Gốc gác (từ đâu)",
+        "context": "The majority of Australians are of English, Irish... descent."
+      },
+      {
+        "word": "Lush green pastures",
+        "ipa": "/lʌʃ ɡriːn ˈpɑːstʃəz/",
+        "meaning": "Những đồng cỏ xanh mướt",
+        "context": "Lush green pastures may be typical in sheep farming areas."
+      },
+      {
+        "word": "Metropolitan areas",
+        "ipa": "/ˌmetrəˈpɒlɪtn ˈeəriəz/",
+        "meaning": "Các khu vực đô thị / Vùng đô thị",
+        "context": "That explains why most Australians live in metropolitan areas, many of which line the coast, and why Australia is considered one of the world's more urbanised countries."
+      },
+      {
+        "word": "Make up (the population)",
         "ipa": "/meɪk ʌp/",
+        "meaning": "Cấu thành / Chiếm tỷ lệ (dân số)",
         "context": "That makes this island nation one of the least densely populated countries."
+      },
+      {
+        "word": "Make (a place) one's home",
+        "ipa": "/meɪk wʌnz həʊm/",
+        "meaning": "Định cư / Chọn làm quê hương",
+        "context": "That makes this island nation one of the least densely populated countries."
+      },
+      {
+        "word": "Line the coast",
+        "ipa": "/laɪn ðə kəʊst/",
+        "meaning": "Trải dài / Nằm dọc theo bờ biển",
+        "context": "That explains why most Australians live in metropolitan areas, many of which line the coast, and why Australia is considered one of the world's more urbanised countries."
+      },
+      {
+        "word": "Roughly the size of",
+        "ipa": "/ˈrʌfli ðə saɪz əv/",
+        "meaning": "Có kích thước xấp xỉ / Tương đương",
+        "context": "Although roughly the size of the United States mainland, Australia has a population of about 16.5 million people."
+      },
+      {
+        "word": "Densely populated",
+        "ipa": "/ˈdensli ˈpɒpjuleɪtɪd/",
+        "meaning": "Đông dân / Mật độ dân số cao",
+        "context": "That makes this island nation one of the least densely populated countries."
+      },
+      {
+        "word": "Inhabited continent",
+        "ipa": "/ɪnˈhæbɪtɪd ˈkɒntɪnənt/",
+        "meaning": "Châu lục có con người sinh sống",
+        "context": "In addition to being the smallest, Australia is also the driest inhabited continent."
+      },
+      {
+        "word": "In an undeveloped state",
+        "ipa": "/ɪn ən ˌʌndɪˈveləpt steɪt/",
+        "meaning": "Ở trạng thái hoang sơ / Chưa khai phá",
+        "context": "...unable to live on it in its undeveloped state."
       }
     ]
   },
@@ -1812,19 +3764,70 @@
     "driveFileId": "15gHzSr5C1385mkfT46ugNCPcTU2S7bkl",
     "vocabItems": [
       {
-        "word": "Traditional",
+        "word": "Traditional role",
         "ipa": "/trəˈdɪʃənl rəʊl/",
+        "meaning": "Vai trò truyền thống",
         "context": "In Japan, most people still feel that a woman's place is in the home, and most women willingly accept their traditional role as wives, leaving the business of making a living to their husbands."
+      },
+      {
+        "word": "Chances for advancement",
+        "ipa": "/tʃɑːnsɪz fər ədˈvɑːnsmənt/",
+        "meaning": "Cơ hội thăng tiến",
+        "context": "As in Japan, most fields are dominated by men, and opportunities for women have been restricted, salaries low, chances for advancement rare."
+      },
+      {
+        "word": "Sex discrimination",
+        "ipa": "/seks dɪˌskrɪmɪˈneɪʃn/",
+        "meaning": "Sự phân biệt đối xử theo giới tính",
+        "context": "One of the main goals of the modern women's liberation movement, which started in the early 1960s, was to eliminate sex discrimination in the workforce, and to open up opportunities for women that were previously reserved for men."
+      },
+      {
+        "word": "Women's liberation movement",
+        "ipa": "/ˈwɪmɪnz ˌlɪbəˈreɪʃn ˈmuːvmənt/",
+        "meaning": "Phong trào giải phóng phụ nữ",
+        "context": "One of the main goals of the modern women's liberation movement, which started in the early 1960s, was to eliminate sex discrimination in the workforce, and to open up opportunities for women that were previously reserved for men."
+      },
+      {
+        "word": "Make a living",
+        "ipa": "/meɪk ə ˈlɪvɪŋ/",
+        "meaning": "Kiếm sống / Trang trải cuộc sống",
+        "context": "...leaving the business of making a living to their husbands."
       },
       {
         "word": "Settle for",
         "ipa": "/ˈsetl fə(r)/",
+        "meaning": "Đành chấp nhận / Cam chịu",
         "context": "For those who do want a career of their own, opportunities are limited, and working women usually have to settle for lower wages, fewer promotions, and less responsible positions."
+      },
+      {
+        "word": "Be dominated by",
+        "ipa": "/bi ˈdɒmɪneɪtɪd baɪ/",
+        "meaning": "Bị chi phối / Chiếm đa số bởi",
+        "context": "...most fields are dominated by men..."
       },
       {
         "word": "Eliminate",
         "ipa": "/ɪˈlɪmɪneɪt/",
+        "meaning": "Xóa bỏ / Loại bỏ",
         "context": "One of the main goals of the modern women's liberation movement, which started in the early 1960s, was to eliminate sex discrimination in the workforce, and to open up opportunities for women that were previously reserved for men."
+      },
+      {
+        "word": "Be reserved for",
+        "ipa": "/bi rɪˈzɜːvd fə(r)/",
+        "meaning": "Dành riêng cho",
+        "context": "...opportunities for women that were previously reserved for men."
+      },
+      {
+        "word": "Round-the-clock",
+        "ipa": "/ˌraʊnd ðə ˈklɒk/",
+        "meaning": "Suốt ngày đêm / Liên tục 24/7",
+        "context": "So American women actually have two jobs: one nine-to-five position outside the home, and the other round-the-clock in-the-home job, such as wife, housemaid, cook, and nurse."
+      },
+      {
+        "word": "There is still a long way to go",
+        "ipa": "/ðeər ɪz stɪl ə lɒŋ weɪ tu ɡəʊ/",
+        "meaning": "Vẫn còn một chặng đường dài phía trước",
+        "context": "And though there is still a long way to go, a lot of progress has been made.."
       }
     ]
   },
@@ -1852,28 +3855,63 @@
     "driveFileId": "1ls62XcBq8Nf9eB7d-dpBrvKjEuDmt-Gy",
     "vocabItems": [
       {
-        "word": "Come to",
-        "ipa": "/   /",
+        "word": "A great deal of responsibility",
+        "ipa": "/ə ɡreɪt diːl əv rɪˌspɒnsəˈbɪləti/",
+        "meaning": "Trách nhiệm lớn / Ý thức tự lập cao",
+        "context": "It seems to me that for young children, they come to decisions very quickly and I was thinking about this and one of the reasons might be that she has given them a great deal of responsibility at a very young age."
+      },
+      {
+        "word": "Clothes of one's own liking",
+        "ipa": "/kləʊðz əv wʌnz əʊn ˈlaɪkɪŋ/",
+        "meaning": "Quần áo theo sở thích riêng",
+        "context": "She takes them shopping many times, and she allows them to choose clothes of their own liking, and I think in a way that teaches a great deal of responsibility."
+      },
+      {
+        "word": "Come to / Reach a decision",
+        "ipa": "Come to / Reach a decision",
+        "meaning": "/kʌm tu / riːtʃ ə dɪˈsɪʒn/",
         "context": "It is amusing to watch some of my friends who can come to a decision right away, and others who can't."
       },
       {
         "word": "Ponder",
         "ipa": "/ˈpɒndə(r)/",
+        "meaning": "Suy ngẫm / Trăn trở / Cân nhắc kỹ",
         "context": "The others will ponder and look at the thing, and not be able to reach any kind of decision for a long, long time without some help."
       },
       {
-        "word": "Decide on",
+        "word": "Decide on (sth)",
         "ipa": "/dɪˈsaɪd ɒn/",
+        "meaning": "Quyết định chọn cái gì",
         "context": "Of course, they consult her sometimes, but many times they are able to decide on something on their own, and I was thinking about my friends and how some of them were not able to make a decision on their own and maybe their parents didn't allow them to decide their own clothes."
       },
       {
-        "word": "Consult",
+        "word": "Consult (sb)",
         "ipa": "/kənˈsʌlt/",
+        "meaning": "Hỏi ý kiến / Tham khảo ý kiến ai",
         "context": "Of course, they consult her sometimes, but many times they are able to decide on something on their own, and I was thinking about my friends and how some of them were not able to make a decision on their own and maybe their parents didn't allow them to decide their own clothes."
+      },
+      {
+        "word": "Right away",
+        "ipa": "/raɪt əˈweɪ/",
+        "meaning": "Ngay lập tức",
+        "context": "It is amusing to watch some of my friends who can come to a decision right away, and others who can't."
+      },
+      {
+        "word": "On one's own",
+        "ipa": "/ɒn wʌnz əʊn/",
+        "meaning": "Tự mình / Bằng chính sức mình",
+        "context": "She has allowed them to make decisions on their own."
+      },
+      {
+        "word": "It is amusing to (do sth)",
+        "ipa": "/ɪt ɪz əˈmjuːzɪŋ tu/",
+        "meaning": "Thật thú vị / Buồn cười khi (làm gì)",
+        "context": "It is amusing to watch some of my friends..."
       },
       {
         "word": "In a way",
         "ipa": "/ɪn ə weɪ/",
+        "meaning": "Theo một cách nào đó / Ở khía cạnh nào đó",
         "context": "She takes them shopping many times, and she allows them to choose clothes of their own liking, and I think in a way that teaches a great deal of responsibility."
       }
     ]
@@ -1908,23 +3946,63 @@
     "driveFileId": "1zucy6fdRg8G5EjBvRjRDed5V2QDdsfNt",
     "vocabItems": [
       {
-        "word": "A time of",
-        "ipa": "/        dʒɔɪ /",
-        "context": "Marriage is also a time of joy."
+        "word": "Special ceremony",
+        "ipa": "/ˌspeʃl ˈserəməni/",
+        "meaning": "Nghi lễ / Lễ kỷ niệm đặc biệt",
+        "context": "Death is a time of sorrow and is marked by a special ceremony and mourning."
       },
       {
-        "word": "Have a choice",
+        "word": "On behalf of",
+        "ipa": "/ɒn bɪˈhɑːf əv/",
+        "meaning": "Thay mặt cho / Đại diện cho",
+        "context": "...receive congratulations and presents on behalf of the newborn."
+      },
+      {
+        "word": "A time of joy / sorrow",
+        "ipa": "A time of joy / sorrow",
+        "meaning": "/ə taɪm əv dʒɔɪ / ˈsɒrəʊ/",
+        "context": "Thời điểm của sự vui mừng / nỗi buồn"
+      },
+      {
+        "word": "Be marked by",
+        "ipa": "/bi mɑːkt baɪ/",
+        "meaning": "Được đánh dấu / Kỷ niệm bởi",
+        "context": "Yet there are days which are usually marked by some kinds of special ceremony..."
+      },
+      {
+        "word": "Have a choice in",
         "ipa": "/hæv ə tʃɔɪs ɪn/",
+        "meaning": "Có sự lựa chọn trong việc gì",
         "context": "We have a choice in the second of these; we can choose whether or not to marry."
       },
       {
-        "word": "Set up one\\'s",
-        "ipa": "/set ʌp wʌnz həʊm/",
+        "word": "Be affected by",
+        "ipa": "/bi əˈfektɪd baɪ/",
+        "meaning": "Bị ảnh hưởng / Tác động bởi",
+        "context": "All human beings... are affected by these three events."
+      },
+      {
+        "word": "Share common characteristics",
+        "ipa": "/ʃeə(r) ˈkɒmən ˌkærəktəˈrɪstɪks/",
+        "meaning": "Có / Chia sẻ những đặc điểm chung",
+        "context": "The only thing that differs in each society is the way these events are celebrated, but all societies share common characteristics."
+      },
+      {
+        "word": "Go through",
+        "ipa": "/ɡəʊ θruː/",
+        "meaning": "Trải qua / Thực hiện (nghi lễ, quá trình)",
         "context": "The young couple go through a special wedding ceremony and receive presents to help them set up their home."
       },
       {
-        "word": "Whether or",
+        "word": "Set up one's home",
+        "ipa": "/set ʌp wʌnz həʊm/",
+        "meaning": "Xây dựng / Thiết lập tổ ấm",
+        "context": "The young couple go through a special wedding ceremony and receive presents to help them set up their home."
+      },
+      {
+        "word": "Whether or not",
         "ipa": "/ˈweðər ɔː nɒt/",
+        "meaning": "Liệu có hay không",
         "context": "We have a choice in the second of these; we can choose whether or not to marry."
       }
     ]
@@ -1960,22 +4038,62 @@
       {
         "word": "Discipline",
         "ipa": "/ˈdɪsəplɪn/",
+        "meaning": "Kỷ luật / Tính nguyên tắc",
         "context": "In my own experience, the people I respect the most and think about the most are those who demanded the most discipline from their students."
+      },
+      {
+        "word": "Homework load",
+        "ipa": "/ˈhəʊmwɜːk ləʊd/",
+        "meaning": "Khối lượng bài tập về nhà",
+        "context": "Once she had broken her arm, everybody in the class thought that maybe the homework load would be reduced, but it continued just the same."
+      },
+      {
+        "word": "Demand (sth) from (sb)",
+        "ipa": "/dɪˈmɑːnd frəm/",
+        "meaning": "Đòi hỏi / Yêu cầu cao ở ai",
+        "context": "In my own experience, the people I respect the most and think about the most are those who demanded the most discipline from their students."
+      },
+      {
+        "word": "Remember vividly",
+        "ipa": "/rɪˈmembə(r) ˈvɪvɪdli/",
+        "meaning": "Nhớ như in / Nhớ rất rõ",
+        "context": "I remember very vividly a sign over her classroom door."
       },
       {
         "word": "Emphasize",
         "ipa": "/ˈemfəsaɪz/",
+        "meaning": "Nhấn mạnh / Coi trọng",
         "context": "It was a simple sign that said: “Laboratory - in this room, the first five letters of the word are emphasized, not the last seven.” In other words, I guess, labor for her was more important than oratory, which means making speeches."
       },
       {
-        "word": "Benefit",
+        "word": "Benefit (sb)",
         "ipa": "/ˈbenɪfɪt/",
+        "meaning": "Mang lại lợi ích / Giúp ích cho ai",
         "context": "I think sometimes teachers who demand the most are perhaps the least, but as time goes by, this discipline really seems to benefit the students."
       },
       {
-        "word": "In other",
+        "word": "Be many things to many people",
+        "ipa": "/bi ˈmeni θɪŋz tu ˈmeni ˈpiːpl/",
+        "meaning": "Có nhiều vai trò / Ý nghĩa khác nhau đối với mỗi người",
+        "context": "A good teacher is many things to many people."
+      },
+      {
+        "word": "In particular",
+        "ipa": "/ɪn pəˈtɪkjələ(r)/",
+        "meaning": "Nói riêng / Cụ thể",
+        "context": "I miss one teacher in particular that I had in high school."
+      },
+      {
+        "word": "In other words",
         "ipa": "/ɪn ˈʌðə wɜːdz/",
+        "meaning": "Nói cách khác",
         "context": "It was a simple sign that said: “Laboratory - in this room, the first five letters of the word are emphasized, not the last seven.” In other words, I guess, labor for her was more important than oratory, which means making speeches."
+      },
+      {
+        "word": "As time goes by",
+        "ipa": "/æz taɪm ɡəʊz baɪ/",
+        "meaning": "Theo thời gian / Càng về sau",
+        "context": "I think sometimes teachers who demand the most are perhaps the least, but as time goes by, this discipline really seems to benefit the students."
       }
     ]
   },
@@ -2008,18 +4126,75 @@
     "driveFileId": "1c1athFBHuD_n3QyJwsgyKGw_qDBFWlmF",
     "vocabItems": [
       {
-        "word": "On the",
+        "word": "Necessities of life",
+        "ipa": "/nəˈsesətiz əv laɪf/",
+        "meaning": "Nhu cầu thiết yếu của cuộc sống",
+        "context": "When the demands on food, clothes and some other necessities of life become far beyond being satisfied, people have come to spend their extra money on traveling."
+      },
+      {
+        "word": "Alien customs",
+        "ipa": "/ˈeɪliən ˈkʌstəmz/",
+        "meaning": "Phong tục tập quán lạ / Ngoại quốc",
+        "context": "Firstly, it provides opportunities for people to taste strange food and to know alien customs that they otherwise would not know."
+      },
+      {
+        "word": "Perilous peaks and furious rapids",
+        "ipa": "/ˈperələs piːks ænd ˈfjʊəriəs ˈræpɪdz/",
+        "meaning": "Những đỉnh núi hiểm trở và dòng thác dữ",
+        "context": "For example, perilous peaks and furious rapids may endanger travelers' lives."
+      },
+      {
+        "word": "Exotic atmosphere",
+        "ipa": "/ɪɡˈzɒtɪk ˈætməsfɪə(r)/",
+        "meaning": "Bầu không khí độc đáo / Kỳ lạ / Phương xa",
+        "context": "Perhaps an exotic atmosphere and charming scenes can attract you so much that you even forget to return."
+      },
+      {
+        "word": "Broaden one's scope of knowledge",
+        "ipa": "/ˈbrɔːdn wʌnz skəʊp əv ˈnɒlɪdʒ/",
+        "meaning": "Mở rộng tầm hiểu biết / Tri thức",
+        "context": "Secondly, through traveling people can broaden their scope of knowledge especially of geography and history."
+      },
+      {
+        "word": "Endanger sb's life",
+        "ipa": "/ɪnˈdeɪndʒə(r) ˈsʌmwʌnz laɪf/",
+        "meaning": "Gây nguy hiểm cho tính mạng của ai",
+        "context": "For example, perilous peaks and furious rapids may endanger travelers' lives."
+      },
+      {
+        "word": "Do more good than harm",
+        "ipa": "/duː mɔː(r) ɡʊd ðən hɑːm/",
+        "meaning": "Có lợi nhiều hơn có hại",
+        "context": "...I think traveling does more good than harm."
+      },
+      {
+        "word": "Build up physical strength and willpower",
+        "ipa": "/bɪld ʌp ˈfɪzɪkl streŋθ ænd ˈwɪlpaʊə(r)/",
+        "meaning": "Rèn luyện thể lực và ý chí",
+        "context": "These so-called disadvantages can even be regarded as good conditions in which travelers can build up both physical strength and willpower."
+      },
+      {
+        "word": "Far beyond being satisfied",
+        "ipa": "/fɑː(r) bɪˈjɒnd ˈbiːɪŋ ˈsætɪsfaɪd/",
+        "meaning": "Vượt xa cả mức đáp ứng cơ bản",
+        "context": "When the demands on food, clothes and some other necessities of life become far beyond being satisfied, people have come to spend their extra money on traveling."
+      },
+      {
+        "word": "On the whole",
         "ipa": "/ɒn ðə həʊl/",
+        "meaning": "Nhìn chung / Nói tóm lại",
         "context": "On the whole, I think traveling does more good than harm."
       },
       {
-        "word": "From time",
-        "ipa": "/          /",
+        "word": "From time to time",
+        "ipa": "/frəm taɪm tu taɪm/",
+        "meaning": "Thỉnh thoảng / Đôi khi",
         "context": "If both your finance and health permit, you might as well do some traveling from time to time."
       },
       {
-        "word": "Might as",
+        "word": "Might as well",
         "ipa": "/maɪt æz wel/",
+        "meaning": "Nên / Cứ nên làm gì thì hơn",
         "context": "If both your finance and health permit, you might as well do some traveling from time to time."
       }
     ]

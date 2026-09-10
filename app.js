@@ -484,7 +484,10 @@ function renderVocabDrill(t) {
           <span class="fc-word">${escapeHtml(it.word)}</span>
           <span class="fc-ipa">${escapeHtml(it.ipa)}</span>
         </span>
-        <span class="fc-face fc-back" hidden>${escapeHtml(it.context).replace(new RegExp('('+escapeReg(it.word)+')','ig'), '<mark>$1</mark>')}</span>
+        <span class="fc-face fc-back" hidden>
+          <span class="fc-meaning">${escapeHtml(it.meaning || '')}</span>
+          <span class="fc-context">${escapeHtml(it.context).replace(new RegExp('('+escapeReg(it.word)+')','ig'), '<mark>$1</mark>')}</span>
+        </span>
       </button>`).join('')}</div>`;
 
     els.drillArea.querySelectorAll('.flashcard').forEach(card => {
@@ -502,7 +505,7 @@ function renderVocabDrill(t) {
       return `<div class="cloze-item" data-idx="${i}">
         <p class="cloze-sentence">${blanked}</p>
         <button class="ghost-btn reveal-btn" data-idx="${i}">Hiện đáp án</button>
-        <p class="cloze-answer" id="clozeAns${i}" hidden>Đáp án: <strong>${escapeHtml(it.word)}</strong> <span class="fc-ipa">${escapeHtml(it.ipa)}</span></p>
+        <p class="cloze-answer" id="clozeAns${i}" hidden>Đáp án: <strong>${escapeHtml(it.word)}</strong> <span class="fc-ipa">${escapeHtml(it.ipa)}</span> — ${escapeHtml(it.meaning || '')}</p>
       </div>`;
     }).join('')}</div>`;
 
