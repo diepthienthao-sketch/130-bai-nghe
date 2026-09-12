@@ -147,6 +147,29 @@
         "meaning": "Một cách thường xuyên, đều đặn",
         "context": "Everybody over 16 earning money on a regular basis must pay a sum each week to the state."
       }
+    ],
+    "grammarNotes": [
+      {
+        "id": "present_simple",
+        "label": "Thì hiện tại đơn",
+        "level": "A1",
+        "explain": "Bài đọc chủ yếu dùng thì hiện tại đơn để mô tả sự thật, thói quen hoặc quy luật chung — động từ thêm \"-s/-es\" ở ngôi thứ ba số ít.",
+        "example": "Life is full of dangers and surprises."
+      },
+      {
+        "id": "modals",
+        "label": "Động từ khuyết thiếu (Modal verbs)",
+        "level": "A1–A2",
+        "explain": "Các từ như can/could/must/should/have to diễn tả khả năng, nghĩa vụ, lời khuyên hoặc sự cần thiết. Theo sau modal luôn là động từ nguyên mẫu không \"to\" (trừ \"have to\").",
+        "example": "Your house may burn down, and you may fall out of the window and break your neck."
+      },
+      {
+        "id": "relative_clause",
+        "label": "Mệnh đề quan hệ (who / which / whose)",
+        "level": "B1",
+        "explain": "\"Who\" thay cho người, \"which\" thay cho vật/sự việc, \"whose\" chỉ sở hữu — dùng để bổ sung thông tin cho danh từ đứng ngay trước nó.",
+        "example": "The three parties are you, yourself, your insurance company, and anybody else - for example, the man who had a crash with you."
+      }
     ]
   },
   {
@@ -272,6 +295,50 @@
         "meaning": "Thành công",
         "context": "We can be rich, powerful, and successful."
       }
+    ],
+    "grammarNotes": [
+      {
+        "id": "present_simple",
+        "label": "Thì hiện tại đơn",
+        "level": "A1",
+        "explain": "Bài đọc chủ yếu dùng thì hiện tại đơn để mô tả sự thật, thói quen hoặc quy luật chung — động từ thêm \"-s/-es\" ở ngôi thứ ba số ít.",
+        "example": "A dream is made up of a series of mind pictures that form during sleep."
+      },
+      {
+        "id": "modals",
+        "label": "Động từ khuyết thiếu (Modal verbs)",
+        "level": "A1–A2",
+        "explain": "Các từ như can/could/must/should/have to diễn tả khả năng, nghĩa vụ, lời khuyên hoặc sự cần thiết. Theo sau modal luôn là động từ nguyên mẫu không \"to\" (trừ \"have to\").",
+        "example": "Dreams may be influenced by different things that are present during sleep."
+      },
+      {
+        "id": "present_perfect",
+        "label": "Thì hiện tại hoàn thành",
+        "level": "B1",
+        "explain": "Cấu trúc have/has + động từ phân từ hai (V3) diễn tả hành động đã xảy ra và còn liên quan hoặc ảnh hưởng tới hiện tại.",
+        "example": "Studies of human sleep have shown, though, that everyone dreams every night."
+      },
+      {
+        "id": "passive",
+        "label": "Câu bị động",
+        "level": "B1",
+        "explain": "Cấu trúc be (is/are/was/were) + động từ phân từ hai (V3) dùng khi muốn nhấn mạnh đối tượng chịu tác động của hành động, thay vì người/vật thực hiện.",
+        "example": "A dream is made up of a series of mind pictures that form during sleep."
+      },
+      {
+        "id": "relative_clause",
+        "label": "Mệnh đề quan hệ (who / which / whose)",
+        "level": "B1",
+        "explain": "\"Who\" thay cho người, \"which\" thay cho vật/sự việc, \"whose\" chỉ sở hữu — dùng để bổ sung thông tin cho danh từ đứng ngay trước nó.",
+        "example": "The people and actions in these pictures seem real to the person who is dreaming."
+      },
+      {
+        "id": "gerund",
+        "label": "Danh động từ (V-ing) sau giới từ",
+        "level": "A2–B1",
+        "explain": "Khi một động từ đứng ngay sau giới từ (for, of, by, about, without, before, after...), động từ đó phải chia ở dạng V-ing.",
+        "example": "Usually, a person may dream three to seven times for a total of one to two hours of dreaming every night."
+      }
     ]
   },
   {
@@ -395,6 +462,43 @@
         "ipa": "/baɪ miːnz əv/",
         "meaning": "Bằng phương cách, bằng việc",
         "context": "By means of interview, the interviewee can find a good job and the interviewer can find a suitable person if both of them make the best of the job interview."
+      }
+    ],
+    "grammarNotes": [
+      {
+        "id": "present_simple",
+        "label": "Thì hiện tại đơn",
+        "level": "A1",
+        "explain": "Bài đọc chủ yếu dùng thì hiện tại đơn để mô tả sự thật, thói quen hoặc quy luật chung — động từ thêm \"-s/-es\" ở ngôi thứ ba số ít.",
+        "example": "Nowadays, when a person is hunting for a job, there will always be a job interview, through which the interviewee and the interviewer can know about each other."
+      },
+      {
+        "id": "modals",
+        "label": "Động từ khuyết thiếu (Modal verbs)",
+        "level": "A1–A2",
+        "explain": "Các từ như can/could/must/should/have to diễn tả khả năng, nghĩa vụ, lời khuyên hoặc sự cần thiết. Theo sau modal luôn là động từ nguyên mẫu không \"to\" (trừ \"have to\").",
+        "example": "Nowadays, when a person is hunting for a job, there will always be a job interview, through which the interviewee and the interviewer can know about each other."
+      },
+      {
+        "id": "comparative_superlative",
+        "label": "So sánh hơn / so sánh nhất",
+        "level": "A2",
+        "explain": "Dùng \"-er/-est\" với tính từ ngắn hoặc \"more/most\" với tính từ dài để so sánh giữa hai hay nhiều sự vật, sự việc.",
+        "example": "By means of interview, the interviewee can find a good job and the interviewer can find a suitable person if both of them make the best of the job interview."
+      },
+      {
+        "id": "relative_clause",
+        "label": "Mệnh đề quan hệ (who / which / whose)",
+        "level": "B1",
+        "explain": "\"Who\" thay cho người, \"which\" thay cho vật/sự việc, \"whose\" chỉ sở hữu — dùng để bổ sung thông tin cho danh từ đứng ngay trước nó.",
+        "example": "Nowadays, when a person is hunting for a job, there will always be a job interview, through which the interviewee and the interviewer can know about each other."
+      },
+      {
+        "id": "gerund",
+        "label": "Danh động từ (V-ing) sau giới từ",
+        "level": "A2–B1",
+        "explain": "Khi một động từ đứng ngay sau giới từ (for, of, by, about, without, before, after...), động từ đó phải chia ở dạng V-ing.",
+        "example": "Besides, the job interview is also a good chance for the interviewee, because he can impress the interviewer by showing both his ability and his confidence."
       }
     ]
   },
@@ -532,6 +636,22 @@
         "ipa": "/hɑːd laɪf/",
         "meaning": "Cuộc sống vất vả",
         "context": "He's seen the hard life of a doctor."
+      }
+    ],
+    "grammarNotes": [
+      {
+        "id": "present_simple",
+        "label": "Thì hiện tại đơn",
+        "level": "A1",
+        "explain": "Bài đọc chủ yếu dùng thì hiện tại đơn để mô tả sự thật, thói quen hoặc quy luật chung — động từ thêm \"-s/-es\" ở ngôi thứ ba số ít.",
+        "example": "Black: Has your son chosen his career yet, Mrs."
+      },
+      {
+        "id": "relative_clause",
+        "label": "Mệnh đề quan hệ (who / which / whose)",
+        "level": "B1",
+        "explain": "\"Who\" thay cho người, \"which\" thay cho vật/sự việc, \"whose\" chỉ sở hữu — dùng để bổ sung thông tin cho danh từ đứng ngay trước nó.",
+        "example": "You know, a civil engineer is a man who makes roads and bridges."
       }
     ]
   },
@@ -672,6 +792,50 @@
         "meaning": "Một mặt thì... Mặt khác thì...",
         "context": "On the one hand, parents' view does reflect... On the other hand, after all, it is children who..."
       }
+    ],
+    "grammarNotes": [
+      {
+        "id": "present_simple",
+        "label": "Thì hiện tại đơn",
+        "level": "A1",
+        "explain": "Bài đọc chủ yếu dùng thì hiện tại đơn để mô tả sự thật, thói quen hoặc quy luật chung — động từ thêm \"-s/-es\" ở ngôi thứ ba số ít.",
+        "example": "Parents generally believe it is their responsibility to plan the careers for their children."
+      },
+      {
+        "id": "modals",
+        "label": "Động từ khuyết thiếu (Modal verbs)",
+        "level": "A1–A2",
+        "explain": "Các từ như can/could/must/should/have to diễn tả khả năng, nghĩa vụ, lời khuyên hoặc sự cần thiết. Theo sau modal luôn là động từ nguyên mẫu không \"to\" (trừ \"have to\").",
+        "example": "For these reasons, many parents insist that their children should obey them in choosing careers."
+      },
+      {
+        "id": "present_perfect",
+        "label": "Thì hiện tại hoàn thành",
+        "level": "B1",
+        "explain": "Cấu trúc have/has + động từ phân từ hai (V3) diễn tả hành động đã xảy ra và còn liên quan hoặc ảnh hưởng tới hiện tại.",
+        "example": "For another, children have been brought up in a different age from their parents, and therefore they should be allowed to cultivate a spirit of independence and self-reliance."
+      },
+      {
+        "id": "passive",
+        "label": "Câu bị động",
+        "level": "B1",
+        "explain": "Cấu trúc be (is/are/was/were) + động từ phân từ hai (V3) dùng khi muốn nhấn mạnh đối tượng chịu tác động của hành động, thay vì người/vật thực hiện.",
+        "example": "But many children suggest that they should be left free to choose their own careers."
+      },
+      {
+        "id": "comparative_superlative",
+        "label": "So sánh hơn / so sánh nhất",
+        "level": "A2",
+        "explain": "Dùng \"-er/-est\" với tính từ ngắn hoặc \"more/most\" với tính từ dài để so sánh giữa hai hay nhiều sự vật, sự việc.",
+        "example": "They claim that they know their children well enough to decide what kind of job suits them, hoping that their children will go in for professions that will bring them the greatest prestige and economic benefit, many parents think that their children are too young to see this for themselves."
+      },
+      {
+        "id": "relative_clause",
+        "label": "Mệnh đề quan hệ (who / which / whose)",
+        "level": "B1",
+        "explain": "\"Who\" thay cho người, \"which\" thay cho vật/sự việc, \"whose\" chỉ sở hữu — dùng để bổ sung thông tin cho danh từ đứng ngay trước nó.",
+        "example": "There are some parents who even expect their children to take over the careers of their fathers."
+      }
     ]
   },
   {
@@ -791,6 +955,43 @@
         "ipa": "/ɪmˈpresɪv/",
         "meaning": "Gây ấn tượng mạnh",
         "context": "And finally, the really impressive applicant must convey a sense of self-confidence and enthusiasm for work, factors which all interviewers value highly."
+      }
+    ],
+    "grammarNotes": [
+      {
+        "id": "present_simple",
+        "label": "Thì hiện tại đơn",
+        "level": "A1",
+        "explain": "Bài đọc chủ yếu dùng thì hiện tại đơn để mô tả sự thật, thói quen hoặc quy luật chung — động từ thêm \"-s/-es\" ở ngôi thứ ba số ít.",
+        "example": "To be successful in a job interview, the applicant should show certain personal and professional qualities."
+      },
+      {
+        "id": "modals",
+        "label": "Động từ khuyết thiếu (Modal verbs)",
+        "level": "A1–A2",
+        "explain": "Các từ như can/could/must/should/have to diễn tả khả năng, nghĩa vụ, lời khuyên hoặc sự cần thiết. Theo sau modal luôn là động từ nguyên mẫu không \"to\" (trừ \"have to\").",
+        "example": "To be successful in a job interview, the applicant should show certain personal and professional qualities."
+      },
+      {
+        "id": "passive",
+        "label": "Câu bị động",
+        "level": "B1",
+        "explain": "Cấu trúc be (is/are/was/were) + động từ phân từ hai (V3) dùng khi muốn nhấn mạnh đối tượng chịu tác động của hành động, thay vì người/vật thực hiện.",
+        "example": "In as much as the first and often lasting impression of a person is decided by the clothes he wears, the job applicant should take care to appear well-groomed and modestly dressed, avoiding the extremes of too elaborate or too casual."
+      },
+      {
+        "id": "relative_clause",
+        "label": "Mệnh đề quan hệ (who / which / whose)",
+        "level": "B1",
+        "explain": "\"Who\" thay cho người, \"which\" thay cho vật/sự việc, \"whose\" chỉ sở hữu — dùng để bổ sung thông tin cho danh từ đứng ngay trước nó.",
+        "example": "Besides care for personal appearance, he should pay attention to his manner of speaking, which should be neither ostentatious nor familiar, but rather straightforward, accurate, and friendly."
+      },
+      {
+        "id": "gerund",
+        "label": "Danh động từ (V-ing) sau giới từ",
+        "level": "A2–B1",
+        "explain": "Khi một động từ đứng ngay sau giới từ (for, of, by, about, without, before, after...), động từ đó phải chia ở dạng V-ing.",
+        "example": "Besides care for personal appearance, he should pay attention to his manner of speaking, which should be neither ostentatious nor familiar, but rather straightforward, accurate, and friendly."
       }
     ]
   },
@@ -922,6 +1123,22 @@
         "meaning": "Không thể phàn nàn quá nhiều (hài lòng với hiện tại)",
         "context": "However, I cannot complain too much."
       }
+    ],
+    "grammarNotes": [
+      {
+        "id": "present_simple",
+        "label": "Thì hiện tại đơn",
+        "level": "A1",
+        "explain": "Bài đọc chủ yếu dùng thì hiện tại đơn để mô tả sự thật, thói quen hoặc quy luật chung — động từ thêm \"-s/-es\" ở ngôi thứ ba số ít.",
+        "example": "With 6 people in my family, it's not fun being the middle kid."
+      },
+      {
+        "id": "comparative_superlative",
+        "label": "So sánh hơn / so sánh nhất",
+        "level": "A2",
+        "explain": "Dùng \"-er/-est\" với tính từ ngắn hoặc \"more/most\" với tính từ dài để so sánh giữa hai hay nhiều sự vật, sự việc.",
+        "example": "Chang Han is my eldest brother."
+      }
     ]
   },
   {
@@ -1041,6 +1258,50 @@
         "meaning": "Một cách tất yếu, không thể tránh khỏi",
         "context": "They fear the pain inevitably brought by such things as marriage, raising children, professional achievement, religious commitment, self-improvement."
       }
+    ],
+    "grammarNotes": [
+      {
+        "id": "present_simple",
+        "label": "Thì hiện tại đơn",
+        "level": "A1",
+        "explain": "Bài đọc chủ yếu dùng thì hiện tại đơn để mô tả sự thật, thói quen hoặc quy luật chung — động từ thêm \"-s/-es\" ở ngôi thứ ba số ít.",
+        "example": "The way people hold to the belief that a fun-filled, pain-free life equals happiness actually reduces their chances of ever attaining real happiness."
+      },
+      {
+        "id": "modals",
+        "label": "Động từ khuyết thiếu (Modal verbs)",
+        "level": "A1–A2",
+        "explain": "Các từ như can/could/must/should/have to diễn tả khả năng, nghĩa vụ, lời khuyên hoặc sự cần thiết. Theo sau modal luôn là động từ nguyên mẫu không \"to\" (trừ \"have to\").",
+        "example": "If fun and pleasure are: more equal to happiness, then pain must be equal to unhappiness."
+      },
+      {
+        "id": "passive",
+        "label": "Câu bị động",
+        "level": "B1",
+        "explain": "Cấu trúc be (is/are/was/were) + động từ phân từ hai (V3) dùng khi muốn nhấn mạnh đối tượng chịu tác động của hành động, thay vì người/vật thực hiện.",
+        "example": "The single life is filled with fun, adventure, and excitement."
+      },
+      {
+        "id": "comparative_superlative",
+        "label": "So sánh hơn / so sánh nhất",
+        "level": "A2",
+        "explain": "Dùng \"-er/-est\" với tính từ ngắn hoặc \"more/most\" với tính từ dài để so sánh giữa hai hay nhiều sự vật, sự việc.",
+        "example": "If he is honest, he will tell you that he is afraid of making a commitment."
+      },
+      {
+        "id": "conditional",
+        "label": "Câu điều kiện loại 1",
+        "level": "B1",
+        "explain": "Cấu trúc If + thì hiện tại đơn, ... will + động từ nguyên mẫu — diễn tả một điều kiện có khả năng xảy ra và kết quả đi kèm.",
+        "example": "If he is honest, he will tell you that he is afraid of making a commitment."
+      },
+      {
+        "id": "relative_clause",
+        "label": "Mệnh đề quan hệ (who / which / whose)",
+        "level": "B1",
+        "explain": "\"Who\" thay cho người, \"which\" thay cho vật/sự việc, \"whose\" chỉ sở hữu — dùng để bổ sung thông tin cho danh từ đứng ngay trước nó.",
+        "example": "I don't know any parent who would choose the word fun to describe raising children."
+      }
     ]
   },
   {
@@ -1149,6 +1410,29 @@
         "ipa": "/ʌnˈlaɪk/",
         "meaning": "Khác với, không giống như",
         "context": "These colors, unlike warm colors, are relaxing."
+      }
+    ],
+    "grammarNotes": [
+      {
+        "id": "present_simple",
+        "label": "Thì hiện tại đơn",
+        "level": "A1",
+        "explain": "Bài đọc chủ yếu dùng thì hiện tại đơn để mô tả sự thật, thói quen hoặc quy luật chung — động từ thêm \"-s/-es\" ở ngôi thứ ba số ít.",
+        "example": "In general, people talk about two groups of colors: warm colors and cool colors."
+      },
+      {
+        "id": "passive",
+        "label": "Câu bị động",
+        "level": "B1",
+        "explain": "Cấu trúc be (is/are/was/were) + động từ phân từ hai (V3) dùng khi muốn nhấn mạnh đối tượng chịu tác động của hành động, thay vì người/vật thực hiện.",
+        "example": "The warm colors are red, orange, and yellow."
+      },
+      {
+        "id": "relative_clause",
+        "label": "Mệnh đề quan hệ (who / which / whose)",
+        "level": "B1",
+        "explain": "\"Who\" thay cho người, \"which\" thay cho vật/sự việc, \"whose\" chỉ sở hữu — dùng để bổ sung thông tin cho danh từ đứng ngay trước nó.",
+        "example": "Researchers think that there are also two groups of people: people who prefer warm colors and people who prefer cool colors."
       }
     ]
   },
@@ -1262,6 +1546,50 @@
         "meaning": "Trong suốt cuộc đời (của ai)",
         "context": "Whatever people may choose, if they exercise regularly, they will be sure to improve health throughout their lives."
       }
+    ],
+    "grammarNotes": [
+      {
+        "id": "present_simple",
+        "label": "Thì hiện tại đơn",
+        "level": "A1",
+        "explain": "Bài đọc chủ yếu dùng thì hiện tại đơn để mô tả sự thật, thói quen hoặc quy luật chung — động từ thêm \"-s/-es\" ở ngôi thứ ba số ít.",
+        "example": "More and more people today are realizing the importance of regular physical exercise."
+      },
+      {
+        "id": "modals",
+        "label": "Động từ khuyết thiếu (Modal verbs)",
+        "level": "A1–A2",
+        "explain": "Các từ như can/could/must/should/have to diễn tả khả năng, nghĩa vụ, lời khuyên hoặc sự cần thiết. Theo sau modal luôn là động từ nguyên mẫu không \"to\" (trừ \"have to\").",
+        "example": "In the evenings, they may sit watching television, reading, or writing."
+      },
+      {
+        "id": "passive",
+        "label": "Câu bị động",
+        "level": "B1",
+        "explain": "Cấu trúc be (is/are/was/were) + động từ phân từ hai (V3) dùng khi muốn nhấn mạnh đối tượng chịu tác động của hành động, thay vì người/vật thực hiện.",
+        "example": "The traditional forms of exercise are chosen by many."
+      },
+      {
+        "id": "comparative_superlative",
+        "label": "So sánh hơn / so sánh nhất",
+        "level": "A2",
+        "explain": "Dùng \"-er/-est\" với tính từ ngắn hoặc \"more/most\" với tính từ dài để so sánh giữa hai hay nhiều sự vật, sự việc.",
+        "example": "Some people enjoy competitive sports and play with others who share their interest."
+      },
+      {
+        "id": "conditional",
+        "label": "Câu điều kiện loại 1",
+        "level": "B1",
+        "explain": "Cấu trúc If + thì hiện tại đơn, ... will + động từ nguyên mẫu — diễn tả một điều kiện có khả năng xảy ra và kết quả đi kèm.",
+        "example": "Whatever people may choose, if they exercise regularly, they will be sure to improve health throughout their lives."
+      },
+      {
+        "id": "relative_clause",
+        "label": "Mệnh đề quan hệ (who / which / whose)",
+        "level": "B1",
+        "explain": "\"Who\" thay cho người, \"which\" thay cho vật/sự việc, \"whose\" chỉ sở hữu — dùng để bổ sung thông tin cho danh từ đứng ngay trước nó.",
+        "example": "Some people enjoy competitive sports and play with others who share their interest."
+      }
     ]
   },
   {
@@ -1347,6 +1675,29 @@
         "ipa": "Be useful for (st/V-ing)",
         "meaning": "/bi ˈjuːsfl fə(r)/",
         "context": "Hữu ích cho cái gì"
+      }
+    ],
+    "grammarNotes": [
+      {
+        "id": "present_simple",
+        "label": "Thì hiện tại đơn",
+        "level": "A1",
+        "explain": "Bài đọc chủ yếu dùng thì hiện tại đơn để mô tả sự thật, thói quen hoặc quy luật chung — động từ thêm \"-s/-es\" ở ngôi thứ ba số ít.",
+        "example": "Every year, people in many countries learn English."
+      },
+      {
+        "id": "modals",
+        "label": "Động từ khuyết thiếu (Modal verbs)",
+        "level": "A1–A2",
+        "explain": "Các từ như can/could/must/should/have to diễn tả khả năng, nghĩa vụ, lời khuyên hoặc sự cần thiết. Theo sau modal luôn là động từ nguyên mẫu không \"to\" (trừ \"have to\").",
+        "example": "Most people must work hard to learn English."
+      },
+      {
+        "id": "gerund",
+        "label": "Danh động từ (V-ing) sau giới từ",
+        "level": "A2–B1",
+        "explain": "Khi một động từ đứng ngay sau giới từ (for, of, by, about, without, before, after...), động từ đó phải chia ở dạng V-ing.",
+        "example": "A few learn English just by hearing the language in films, on television, and in the office, or among their friends."
       }
     ]
   },
@@ -1453,6 +1804,36 @@
         "ipa": "/ˌʃɔːt ˈsaɪtɪd/",
         "meaning": "Thiển cận, tầm nhìn ngắn hạn",
         "context": "It is an arduous task, yet it can be accomplished if only we try not to be short-sighted and think twice before any hasty and irrational decisions are made."
+      }
+    ],
+    "grammarNotes": [
+      {
+        "id": "present_simple",
+        "label": "Thì hiện tại đơn",
+        "level": "A1",
+        "explain": "Bài đọc chủ yếu dùng thì hiện tại đơn để mô tả sự thật, thói quen hoặc quy luật chung — động từ thêm \"-s/-es\" ở ngôi thứ ba số ít.",
+        "example": "In the past, noise was rarely associated with pollution, but recently it is found that many mental diseases are closely related to noise."
+      },
+      {
+        "id": "modals",
+        "label": "Động từ khuyết thiếu (Modal verbs)",
+        "level": "A1–A2",
+        "explain": "Các từ như can/could/must/should/have to diễn tả khả năng, nghĩa vụ, lời khuyên hoặc sự cần thiết. Theo sau modal luôn là động từ nguyên mẫu không \"to\" (trừ \"have to\").",
+        "example": "Moreover, measures should be taken to protect people against noise and secure us a quiet environment."
+      },
+      {
+        "id": "passive",
+        "label": "Câu bị động",
+        "level": "B1",
+        "explain": "Cấu trúc be (is/are/was/were) + động từ phân từ hai (V3) dùng khi muốn nhấn mạnh đối tượng chịu tác động của hành động, thay vì người/vật thực hiện.",
+        "example": "In the past, noise was rarely associated with pollution, but recently it is found that many mental diseases are closely related to noise."
+      },
+      {
+        "id": "comparative_superlative",
+        "label": "So sánh hơn / so sánh nhất",
+        "level": "A2",
+        "explain": "Dùng \"-er/-est\" với tính từ ngắn hoặc \"more/most\" với tính từ dài để so sánh giữa hai hay nhiều sự vật, sự việc.",
+        "example": "That there is too much noise afflicting our daily life is a manifest fact."
       }
     ]
   },
@@ -1571,6 +1952,36 @@
         "meaning": "Phòng bệnh hơn chữa bệnh",
         "context": "Third, there is a proverb that says “Prevention is better than cure.” If you pay close attention to your health, you can avoid getting sick, or at least cure yourself of a disease while it is still in its beginning stage."
       }
+    ],
+    "grammarNotes": [
+      {
+        "id": "present_simple",
+        "label": "Thì hiện tại đơn",
+        "level": "A1",
+        "explain": "Bài đọc chủ yếu dùng thì hiện tại đơn để mô tả sự thật, thói quen hoặc quy luật chung — động từ thêm \"-s/-es\" ở ngôi thứ ba số ít.",
+        "example": "As the proverb says, “No one knows the value of health until he loses it.”, in other words, nothing is more valuable than health."
+      },
+      {
+        "id": "modals",
+        "label": "Động từ khuyết thiếu (Modal verbs)",
+        "level": "A1–A2",
+        "explain": "Các từ như can/could/must/should/have to diễn tả khả năng, nghĩa vụ, lời khuyên hoặc sự cần thiết. Theo sau modal luôn là động từ nguyên mẫu không \"to\" (trừ \"have to\").",
+        "example": "On the other hand, if you are strong, you can go all out to overcome the obstacles that lie ahead of you."
+      },
+      {
+        "id": "comparative_superlative",
+        "label": "So sánh hơn / so sánh nhất",
+        "level": "A2",
+        "explain": "Dùng \"-er/-est\" với tính từ ngắn hoặc \"more/most\" với tính từ dài để so sánh giữa hai hay nhiều sự vật, sự việc.",
+        "example": "As the proverb says, “No one knows the value of health until he loses it.”, in other words, nothing is more valuable than health."
+      },
+      {
+        "id": "relative_clause",
+        "label": "Mệnh đề quan hệ (who / which / whose)",
+        "level": "B1",
+        "explain": "\"Who\" thay cho người, \"which\" thay cho vật/sự việc, \"whose\" chỉ sở hữu — dùng để bổ sung thông tin cho danh từ đứng ngay trước nó.",
+        "example": "Those who are rich but poor in health are no more fortunate than those who are poor but healthy in body."
+      }
     ]
   },
   {
@@ -1686,6 +2097,36 @@
         "meaning": "Được cái này mất cái kia / Không thể được cả đôi đường",
         "context": "As the saying goes, “you can't eat the cake and have it.” As for myself, I would prefer to work in a city and live in the countryside."
       }
+    ],
+    "grammarNotes": [
+      {
+        "id": "present_simple",
+        "label": "Thì hiện tại đơn",
+        "level": "A1",
+        "explain": "Bài đọc chủ yếu dùng thì hiện tại đơn để mô tả sự thật, thói quen hoặc quy luật chung — động từ thêm \"-s/-es\" ở ngôi thứ ba số ít.",
+        "example": "By living in the countryside we may enjoy fresh air and food."
+      },
+      {
+        "id": "modals",
+        "label": "Động từ khuyết thiếu (Modal verbs)",
+        "level": "A1–A2",
+        "explain": "Các từ như can/could/must/should/have to diễn tả khả năng, nghĩa vụ, lời khuyên hoặc sự cần thiết. Theo sau modal luôn là động từ nguyên mẫu không \"to\" (trừ \"have to\").",
+        "example": "By living in the countryside we may enjoy fresh air and food."
+      },
+      {
+        "id": "comparative_superlative",
+        "label": "So sánh hơn / so sánh nhất",
+        "level": "A2",
+        "explain": "Dùng \"-er/-est\" với tính từ ngắn hoặc \"more/most\" với tính từ dài để so sánh giữa hai hay nhiều sự vật, sự việc.",
+        "example": "Life in the countryside is also peaceful and safe, the crime rate there is much lower than in the cities."
+      },
+      {
+        "id": "gerund",
+        "label": "Danh động từ (V-ing) sau giới từ",
+        "level": "A2–B1",
+        "explain": "Khi một động từ đứng ngay sau giới từ (for, of, by, about, without, before, after...), động từ đó phải chia ở dạng V-ing.",
+        "example": "By living in the countryside we may enjoy fresh air and food."
+      }
     ]
   },
   {
@@ -1779,6 +2220,50 @@
         "ipa": "/səˈpraɪzɪŋli ɪnˈædɪkwət/",
         "meaning": "Thiếu hụt / Không đầy đủ một cách đáng kinh ngạc",
         "context": "Bender, former professor of nutrition at Queen Elizabeth College in London. “nor does giving people breakfast improve performance.” Scientific evidence linking breakfast to better health or better performance is surprisingly inadequate, and most of the recent work involves children, not adults. “The literature”, says one researcher, Dr."
+      }
+    ],
+    "grammarNotes": [
+      {
+        "id": "present_simple",
+        "label": "Thì hiện tại đơn",
+        "level": "A1",
+        "explain": "Bài đọc chủ yếu dùng thì hiện tại đơn để mô tả sự thật, thói quen hoặc quy luật chung — động từ thêm \"-s/-es\" ở ngôi thứ ba số ít.",
+        "example": "Generations of Americans have been brought up to believe that a good breakfast is one of life's essentials."
+      },
+      {
+        "id": "modals",
+        "label": "Động từ khuyết thiếu (Modal verbs)",
+        "level": "A1–A2",
+        "explain": "Các từ như can/could/must/should/have to diễn tả khả năng, nghĩa vụ, lời khuyên hoặc sự cần thiết. Theo sau modal luôn là động từ nguyên mẫu không \"to\" (trừ \"have to\").",
+        "example": "Several studies in the last few years indicate that, for adults especially, there may be nothing wrong with omitting breakfast. “Going without breakfast does not affect performance,” said Arnold E."
+      },
+      {
+        "id": "present_perfect",
+        "label": "Thì hiện tại hoàn thành",
+        "level": "B1",
+        "explain": "Cấu trúc have/has + động từ phân từ hai (V3) diễn tả hành động đã xảy ra và còn liên quan hoặc ảnh hưởng tới hiện tại.",
+        "example": "Generations of Americans have been brought up to believe that a good breakfast is one of life's essentials."
+      },
+      {
+        "id": "comparative_superlative",
+        "label": "So sánh hơn / so sánh nhất",
+        "level": "A2",
+        "explain": "Dùng \"-er/-est\" với tính từ ngắn hoặc \"more/most\" với tính từ dài để so sánh giữa hai hay nhiều sự vật, sự việc.",
+        "example": "Between 1997 and 1983, the latest year for which figures are available, the number of people who didn't have breakfast increased by 33 percent from 8.8 million to 11.7 million according to the Chicago-based Market Research Corporation of America."
+      },
+      {
+        "id": "relative_clause",
+        "label": "Mệnh đề quan hệ (who / which / whose)",
+        "level": "B1",
+        "explain": "\"Who\" thay cho người, \"which\" thay cho vật/sự việc, \"whose\" chỉ sở hữu — dùng để bổ sung thông tin cho danh từ đứng ngay trước nó.",
+        "example": "Between 1997 and 1983, the latest year for which figures are available, the number of people who didn't have breakfast increased by 33 percent from 8.8 million to 11.7 million according to the Chicago-based Market Research Corporation of America."
+      },
+      {
+        "id": "gerund",
+        "label": "Danh động từ (V-ing) sau giới từ",
+        "level": "A2–B1",
+        "explain": "Khi một động từ đứng ngay sau giới từ (for, of, by, about, without, before, after...), động từ đó phải chia ở dạng V-ing.",
+        "example": "Eating breakfast at the start of the day, we have all been told and told again, is as necessary as putting gasoline in the family car before starting a trip."
       }
     ]
   },
@@ -1888,6 +2373,50 @@
         "ipa": "/ˈreɡjələ ˈsməʊkə(r)/",
         "meaning": "Người hút thuốc thường xuyên",
         "context": "Analysis showed 15% of regular smokers coughed every day."
+      }
+    ],
+    "grammarNotes": [
+      {
+        "id": "present_simple",
+        "label": "Thì hiện tại đơn",
+        "level": "A1",
+        "explain": "Bài đọc chủ yếu dùng thì hiện tại đơn để mô tả sự thật, thói quen hoặc quy luật chung — động từ thêm \"-s/-es\" ở ngôi thứ ba số ít.",
+        "example": "Children as young as 11 are suffering lung damage from too much smoking."
+      },
+      {
+        "id": "modals",
+        "label": "Động từ khuyết thiếu (Modal verbs)",
+        "level": "A1–A2",
+        "explain": "Các từ như can/could/must/should/have to diễn tả khả năng, nghĩa vụ, lời khuyên hoặc sự cần thiết. Theo sau modal luôn là động từ nguyên mẫu không \"to\" (trừ \"have to\").",
+        "example": "The scientists wanted to find out how children were affected and whether they understood smoking could make them seriously ill."
+      },
+      {
+        "id": "present_perfect",
+        "label": "Thì hiện tại hoàn thành",
+        "level": "B1",
+        "explain": "Cấu trúc have/has + động từ phân từ hai (V3) diễn tả hành động đã xảy ra và còn liên quan hoặc ảnh hưởng tới hiện tại.",
+        "example": "The team was worried that most reports on the dangers of smoking have concentrated on adults."
+      },
+      {
+        "id": "passive",
+        "label": "Câu bị động",
+        "level": "B1",
+        "explain": "Cấu trúc be (is/are/was/were) + động từ phân từ hai (V3) dùng khi muốn nhấn mạnh đối tượng chịu tác động của hành động, thay vì người/vật thực hiện.",
+        "example": "The research was carried out by a hospital team led by Professor Goose."
+      },
+      {
+        "id": "relative_clause",
+        "label": "Mệnh đề quan hệ (who / which / whose)",
+        "level": "B1",
+        "explain": "\"Who\" thay cho người, \"which\" thay cho vật/sự việc, \"whose\" chỉ sở hữu — dùng để bổ sung thông tin cho danh từ đứng ngay trước nó.",
+        "example": "Professor Goose said: “We believe that health education may be improved by making full use of knowledge concerning the breathing disorders in children who are regular smokers."
+      },
+      {
+        "id": "gerund",
+        "label": "Danh động từ (V-ing) sau giới từ",
+        "level": "A2–B1",
+        "explain": "Khi một động từ đứng ngay sau giới từ (for, of, by, about, without, before, after...), động từ đó phải chia ở dạng V-ing.",
+        "example": "The team was worried that most reports on the dangers of smoking have concentrated on adults."
       }
     ]
   },
@@ -2003,6 +2532,43 @@
         "meaning": "Tổ chức lớp học",
         "context": "Their classes are held in many interesting places."
       }
+    ],
+    "grammarNotes": [
+      {
+        "id": "present_simple",
+        "label": "Thì hiện tại đơn",
+        "level": "A1",
+        "explain": "Bài đọc chủ yếu dùng thì hiện tại đơn để mô tả sự thật, thói quen hoặc quy luật chung — động từ thêm \"-s/-es\" ở ngôi thứ ba số ít.",
+        "example": "Many children act in TV shows."
+      },
+      {
+        "id": "modals",
+        "label": "Động từ khuyết thiếu (Modal verbs)",
+        "level": "A1–A2",
+        "explain": "Các từ như can/could/must/should/have to diễn tả khả năng, nghĩa vụ, lời khuyên hoặc sự cần thiết. Theo sau modal luôn là động từ nguyên mẫu không \"to\" (trừ \"have to\").",
+        "example": "California law says that they must be taught from September to the middle of June."
+      },
+      {
+        "id": "passive",
+        "label": "Câu bị động",
+        "level": "B1",
+        "explain": "Cấu trúc be (is/are/was/were) + động từ phân từ hai (V3) dùng khi muốn nhấn mạnh đối tượng chịu tác động của hành động, thay vì người/vật thực hiện.",
+        "example": "In Hollywood, where many TV shows are made, about 40 teachers give lessons for the children in the shows."
+      },
+      {
+        "id": "comparative_superlative",
+        "label": "So sánh hơn / so sánh nhất",
+        "level": "A2",
+        "explain": "Dùng \"-er/-est\" với tính từ ngắn hoặc \"more/most\" với tính từ dài để so sánh giữa hai hay nhiều sự vật, sự việc.",
+        "example": "She makes sure, too, that the child gets enough rest and play along with his education."
+      },
+      {
+        "id": "gerund",
+        "label": "Danh động từ (V-ing) sau giới từ",
+        "level": "A2–B1",
+        "explain": "Khi một động từ đứng ngay sau giới từ (for, of, by, about, without, before, after...), động từ đó phải chia ở dạng V-ing.",
+        "example": "She is responsible for making sure that the child works only the permitted hours each week; she is responsible for making sure that the child learns the required subjects."
+      }
     ]
   },
   {
@@ -2111,6 +2677,36 @@
         "meaning": "Càng... thì càng...",
         "context": "As we all know, English is the most widely used language in the world."
       }
+    ],
+    "grammarNotes": [
+      {
+        "id": "present_simple",
+        "label": "Thì hiện tại đơn",
+        "level": "A1",
+        "explain": "Bài đọc chủ yếu dùng thì hiện tại đơn để mô tả sự thật, thói quen hoặc quy luật chung — động từ thêm \"-s/-es\" ở ngôi thứ ba số ít.",
+        "example": "As we all know, English is the most widely used language in the world."
+      },
+      {
+        "id": "present_perfect",
+        "label": "Thì hiện tại hoàn thành",
+        "level": "B1",
+        "explain": "Cấu trúc have/has + động từ phân từ hai (V3) diễn tả hành động đã xảy ra và còn liên quan hoặc ảnh hưởng tới hiện tại.",
+        "example": "From then on, I have begun to pay attention to listening."
+      },
+      {
+        "id": "comparative_superlative",
+        "label": "So sánh hơn / so sánh nhất",
+        "level": "A2",
+        "explain": "Dùng \"-er/-est\" với tính từ ngắn hoặc \"more/most\" với tính từ dài để so sánh giữa hai hay nhiều sự vật, sự việc.",
+        "example": "As we all know, English is the most widely used language in the world."
+      },
+      {
+        "id": "gerund",
+        "label": "Danh động từ (V-ing) sau giới từ",
+        "level": "A2–B1",
+        "explain": "Khi một động từ đứng ngay sau giới từ (for, of, by, about, without, before, after...), động từ đó phải chia ở dạng V-ing.",
+        "example": "Although there are lots of new words, I often go through what I read without paying much attention to the new words or difficult sentences."
+      }
     ]
   },
   {
@@ -2208,6 +2804,36 @@
         "ipa": "/pəˈsɪstəntli/",
         "meaning": "Một cách kiên trì / Bền bỉ",
         "context": "They surely can arrive at the peak of their career in the near future as long as they avail themselves of valuable time and exert themselves to accomplish their share of work carefully and persistently."
+      }
+    ],
+    "grammarNotes": [
+      {
+        "id": "present_simple",
+        "label": "Thì hiện tại đơn",
+        "level": "A1",
+        "explain": "Bài đọc chủ yếu dùng thì hiện tại đơn để mô tả sự thật, thói quen hoặc quy luật chung — động từ thêm \"-s/-es\" ở ngôi thứ ba số ít.",
+        "example": "Some parents worry very much that their children will amount to nothing since they are given to daydreaming, indecision, and they show no promise of being a doctor, lawyer, or manager."
+      },
+      {
+        "id": "modals",
+        "label": "Động từ khuyết thiếu (Modal verbs)",
+        "level": "A1–A2",
+        "explain": "Các từ như can/could/must/should/have to diễn tả khả năng, nghĩa vụ, lời khuyên hoặc sự cần thiết. Theo sau modal luôn là động từ nguyên mẫu không \"to\" (trừ \"have to\").",
+        "example": "They surely can arrive at the peak of their career in the near future as long as they avail themselves of valuable time and exert themselves to accomplish their share of work carefully and persistently."
+      },
+      {
+        "id": "passive",
+        "label": "Câu bị động",
+        "level": "B1",
+        "explain": "Cấu trúc be (is/are/was/were) + động từ phân từ hai (V3) dùng khi muốn nhấn mạnh đối tượng chịu tác động của hành động, thay vì người/vật thực hiện.",
+        "example": "Some parents worry very much that their children will amount to nothing since they are given to daydreaming, indecision, and they show no promise of being a doctor, lawyer, or manager."
+      },
+      {
+        "id": "comparative_superlative",
+        "label": "So sánh hơn / so sánh nhất",
+        "level": "A2",
+        "explain": "Dùng \"-er/-est\" với tính từ ngắn hoặc \"more/most\" với tính từ dài để so sánh giữa hai hay nhiều sự vật, sự việc.",
+        "example": "Teenagers, however disappointing and disappointed, have that one special advantage over the greatest men-alive time."
       }
     ]
   },
@@ -2311,6 +2937,36 @@
         "meaning": "Tầng lớp dịch chuyển (linh hoạt thay đổi nơi ở/làm việc)",
         "context": "A new class is moving into the city, a wealthier, more mobile class."
       }
+    ],
+    "grammarNotes": [
+      {
+        "id": "present_simple",
+        "label": "Thì hiện tại đơn",
+        "level": "A1",
+        "explain": "Bài đọc chủ yếu dùng thì hiện tại đơn để mô tả sự thật, thói quen hoặc quy luật chung — động từ thêm \"-s/-es\" ở ngôi thứ ba số ít.",
+        "example": "American cities are similar to other cities around the world."
+      },
+      {
+        "id": "passive",
+        "label": "Câu bị động",
+        "level": "B1",
+        "explain": "Cấu trúc be (is/are/was/were) + động từ phân từ hai (V3) dùng khi muốn nhấn mạnh đối tượng chịu tác động của hành động, thay vì người/vật thực hiện.",
+        "example": "Many are single; others are married, but often without children."
+      },
+      {
+        "id": "comparative_superlative",
+        "label": "So sánh hơn / so sánh nhất",
+        "level": "A2",
+        "explain": "Dùng \"-er/-est\" với tính từ ngắn hoặc \"more/most\" với tính từ dài để so sánh giữa hai hay nhiều sự vật, sự việc.",
+        "example": "Cities contain the very best aspects of a society: opportunities for education, employment, and entertainment."
+      },
+      {
+        "id": "relative_clause",
+        "label": "Mệnh đề quan hệ (who / which / whose)",
+        "level": "B1",
+        "explain": "\"Who\" thay cho người, \"which\" thay cho vật/sự việc, \"whose\" chỉ sở hữu — dùng để bổ sung thông tin cho danh từ đứng ngay trước nó.",
+        "example": "The children of the people who left the cities in 1950s are now adults."
+      }
     ]
   },
   {
@@ -2410,6 +3066,50 @@
         "ipa": "/ɪkˈstriːmli ˈdɪfɪkəlt/",
         "meaning": "Cực kỳ khó khăn",
         "context": "They say foreign students must do well in writing and speaking English or their studies in the United States will be extremely difficult."
+      }
+    ],
+    "grammarNotes": [
+      {
+        "id": "present_simple",
+        "label": "Thì hiện tại đơn",
+        "level": "A1",
+        "explain": "Bài đọc chủ yếu dùng thì hiện tại đơn để mô tả sự thật, thói quen hoặc quy luật chung — động từ thêm \"-s/-es\" ở ngôi thứ ba số ít.",
+        "example": "TOEFL is a short way of saying test of English as a Foreign Language."
+      },
+      {
+        "id": "modals",
+        "label": "Động từ khuyết thiếu (Modal verbs)",
+        "level": "A1–A2",
+        "explain": "Các từ như can/could/must/should/have to diễn tả khả năng, nghĩa vụ, lời khuyên hoặc sự cần thiết. Theo sau modal luôn là động từ nguyên mẫu không \"to\" (trừ \"have to\").",
+        "example": "They say many foreign students do not know how much writing they must do every week at an American university, and they do not know how much they are expected to talk in class."
+      },
+      {
+        "id": "passive",
+        "label": "Câu bị động",
+        "level": "B1",
+        "explain": "Cấu trúc be (is/are/was/were) + động từ phân từ hai (V3) dùng khi muốn nhấn mạnh đối tượng chịu tác động của hành động, thay vì người/vật thực hiện.",
+        "example": "It is a 30-minute test in which you are asked to write in English about something."
+      },
+      {
+        "id": "comparative_superlative",
+        "label": "So sánh hơn / so sánh nhất",
+        "level": "A2",
+        "explain": "Dùng \"-er/-est\" với tính từ ngắn hoặc \"more/most\" với tính từ dài để so sánh giữa hai hay nhiều sự vật, sự việc.",
+        "example": "TOEFL is a short way of saying test of English as a Foreign Language."
+      },
+      {
+        "id": "relative_clause",
+        "label": "Mệnh đề quan hệ (who / which / whose)",
+        "level": "B1",
+        "explain": "\"Who\" thay cho người, \"which\" thay cho vật/sự việc, \"whose\" chỉ sở hữu — dùng để bổ sung thông tin cho danh từ đứng ngay trước nó.",
+        "example": "It is a 30-minute test in which you are asked to write in English about something."
+      },
+      {
+        "id": "gerund",
+        "label": "Danh động từ (V-ing) sau giới từ",
+        "level": "A2–B1",
+        "explain": "Khi một động từ đứng ngay sau giới từ (for, of, by, about, without, before, after...), động từ đó phải chia ở dạng V-ing.",
+        "example": "TOEFL is a short way of saying test of English as a Foreign Language."
       }
     ]
   },
@@ -2514,6 +3214,43 @@
         "meaning": "Ai đó cần thiết phải làm gì",
         "context": "...she also knows that it is necessary for them to know how to use this learning..."
       }
+    ],
+    "grammarNotes": [
+      {
+        "id": "present_simple",
+        "label": "Thì hiện tại đơn",
+        "level": "A1",
+        "explain": "Bài đọc chủ yếu dùng thì hiện tại đơn để mô tả sự thật, thói quen hoặc quy luật chung — động từ thêm \"-s/-es\" ở ngôi thứ ba số ít.",
+        "example": "Newcomers to the United States are often surprised by the schools."
+      },
+      {
+        "id": "modals",
+        "label": "Động từ khuyết thiếu (Modal verbs)",
+        "level": "A1–A2",
+        "explain": "Các từ như can/could/must/should/have to diễn tả khả năng, nghĩa vụ, lời khuyên hoặc sự cần thiết. Theo sau modal luôn là động từ nguyên mẫu không \"to\" (trừ \"have to\").",
+        "example": "American education is based on the idea that children need to learn to think for themselves."
+      },
+      {
+        "id": "present_perfect",
+        "label": "Thì hiện tại hoàn thành",
+        "level": "B1",
+        "explain": "Cấu trúc have/has + động từ phân từ hai (V3) diễn tả hành động đã xảy ra và còn liên quan hoặc ảnh hưởng tới hiện tại.",
+        "example": "American schools are sometimes so different from the schools they have known in other parts of the world."
+      },
+      {
+        "id": "passive",
+        "label": "Câu bị động",
+        "level": "B1",
+        "explain": "Cấu trúc be (is/are/was/were) + động từ phân từ hai (V3) dùng khi muốn nhấn mạnh đối tượng chịu tác động của hành động, thay vì người/vật thực hiện.",
+        "example": "American education is based on the idea that children need to learn to think for themselves."
+      },
+      {
+        "id": "relative_clause",
+        "label": "Mệnh đề quan hệ (who / which / whose)",
+        "level": "B1",
+        "explain": "\"Who\" thay cho người, \"which\" thay cho vật/sự việc, \"whose\" chỉ sở hữu — dùng để bổ sung thông tin cho danh từ đứng ngay trước nó.",
+        "example": "They study history and government, which are often called social studies, and many other subjects."
+      }
     ]
   },
   {
@@ -2614,6 +3351,50 @@
         "ipa": "/æz lɒŋ æz/",
         "meaning": "Miễn là / Chỉ cần",
         "context": "As long as we take it seriously, we will definitely overcome this difficulty."
+      }
+    ],
+    "grammarNotes": [
+      {
+        "id": "present_simple",
+        "label": "Thì hiện tại đơn",
+        "level": "A1",
+        "explain": "Bài đọc chủ yếu dùng thì hiện tại đơn để mô tả sự thật, thói quen hoặc quy luật chung — động từ thêm \"-s/-es\" ở ngôi thứ ba số ít.",
+        "example": "With the economic development and the increase of the population, we are faced with the lack of water supply."
+      },
+      {
+        "id": "modals",
+        "label": "Động từ khuyết thiếu (Modal verbs)",
+        "level": "A1–A2",
+        "explain": "Các từ như can/could/must/should/have to diễn tả khả năng, nghĩa vụ, lời khuyên hoặc sự cần thiết. Theo sau modal luôn là động từ nguyên mẫu không \"to\" (trừ \"have to\").",
+        "example": "From a recent survey, it can be seen that the consumption of water all over the world has been remarkably raised compared with that of last year."
+      },
+      {
+        "id": "present_perfect",
+        "label": "Thì hiện tại hoàn thành",
+        "level": "B1",
+        "explain": "Cấu trúc have/has + động từ phân từ hai (V3) diễn tả hành động đã xảy ra và còn liên quan hoặc ảnh hưởng tới hiện tại.",
+        "example": "From a recent survey, it can be seen that the consumption of water all over the world has been remarkably raised compared with that of last year."
+      },
+      {
+        "id": "passive",
+        "label": "Câu bị động",
+        "level": "B1",
+        "explain": "Cấu trúc be (is/are/was/were) + động từ phân từ hai (V3) dùng khi muốn nhấn mạnh đối tượng chịu tác động của hành động, thay vì người/vật thực hiện.",
+        "example": "With the economic development and the increase of the population, we are faced with the lack of water supply."
+      },
+      {
+        "id": "relative_clause",
+        "label": "Mệnh đề quan hệ (who / which / whose)",
+        "level": "B1",
+        "explain": "\"Who\" thay cho người, \"which\" thay cho vật/sự việc, \"whose\" chỉ sở hữu — dùng để bổ sung thông tin cho danh từ đứng ngay trước nó.",
+        "example": "Being one of those whose life had been threatened by the crisis, I would like to do something helpful, such as not wasting water in daily life and spreading the idea of protecting environment."
+      },
+      {
+        "id": "gerund",
+        "label": "Danh động từ (V-ing) sau giới từ",
+        "level": "A2–B1",
+        "explain": "Khi một động từ đứng ngay sau giới từ (for, of, by, about, without, before, after...), động từ đó phải chia ở dạng V-ing.",
+        "example": "Being one of those whose life had been threatened by the crisis, I would like to do something helpful, such as not wasting water in daily life and spreading the idea of protecting environment."
       }
     ]
   },
@@ -2727,6 +3508,36 @@
         "meaning": "Mất cân bằng",
         "context": "His life is seriously out of balance."
       }
+    ],
+    "grammarNotes": [
+      {
+        "id": "present_simple",
+        "label": "Thì hiện tại đơn",
+        "level": "A1",
+        "explain": "Bài đọc chủ yếu dùng thì hiện tại đơn để mô tả sự thật, thói quen hoặc quy luật chung — động từ thêm \"-s/-es\" ở ngôi thứ ba số ít.",
+        "example": "Careerists are people whose self-image is determined almost exclusively by their jobs."
+      },
+      {
+        "id": "modals",
+        "label": "Động từ khuyết thiếu (Modal verbs)",
+        "level": "A1–A2",
+        "explain": "Các từ như can/could/must/should/have to diễn tả khả năng, nghĩa vụ, lời khuyên hoặc sự cần thiết. Theo sau modal luôn là động từ nguyên mẫu không \"to\" (trừ \"have to\").",
+        "example": "Workaholics may or may not be careerists."
+      },
+      {
+        "id": "passive",
+        "label": "Câu bị động",
+        "level": "B1",
+        "explain": "Cấu trúc be (is/are/was/were) + động từ phân từ hai (V3) dùng khi muốn nhấn mạnh đối tượng chịu tác động của hành động, thay vì người/vật thực hiện.",
+        "example": "Careerists are people whose self-image is determined almost exclusively by their jobs."
+      },
+      {
+        "id": "relative_clause",
+        "label": "Mệnh đề quan hệ (who / which / whose)",
+        "level": "B1",
+        "explain": "\"Who\" thay cho người, \"which\" thay cho vật/sự việc, \"whose\" chỉ sở hữu — dùng để bổ sung thông tin cho danh từ đứng ngay trước nó.",
+        "example": "Careerists are people whose self-image is determined almost exclusively by their jobs."
+      }
     ]
   },
   {
@@ -2829,6 +3640,43 @@
         "meaning": "Bị sốc / Bị bàng hoàng bởi",
         "context": "...I am shocked by what I see."
       }
+    ],
+    "grammarNotes": [
+      {
+        "id": "present_simple",
+        "label": "Thì hiện tại đơn",
+        "level": "A1",
+        "explain": "Bài đọc chủ yếu dùng thì hiện tại đơn để mô tả sự thật, thói quen hoặc quy luật chung — động từ thêm \"-s/-es\" ở ngôi thứ ba số ít.",
+        "example": "Two days later, I was wheeled into the surgery."
+      },
+      {
+        "id": "modals",
+        "label": "Động từ khuyết thiếu (Modal verbs)",
+        "level": "A1–A2",
+        "explain": "Các từ như can/could/must/should/have to diễn tả khả năng, nghĩa vụ, lời khuyên hoặc sự cần thiết. Theo sau modal luôn là động từ nguyên mẫu không \"to\" (trừ \"have to\").",
+        "example": "On the way home, Bernice would have to pull the car off the road so I could vomit."
+      },
+      {
+        "id": "passive",
+        "label": "Câu bị động",
+        "level": "B1",
+        "explain": "Cấu trúc be (is/are/was/were) + động từ phân từ hai (V3) dùng khi muốn nhấn mạnh đối tượng chịu tác động của hành động, thay vì người/vật thực hiện.",
+        "example": "Two days later, I was wheeled into the surgery."
+      },
+      {
+        "id": "comparative_superlative",
+        "label": "So sánh hơn / so sánh nhất",
+        "level": "A2",
+        "explain": "Dùng \"-er/-est\" với tính từ ngắn hoặc \"more/most\" với tính từ dài để so sánh giữa hai hay nhiều sự vật, sự việc.",
+        "example": "A man with no teeth, a scar from his chest round to his back, struggling to walk, face distorted with pain."
+      },
+      {
+        "id": "gerund",
+        "label": "Danh động từ (V-ing) sau giới từ",
+        "level": "A2–B1",
+        "explain": "Khi một động từ đứng ngay sau giới từ (for, of, by, about, without, before, after...), động từ đó phải chia ở dạng V-ing.",
+        "example": "I thought, the world is such a beautiful place; why did I have to ruin it for myself by smoking?"
+      }
     ]
   },
   {
@@ -2923,6 +3771,22 @@
         "ipa": "/wɜːk waɪl ˈstʌdiɪŋ/",
         "meaning": "Vừa làm vừa học",
         "context": "Private colleges and universities are expensive; however, almost half of the college students in the United States work while they are studying."
+      }
+    ],
+    "grammarNotes": [
+      {
+        "id": "present_simple",
+        "label": "Thì hiện tại đơn",
+        "level": "A1",
+        "explain": "Bài đọc chủ yếu dùng thì hiện tại đơn để mô tả sự thật, thói quen hoặc quy luật chung — động từ thêm \"-s/-es\" ở ngôi thứ ba số ít.",
+        "example": "In the United States, boys and girls start school when they are 5 years old."
+      },
+      {
+        "id": "modals",
+        "label": "Động từ khuyết thiếu (Modal verbs)",
+        "level": "A1–A2",
+        "explain": "Các từ như can/could/must/should/have to diễn tả khả năng, nghĩa vụ, lời khuyên hoặc sự cần thiết. Theo sau modal luôn là động từ nguyên mẫu không \"to\" (trừ \"have to\").",
+        "example": "In some states, they must stay in school until they are 16."
       }
     ]
   },
@@ -3021,6 +3885,36 @@
         "ipa": "/tə wʌnz ˈhɒrə(r)/",
         "meaning": "Trong sự kinh hoàng của ai",
         "context": "...the captain realized to his horror that the Titanic was sinking rapidly..."
+      }
+    ],
+    "grammarNotes": [
+      {
+        "id": "present_simple",
+        "label": "Thì hiện tại đơn",
+        "level": "A1",
+        "explain": "Bài đọc chủ yếu dùng thì hiện tại đơn để mô tả sự thật, thói quen hoặc quy luật chung — động từ thêm \"-s/-es\" ở ngôi thứ ba số ít.",
+        "example": "The great ship Titanic sailed for New York from South Hampton on April 10^(th), 1912."
+      },
+      {
+        "id": "passive",
+        "label": "Câu bị động",
+        "level": "B1",
+        "explain": "Cấu trúc be (is/are/was/were) + động từ phân từ hai (V3) dùng khi muốn nhấn mạnh đối tượng chịu tác động của hành động, thay vì người/vật thực hiện.",
+        "example": "At that time, however, she was not only the largest ship that had ever been built but was regarded as unsinkable, for she had 16 watertight compartments."
+      },
+      {
+        "id": "comparative_superlative",
+        "label": "So sánh hơn / so sánh nhất",
+        "level": "A2",
+        "explain": "Dùng \"-er/-est\" với tính từ ngắn hoặc \"more/most\" với tính từ dài để so sánh giữa hai hay nhiều sự vật, sự việc.",
+        "example": "At that time, however, she was not only the largest ship that had ever been built but was regarded as unsinkable, for she had 16 watertight compartments."
+      },
+      {
+        "id": "gerund",
+        "label": "Danh động từ (V-ing) sau giới từ",
+        "level": "A2–B1",
+        "explain": "Khi một động từ đứng ngay sau giới từ (for, of, by, about, without, before, after...), động từ đó phải chia ở dạng V-ing.",
+        "example": "Four days after setting out, while the Titanic was sailing across the icy waters of the North Atlantic, a huge iceberg was suddenly spotted by a lookout."
       }
     ]
   },
@@ -3124,6 +4018,36 @@
         "meaning": "Bị giảm xuống tương ứng",
         "context": "Lack of it may cause skin troubles and bad eyesight, and our resistance to disease may be lowered accordingly."
       }
+    ],
+    "grammarNotes": [
+      {
+        "id": "present_simple",
+        "label": "Thì hiện tại đơn",
+        "level": "A1",
+        "explain": "Bài đọc chủ yếu dùng thì hiện tại đơn để mô tả sự thật, thói quen hoặc quy luật chung — động từ thêm \"-s/-es\" ở ngôi thứ ba số ít.",
+        "example": "As is known to all, vitamins are essential to our health."
+      },
+      {
+        "id": "modals",
+        "label": "Động từ khuyết thiếu (Modal verbs)",
+        "level": "A1–A2",
+        "explain": "Các từ như can/could/must/should/have to diễn tả khả năng, nghĩa vụ, lời khuyên hoặc sự cần thiết. Theo sau modal luôn là động từ nguyên mẫu không \"to\" (trừ \"have to\").",
+        "example": "Lack of it may cause skin troubles and bad eyesight, and our resistance to disease may be lowered accordingly."
+      },
+      {
+        "id": "passive",
+        "label": "Câu bị động",
+        "level": "B1",
+        "explain": "Cấu trúc be (is/are/was/were) + động từ phân từ hai (V3) dùng khi muốn nhấn mạnh đối tượng chịu tác động của hành động, thay vì người/vật thực hiện.",
+        "example": "As is known to all, vitamins are essential to our health."
+      },
+      {
+        "id": "conditional",
+        "label": "Câu điều kiện loại 1",
+        "level": "B1",
+        "explain": "Cấu trúc If + thì hiện tại đơn, ... will + động từ nguyên mẫu — diễn tả một điều kiện có khả năng xảy ra và kết quả đi kèm.",
+        "example": "If we are short of it, we will probably lose our appetite, and our growth will be slowed."
+      }
     ]
   },
   {
@@ -3225,6 +4149,29 @@
         "ipa": "/fə faɪˈnænʃl ˈriːznz/",
         "meaning": "Vì lý do tài chính / lợi nhuận",
         "context": "Sometimes similar drugs are administered to animals not for medicinal purposes, but for financial reasons."
+      }
+    ],
+    "grammarNotes": [
+      {
+        "id": "present_simple",
+        "label": "Thì hiện tại đơn",
+        "level": "A1",
+        "explain": "Bài đọc chủ yếu dùng thì hiện tại đơn để mô tả sự thật, thói quen hoặc quy luật chung — động từ thêm \"-s/-es\" ở ngôi thứ ba số ít.",
+        "example": "The food we eat seems to have profound effects on our health."
+      },
+      {
+        "id": "present_perfect",
+        "label": "Thì hiện tại hoàn thành",
+        "level": "B1",
+        "explain": "Cấu trúc have/has + động từ phân từ hai (V3) diễn tả hành động đã xảy ra và còn liên quan hoặc ảnh hưởng tới hiện tại.",
+        "example": "Although science has made enormous steps in making food more fit to eat, it has at the same time made many foods unfit to eat."
+      },
+      {
+        "id": "passive",
+        "label": "Câu bị động",
+        "level": "B1",
+        "explain": "Cấu trúc be (is/are/was/were) + động từ phân từ hai (V3) dùng khi muốn nhấn mạnh đối tượng chịu tác động của hành động, thay vì người/vật thực hiện.",
+        "example": "Some research has shown that perhaps 80% of all human illnesses are related to diet, and 40% of cancer is related to the diet as well, especially cancer of the colon."
       }
     ]
   },
@@ -3331,6 +4278,43 @@
         "meaning": "Đầy ắp ý nghĩa / Chứa đựng nhiều ý nghĩa",
         "context": "The hand, and what was done with it, have been full of meaning..."
       }
+    ],
+    "grammarNotes": [
+      {
+        "id": "present_simple",
+        "label": "Thì hiện tại đơn",
+        "level": "A1",
+        "explain": "Bài đọc chủ yếu dùng thì hiện tại đơn để mô tả sự thật, thói quen hoặc quy luật chung — động từ thêm \"-s/-es\" ở ngôi thứ ba số ít.",
+        "example": "Today it is perfectly natural for us to shake hands when we greet someone, or say goodbye."
+      },
+      {
+        "id": "modals",
+        "label": "Động từ khuyết thiếu (Modal verbs)",
+        "level": "A1–A2",
+        "explain": "Các từ như can/could/must/should/have to diễn tả khả năng, nghĩa vụ, lời khuyên hoặc sự cần thiết. Theo sau modal luôn là động từ nguyên mẫu không \"to\" (trừ \"have to\").",
+        "example": "So when the hand was extended to someone, it could have represented goodwill, since it showed that the person was not armed or ready to fight."
+      },
+      {
+        "id": "present_perfect",
+        "label": "Thì hiện tại hoàn thành",
+        "level": "B1",
+        "explain": "Cấu trúc have/has + động từ phân từ hai (V3) diễn tả hành động đã xảy ra và còn liên quan hoặc ảnh hưởng tới hiện tại.",
+        "example": "So when the hand was extended to someone, it could have represented goodwill, since it showed that the person was not armed or ready to fight."
+      },
+      {
+        "id": "passive",
+        "label": "Câu bị động",
+        "level": "B1",
+        "explain": "Cấu trúc be (is/are/was/were) + động từ phân từ hai (V3) dùng khi muốn nhấn mạnh đối tượng chịu tác động của hành động, thay vì người/vật thực hiện.",
+        "example": "The hand was used to fight enemies, kill animals, and make spears and implements."
+      },
+      {
+        "id": "gerund",
+        "label": "Danh động từ (V-ing) sau giới từ",
+        "level": "A2–B1",
+        "explain": "Khi một động từ đứng ngay sau giới từ (for, of, by, about, without, before, after...), động từ đó phải chia ở dạng V-ing.",
+        "example": "But like so many other things we do without thinking, such actions as shaking hands at one time probably symbolize something else."
+      }
     ]
   },
   {
@@ -3423,6 +4407,36 @@
         "ipa": "/æz ɪf/",
         "meaning": "Như thể là",
         "context": "When you went home for a vacation, she would make your bed and prepare foods for you as if you were a guest."
+      }
+    ],
+    "grammarNotes": [
+      {
+        "id": "present_simple",
+        "label": "Thì hiện tại đơn",
+        "level": "A1",
+        "explain": "Bài đọc chủ yếu dùng thì hiện tại đơn để mô tả sự thật, thói quen hoặc quy luật chung — động từ thêm \"-s/-es\" ở ngôi thứ ba số ít.",
+        "example": "Only a mother's love is selfless love."
+      },
+      {
+        "id": "modals",
+        "label": "Động từ khuyết thiếu (Modal verbs)",
+        "level": "A1–A2",
+        "explain": "Các từ như can/could/must/should/have to diễn tả khả năng, nghĩa vụ, lời khuyên hoặc sự cần thiết. Theo sau modal luôn là động từ nguyên mẫu không \"to\" (trừ \"have to\").",
+        "example": "Anyone can see how sincerely mothers love their children."
+      },
+      {
+        "id": "comparative_superlative",
+        "label": "So sánh hơn / so sánh nhất",
+        "level": "A2",
+        "explain": "Dùng \"-er/-est\" với tính từ ngắn hoặc \"more/most\" với tính từ dài để so sánh giữa hai hay nhiều sự vật, sự việc.",
+        "example": "In case your health and work were not very good, she would feel sorry for you, even more sorry than you felt yourself."
+      },
+      {
+        "id": "relative_clause",
+        "label": "Mệnh đề quan hệ (who / which / whose)",
+        "level": "B1",
+        "explain": "\"Who\" thay cho người, \"which\" thay cho vật/sự việc, \"whose\" chỉ sở hữu — dùng để bổ sung thông tin cho danh từ đứng ngay trước nó.",
+        "example": "If you search the trunk carefully, you might find some tears in a corner, which your mother had shed for your leaving."
       }
     ]
   },
@@ -3543,6 +4557,50 @@
         "meaning": "Xử lý / Đề cập đến / Mối liên hệ với",
         "context": "This is only a sampling of expressions in English dealing with the nose."
       }
+    ],
+    "grammarNotes": [
+      {
+        "id": "present_simple",
+        "label": "Thì hiện tại đơn",
+        "level": "A1",
+        "explain": "Bài đọc chủ yếu dùng thì hiện tại đơn để mô tả sự thật, thói quen hoặc quy luật chung — động từ thêm \"-s/-es\" ở ngôi thứ ba số ít.",
+        "example": "The human nose has given to the languages of the world many interesting expressions."
+      },
+      {
+        "id": "modals",
+        "label": "Động từ khuyết thiếu (Modal verbs)",
+        "level": "A1–A2",
+        "explain": "Các từ như can/could/must/should/have to diễn tả khả năng, nghĩa vụ, lời khuyên hoặc sự cần thiết. Theo sau modal luôn là động từ nguyên mẫu không \"to\" (trừ \"have to\").",
+        "example": "Without the nose, we could not breathe or smell."
+      },
+      {
+        "id": "present_perfect",
+        "label": "Thì hiện tại hoàn thành",
+        "level": "B1",
+        "explain": "Cấu trúc have/has + động từ phân từ hai (V3) diễn tả hành động đã xảy ra và còn liên quan hoặc ảnh hưởng tới hiện tại.",
+        "example": "The human nose has given to the languages of the world many interesting expressions."
+      },
+      {
+        "id": "passive",
+        "label": "Câu bị động",
+        "level": "B1",
+        "explain": "Cấu trúc be (is/are/was/were) + động từ phân từ hai (V3) dùng khi muốn nhấn mạnh đối tượng chịu tác động của hành động, thay vì người/vật thực hiện.",
+        "example": "The phrase, “to be led around by the nose” shows man's weakness."
+      },
+      {
+        "id": "relative_clause",
+        "label": "Mệnh đề quan hệ (who / which / whose)",
+        "level": "B1",
+        "explain": "\"Who\" thay cho người, \"which\" thay cho vật/sự việc, \"whose\" chỉ sở hữu — dùng để bổ sung thông tin cho danh từ đứng ngay trước nó.",
+        "example": "A person who is led around by the nose lets other people control him."
+      },
+      {
+        "id": "gerund",
+        "label": "Danh động từ (V-ing) sau giới từ",
+        "level": "A2–B1",
+        "explain": "Khi một động từ đứng ngay sau giới từ (for, of, by, about, without, before, after...), động từ đó phải chia ở dạng V-ing.",
+        "example": "However, it should be as plain as the nose on your face that the nose is more than an organ for breathing and smelling."
+      }
     ]
   },
   {
@@ -3640,6 +4698,50 @@
         "meaning": "Bất kể / Không phân biệt",
         "context": "He wanted to help all the wounded people regardless of which side they were fighting for."
       }
+    ],
+    "grammarNotes": [
+      {
+        "id": "present_simple",
+        "label": "Thì hiện tại đơn",
+        "level": "A1",
+        "explain": "Bài đọc chủ yếu dùng thì hiện tại đơn để mô tả sự thật, thói quen hoặc quy luật chung — động từ thêm \"-s/-es\" ở ngôi thứ ba số ít.",
+        "example": "The Red Cross is an international organization which cares for people who are in need of help."
+      },
+      {
+        "id": "modals",
+        "label": "Động từ khuyết thiếu (Modal verbs)",
+        "level": "A1–A2",
+        "explain": "Các từ như can/could/must/should/have to diễn tả khả năng, nghĩa vụ, lời khuyên hoặc sự cần thiết. Theo sau modal luôn là động từ nguyên mẫu không \"to\" (trừ \"have to\").",
+        "example": "A man in a Paris hospital who needs blood, a woman in Mexico who was injured in an earthquake, and a family in India that lost their home in a storm may all be aided by the Red Cross."
+      },
+      {
+        "id": "passive",
+        "label": "Câu bị động",
+        "level": "B1",
+        "explain": "Cấu trúc be (is/are/was/were) + động từ phân từ hai (V3) dùng khi muốn nhấn mạnh đối tượng chịu tác động của hành động, thay vì người/vật thực hiện.",
+        "example": "A man in a Paris hospital who needs blood, a woman in Mexico who was injured in an earthquake, and a family in India that lost their home in a storm may all be aided by the Red Cross."
+      },
+      {
+        "id": "comparative_superlative",
+        "label": "So sánh hơn / so sánh nhất",
+        "level": "A2",
+        "explain": "Dùng \"-er/-est\" với tính từ ngắn hoặc \"more/most\" với tính từ dài để so sánh giữa hai hay nhiều sự vật, sự việc.",
+        "example": "The most important result of his work was an international treaty called the Geneva Convention."
+      },
+      {
+        "id": "relative_clause",
+        "label": "Mệnh đề quan hệ (who / which / whose)",
+        "level": "B1",
+        "explain": "\"Who\" thay cho người, \"which\" thay cho vật/sự việc, \"whose\" chỉ sở hữu — dùng để bổ sung thông tin cho danh từ đứng ngay trước nó.",
+        "example": "The Red Cross is an international organization which cares for people who are in need of help."
+      },
+      {
+        "id": "gerund",
+        "label": "Danh động từ (V-ing) sau giới từ",
+        "level": "A2–B1",
+        "explain": "Khi một động từ đứng ngay sau giới từ (for, of, by, about, without, before, after...), động từ đó phải chia ở dạng V-ing.",
+        "example": "All of these agencies share a common goal of trying to help people in need."
+      }
     ]
   },
   {
@@ -3736,6 +4838,50 @@
         "meaning": "Ở trạng thái hoang sơ / Chưa khai phá",
         "context": "...unable to live on it in its undeveloped state."
       }
+    ],
+    "grammarNotes": [
+      {
+        "id": "present_simple",
+        "label": "Thì hiện tại đơn",
+        "level": "A1",
+        "explain": "Bài đọc chủ yếu dùng thì hiện tại đơn để mô tả sự thật, thói quen hoặc quy luật chung — động từ thêm \"-s/-es\" ở ngôi thứ ba số ít.",
+        "example": "Is Australia the world's largest island or its smallest continent?"
+      },
+      {
+        "id": "modals",
+        "label": "Động từ khuyết thiếu (Modal verbs)",
+        "level": "A1–A2",
+        "explain": "Các từ như can/could/must/should/have to diễn tả khả năng, nghĩa vụ, lời khuyên hoặc sự cần thiết. Theo sau modal luôn là động từ nguyên mẫu không \"to\" (trừ \"have to\").",
+        "example": "Lush green pastures may be typical in sheep farming areas."
+      },
+      {
+        "id": "present_perfect",
+        "label": "Thì hiện tại hoàn thành",
+        "level": "B1",
+        "explain": "Cấu trúc have/has + động từ phân từ hai (V3) diễn tả hành động đã xảy ra và còn liên quan hoặc ảnh hưởng tới hiện tại.",
+        "example": "However, over the past 50 years, some 4 million people from more than 120 countries have made Australia their home."
+      },
+      {
+        "id": "passive",
+        "label": "Câu bị động",
+        "level": "B1",
+        "explain": "Cấu trúc be (is/are/was/were) + động từ phân từ hai (V3) dùng khi muốn nhấn mạnh đối tượng chịu tác động của hành động, thay vì người/vật thực hiện.",
+        "example": "That explains why most Australians live in metropolitan areas, many of which line the coast, and why Australia is considered one of the world's more urbanised countries."
+      },
+      {
+        "id": "comparative_superlative",
+        "label": "So sánh hơn / so sánh nhất",
+        "level": "A2",
+        "explain": "Dùng \"-er/-est\" với tính từ ngắn hoặc \"more/most\" với tính từ dài để so sánh giữa hai hay nhiều sự vật, sự việc.",
+        "example": "Is Australia the world's largest island or its smallest continent?"
+      },
+      {
+        "id": "relative_clause",
+        "label": "Mệnh đề quan hệ (who / which / whose)",
+        "level": "B1",
+        "explain": "\"Who\" thay cho người, \"which\" thay cho vật/sự việc, \"whose\" chỉ sở hữu — dùng để bổ sung thông tin cho danh từ đứng ngay trước nó.",
+        "example": "That explains why most Australians live in metropolitan areas, many of which line the coast, and why Australia is considered one of the world's more urbanised countries."
+      }
     ]
   },
   {
@@ -3829,6 +4975,50 @@
         "meaning": "Vẫn còn một chặng đường dài phía trước",
         "context": "And though there is still a long way to go, a lot of progress has been made.."
       }
+    ],
+    "grammarNotes": [
+      {
+        "id": "present_simple",
+        "label": "Thì hiện tại đơn",
+        "level": "A1",
+        "explain": "Bài đọc chủ yếu dùng thì hiện tại đơn để mô tả sự thật, thói quen hoặc quy luật chung — động từ thêm \"-s/-es\" ở ngôi thứ ba số ít.",
+        "example": "In Japan, most people still feel that a woman's place is in the home, and most women willingly accept their traditional role as wives, leaving the business of making a living to their husbands."
+      },
+      {
+        "id": "modals",
+        "label": "Động từ khuyết thiếu (Modal verbs)",
+        "level": "A1–A2",
+        "explain": "Các từ như can/could/must/should/have to diễn tả khả năng, nghĩa vụ, lời khuyên hoặc sự cần thiết. Theo sau modal luôn là động từ nguyên mẫu không \"to\" (trừ \"have to\").",
+        "example": "For those who do want a career of their own, opportunities are limited, and working women usually have to settle for lower wages, fewer promotions, and less responsible positions."
+      },
+      {
+        "id": "present_perfect",
+        "label": "Thì hiện tại hoàn thành",
+        "level": "B1",
+        "explain": "Cấu trúc have/has + động từ phân từ hai (V3) diễn tả hành động đã xảy ra và còn liên quan hoặc ảnh hưởng tới hiện tại.",
+        "example": "As in Japan, most fields are dominated by men, and opportunities for women have been restricted, salaries low, chances for advancement rare."
+      },
+      {
+        "id": "passive",
+        "label": "Câu bị động",
+        "level": "B1",
+        "explain": "Cấu trúc be (is/are/was/were) + động từ phân từ hai (V3) dùng khi muốn nhấn mạnh đối tượng chịu tác động của hành động, thay vì người/vật thực hiện.",
+        "example": "For those who do want a career of their own, opportunities are limited, and working women usually have to settle for lower wages, fewer promotions, and less responsible positions."
+      },
+      {
+        "id": "relative_clause",
+        "label": "Mệnh đề quan hệ (who / which / whose)",
+        "level": "B1",
+        "explain": "\"Who\" thay cho người, \"which\" thay cho vật/sự việc, \"whose\" chỉ sở hữu — dùng để bổ sung thông tin cho danh từ đứng ngay trước nó.",
+        "example": "For those who do want a career of their own, opportunities are limited, and working women usually have to settle for lower wages, fewer promotions, and less responsible positions."
+      },
+      {
+        "id": "gerund",
+        "label": "Danh động từ (V-ing) sau giới từ",
+        "level": "A2–B1",
+        "explain": "Khi một động từ đứng ngay sau giới từ (for, of, by, about, without, before, after...), động từ đó phải chia ở dạng V-ing.",
+        "example": "In Japan, most people still feel that a woman's place is in the home, and most women willingly accept their traditional role as wives, leaving the business of making a living to their husbands."
+      }
     ]
   },
   {
@@ -3913,6 +5103,36 @@
         "ipa": "/ɪn ə weɪ/",
         "meaning": "Theo một cách nào đó / Ở khía cạnh nào đó",
         "context": "She takes them shopping many times, and she allows them to choose clothes of their own liking, and I think in a way that teaches a great deal of responsibility."
+      }
+    ],
+    "grammarNotes": [
+      {
+        "id": "present_simple",
+        "label": "Thì hiện tại đơn",
+        "level": "A1",
+        "explain": "Bài đọc chủ yếu dùng thì hiện tại đơn để mô tả sự thật, thói quen hoặc quy luật chung — động từ thêm \"-s/-es\" ở ngôi thứ ba số ít.",
+        "example": "It is amusing to watch some of my friends who can come to a decision right away, and others who can't."
+      },
+      {
+        "id": "modals",
+        "label": "Động từ khuyết thiếu (Modal verbs)",
+        "level": "A1–A2",
+        "explain": "Các từ như can/could/must/should/have to diễn tả khả năng, nghĩa vụ, lời khuyên hoặc sự cần thiết. Theo sau modal luôn là động từ nguyên mẫu không \"to\" (trừ \"have to\").",
+        "example": "It is amusing to watch some of my friends who can come to a decision right away, and others who can't."
+      },
+      {
+        "id": "present_perfect",
+        "label": "Thì hiện tại hoàn thành",
+        "level": "B1",
+        "explain": "Cấu trúc have/has + động từ phân từ hai (V3) diễn tả hành động đã xảy ra và còn liên quan hoặc ảnh hưởng tới hiện tại.",
+        "example": "It seems to me that for young children, they come to decisions very quickly and I was thinking about this and one of the reasons might be that she has given them a great deal of responsibility at a very young age."
+      },
+      {
+        "id": "relative_clause",
+        "label": "Mệnh đề quan hệ (who / which / whose)",
+        "level": "B1",
+        "explain": "\"Who\" thay cho người, \"which\" thay cho vật/sự việc, \"whose\" chỉ sở hữu — dùng để bổ sung thông tin cho danh từ đứng ngay trước nó.",
+        "example": "It is amusing to watch some of my friends who can come to a decision right away, and others who can't."
       }
     ]
   },
@@ -4005,6 +5225,43 @@
         "meaning": "Liệu có hay không",
         "context": "We have a choice in the second of these; we can choose whether or not to marry."
       }
+    ],
+    "grammarNotes": [
+      {
+        "id": "present_simple",
+        "label": "Thì hiện tại đơn",
+        "level": "A1",
+        "explain": "Bài đọc chủ yếu dùng thì hiện tại đơn để mô tả sự thật, thói quen hoặc quy luật chung — động từ thêm \"-s/-es\" ở ngôi thứ ba số ít.",
+        "example": "Birth, marriage and death: these are the greatest events in human life."
+      },
+      {
+        "id": "modals",
+        "label": "Động từ khuyết thiếu (Modal verbs)",
+        "level": "A1–A2",
+        "explain": "Các từ như can/could/must/should/have to diễn tả khả năng, nghĩa vụ, lời khuyên hoặc sự cần thiết. Theo sau modal luôn là động từ nguyên mẫu không \"to\" (trừ \"have to\").",
+        "example": "Many things, good or bad, can happen to us in our lives."
+      },
+      {
+        "id": "passive",
+        "label": "Câu bị động",
+        "level": "B1",
+        "explain": "Cấu trúc be (is/are/was/were) + động từ phân từ hai (V3) dùng khi muốn nhấn mạnh đối tượng chịu tác động của hành động, thay vì người/vật thực hiện.",
+        "example": "All human beings, from the most primitive to the most sophisticated, are affected by these three events."
+      },
+      {
+        "id": "comparative_superlative",
+        "label": "So sánh hơn / so sánh nhất",
+        "level": "A2",
+        "explain": "Dùng \"-er/-est\" với tính từ ngắn hoặc \"more/most\" với tính từ dài để so sánh giữa hai hay nhiều sự vật, sự việc.",
+        "example": "Birth, marriage and death: these are the greatest events in human life."
+      },
+      {
+        "id": "relative_clause",
+        "label": "Mệnh đề quan hệ (who / which / whose)",
+        "level": "B1",
+        "explain": "\"Who\" thay cho người, \"which\" thay cho vật/sự việc, \"whose\" chỉ sở hữu — dùng để bổ sung thông tin cho danh từ đứng ngay trước nó.",
+        "example": "Yet there are days which are usually marked by some kinds of special ceremony: the day we are born, the day we get married and the day we die."
+      }
     ]
   },
   {
@@ -4094,6 +5351,43 @@
         "ipa": "/æz taɪm ɡəʊz baɪ/",
         "meaning": "Theo thời gian / Càng về sau",
         "context": "I think sometimes teachers who demand the most are perhaps the least, but as time goes by, this discipline really seems to benefit the students."
+      }
+    ],
+    "grammarNotes": [
+      {
+        "id": "present_simple",
+        "label": "Thì hiện tại đơn",
+        "level": "A1",
+        "explain": "Bài đọc chủ yếu dùng thì hiện tại đơn để mô tả sự thật, thói quen hoặc quy luật chung — động từ thêm \"-s/-es\" ở ngôi thứ ba số ít.",
+        "example": "A good teacher is many things to many people."
+      },
+      {
+        "id": "passive",
+        "label": "Câu bị động",
+        "level": "B1",
+        "explain": "Cấu trúc be (is/are/was/were) + động từ phân từ hai (V3) dùng khi muốn nhấn mạnh đối tượng chịu tác động của hành động, thay vì người/vật thực hiện.",
+        "example": "It was a simple sign that said: “Laboratory - in this room, the first five letters of the word are emphasized, not the last seven.” In other words, I guess, labor for her was more important than oratory, which means making speeches."
+      },
+      {
+        "id": "comparative_superlative",
+        "label": "So sánh hơn / so sánh nhất",
+        "level": "A2",
+        "explain": "Dùng \"-er/-est\" với tính từ ngắn hoặc \"more/most\" với tính từ dài để so sánh giữa hai hay nhiều sự vật, sự việc.",
+        "example": "In my own experience, the people I respect the most and think about the most are those who demanded the most discipline from their students."
+      },
+      {
+        "id": "relative_clause",
+        "label": "Mệnh đề quan hệ (who / which / whose)",
+        "level": "B1",
+        "explain": "\"Who\" thay cho người, \"which\" thay cho vật/sự việc, \"whose\" chỉ sở hữu — dùng để bổ sung thông tin cho danh từ đứng ngay trước nó.",
+        "example": "In my own experience, the people I respect the most and think about the most are those who demanded the most discipline from their students."
+      },
+      {
+        "id": "gerund",
+        "label": "Danh động từ (V-ing) sau giới từ",
+        "level": "A2–B1",
+        "explain": "Khi một động từ đứng ngay sau giới từ (for, of, by, about, without, before, after...), động từ đó phải chia ở dạng V-ing.",
+        "example": "She checked our work by stamping her name at the bottom of the papers to show that she had read them."
       }
     ]
   },
@@ -4196,6 +5490,36 @@
         "ipa": "/maɪt æz wel/",
         "meaning": "Nên / Cứ nên làm gì thì hơn",
         "context": "If both your finance and health permit, you might as well do some traveling from time to time."
+      }
+    ],
+    "grammarNotes": [
+      {
+        "id": "present_simple",
+        "label": "Thì hiện tại đơn",
+        "level": "A1",
+        "explain": "Bài đọc chủ yếu dùng thì hiện tại đơn để mô tả sự thật, thói quen hoặc quy luật chung — động từ thêm \"-s/-es\" ở ngôi thứ ba số ít.",
+        "example": "Nowadays traveling during holidays has become a fashion in China with the development of economy."
+      },
+      {
+        "id": "modals",
+        "label": "Động từ khuyết thiếu (Modal verbs)",
+        "level": "A1–A2",
+        "explain": "Các từ như can/could/must/should/have to diễn tả khả năng, nghĩa vụ, lời khuyên hoặc sự cần thiết. Theo sau modal luôn là động từ nguyên mẫu không \"to\" (trừ \"have to\").",
+        "example": "Secondly, through traveling people can broaden their scope of knowledge especially of geography and history."
+      },
+      {
+        "id": "passive",
+        "label": "Câu bị động",
+        "level": "B1",
+        "explain": "Cấu trúc be (is/are/was/were) + động từ phân từ hai (V3) dùng khi muốn nhấn mạnh đối tượng chịu tác động của hành động, thay vì người/vật thực hiện.",
+        "example": "When the demands on food, clothes and some other necessities of life become far beyond being satisfied, people have come to spend their extra money on traveling."
+      },
+      {
+        "id": "relative_clause",
+        "label": "Mệnh đề quan hệ (who / which / whose)",
+        "level": "B1",
+        "explain": "\"Who\" thay cho người, \"which\" thay cho vật/sự việc, \"whose\" chỉ sở hữu — dùng để bổ sung thông tin cho danh từ đứng ngay trước nó.",
+        "example": "These so-called disadvantages can even be regarded as good conditions in which travelers can build up both physical strength and willpower."
       }
     ]
   }

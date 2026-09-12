@@ -596,6 +596,60 @@ body{
   color:var(--moss-dark);
   line-height:1.5;
 }
+.write-actions{
+  display:flex;
+  gap:10px;
+  align-items:center;
+}
+.write-note{
+  margin:10px 0 0;
+  font-size:0.85rem;
+  color:var(--moss-dark);
+}
+.notebook-structure{
+  margin:0 0 20px;
+  padding-left:20px;
+  font-size:0.88rem;
+  color:#4a4938;
+  line-height:1.8;
+}
+.notebook-structure li{margin-bottom:2px;}
+
+.grammar-card{
+  border:1px solid var(--line);
+  border-radius:var(--radius);
+  padding:16px 18px;
+  margin-bottom:16px;
+  background:var(--panel);
+}
+.grammar-head{
+  display:flex;
+  align-items:center;
+  gap:10px;
+  margin-bottom:8px;
+}
+.grammar-head h4{
+  font-family:var(--serif);
+  font-size:1.1rem;
+  margin:0;
+  color:var(--ink);
+}
+.pill-small{
+  font-size:0.68rem;
+  padding:2px 8px;
+}
+.grammar-explain{
+  margin:0 0 10px;
+  font-size:0.9rem;
+  color:#4a4938;
+  line-height:1.6;
+}
+.grammar-example{
+  margin:0;
+  font-size:0.92rem;
+  color:var(--moss-dark);
+  line-height:1.55;
+}
 
 /* ---------- Highlight popover ---------- */
 .highlight-popover{

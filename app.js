@@ -33,9 +33,10 @@ async function init() {
 function cacheEls() {
   ['trackList','emptyState','trackView','trackEyebrow','trackTitle','trackLevel',
    'trackWords','clearHighlights','driveIdInput','saveDriveId','playerWrap',
-   'transcript','vocabBlock','speakingBlock','search','levelToggle','tabs',
+   'transcript','speakingBlock','search','levelToggle','tabs',
    'shadowModeBtn','highlightPopover','chatLevelToggle','chatPromptBlock',
-   'copyChatPrompt','openChatgpt','drillModeToggle','drillArea','writingArea'
+   'copyChatPrompt','openChatgpt','drillModeToggle','drillArea','writingArea',
+   'grammarArea'
   ].forEach(id => els[id] = document.getElementById(id));
 }
 
@@ -106,7 +107,6 @@ function selectTrack(t) {
   els.trackWords.textContent = `${t.wordCount} từ · ${t.sentences.length} câu`;
 
   renderTranscript(t);
-  els.vocabBlock.textContent = t.vocab || '(Không có dữ liệu từ vựng cho track này)';
   els.speakingBlock.textContent = t.speaking || '(Không có đề bài nói cho track này)';
 
   loadDriveId(t);
@@ -114,12 +114,13 @@ function selectTrack(t) {
   renderChatPrompt(t);
   renderVocabDrill(t);
   renderWritingPractice(t);
+  renderGrammarNotes(t);
   els.transcript.classList.remove('shadow-mode');
   els.shadowModeBtn.textContent = '▶ Chế độ Shadowing';
   document.querySelector('.shadow-nav')?.remove();
 }
 
-const TAB_NAMES = ['transcript','vocab','speaking','vocabdrill','writing','chatgpt'];
+const TAB_NAMES = ['transcript','vocabdrill','grammar','speaking','writing','chatgpt'];
 
 function resetTabs() {
   els.tabs.querySelectorAll('button').forEach(b => b.classList.toggle('active', b.dataset.tab === 'transcript'));
@@ -517,28 +518,80 @@ function renderVocabDrill(t) {
   }
 }
 
-/* ---------------- Writing practice ---------------- */
+/* ---------------- Writing practice (ChatGPT correction workflow) ---------------- */
+
+function buildWritingPrompt(word, meaning, userSentence) {
+  return `Tôi đang luyện viết câu tiếng Anh đơn giản có dùng từ vựng "${word}" (nghĩa: ${meaning || 'xem trong bài'}).
+
+Câu tôi tự viết: "${userSentence}"
+
+Hãy đóng vai giáo viên tiếng Anh, chữa câu này giúp tôi. Trả lời NGẮN GỌN đúng theo 5 mục sau, để tôi chép lại vào sổ tay học tập của mình:
+
+1. Câu tự viết: (nhắc lại nguyên văn câu tôi viết)
+2. Lỗi sai: (liệt kê ngắn gọn lỗi ngữ pháp/từ vựng — nếu không có lỗi thì ghi "Không có lỗi")
+3. Câu đã chữa: (viết lại câu đúng, hoàn chỉnh)
+4. Cách diễn đạt khác: (gợi ý 1–2 cách viết khác cùng nghĩa, tự nhiên hơn)
+5. Ghi chú kiến thức cần chú ý: (1–2 điểm ngữ pháp/từ vựng quan trọng rút ra từ lỗi này, ngắn gọn dễ nhớ)
+
+Không thêm phần nào khác ngoài 5 mục trên.`;
+}
 
 function renderWritingPractice(t) {
   const items = t.vocabItems || [];
   if (!items.length) {
-    els.writingArea.innerHTML = `<p class="drill-empty">Track này chưa có đủ dữ liệu từ vựng để tạo bài luyện viết — bạn vẫn có thể tự chọn từ ở tab "Từ vựng" và viết câu.</p>`;
+    els.writingArea.innerHTML = `<p class="drill-empty">Track này chưa có đủ dữ liệu từ vựng để tạo bài luyện viết.</p>`;
     return;
   }
 
   els.writingArea.innerHTML = items.map((it, i) => `
     <div class="write-item">
-      <p class="write-prompt">${i + 1}. Viết một câu đơn giản có dùng từ: <strong>${escapeHtml(it.word)}</strong> <span class="fc-ipa">${escapeHtml(it.ipa)}</span></p>
+      <p class="write-prompt">${i + 1}. Viết một câu đơn giản có dùng từ: <strong>${escapeHtml(it.word)}</strong> <span class="fc-ipa">${escapeHtml(it.ipa)}</span> — ${escapeHtml(it.meaning || '')}</p>
       <textarea class="write-input" rows="2" placeholder="Viết câu của bạn ở đây…" data-idx="${i}"></textarea>
-      <button class="ghost-btn reveal-btn" data-idx="${i}">Xem đáp án mẫu</button>
-      <p class="write-answer" id="writeAns${i}" hidden>Câu mẫu (trích từ bài nghe): <em>“${escapeHtml(it.context)}”</em></p>
+      <div class="write-actions">
+        <button class="ghost-btn copy-write-btn" data-idx="${i}">Sao chép prompt chữa bài</button>
+        <a class="ghost-btn link-btn" href="https://chatgpt.com" target="_blank" rel="noopener">Mở ChatGPT ↗</a>
+      </div>
+      <p class="write-note" id="writeNote${i}" hidden>Đã sao chép — dán vào ChatGPT, rồi chép câu trả lời vào sổ tay của bạn theo 5 mục ở trên.</p>
     </div>`).join('');
 
-  els.writingArea.querySelectorAll('.reveal-btn').forEach(btn => {
-    btn.addEventListener('click', () => {
-      document.getElementById('writeAns' + btn.dataset.idx).hidden = false;
+  els.writingArea.querySelectorAll('.copy-write-btn').forEach(btn => {
+    btn.addEventListener('click', async () => {
+      const idx = Number(btn.dataset.idx);
+      const it = items[idx];
+      const textarea = els.writingArea.querySelector(`.write-input[data-idx="${idx}"]`);
+      const sentence = textarea.value.trim();
+      if (!sentence) {
+        alert('Hãy viết câu của bạn vào ô phía trên trước đã nhé.');
+        return;
+      }
+      const prompt = buildWritingPrompt(it.word, it.meaning, sentence);
+      try {
+        await navigator.clipboard.writeText(prompt);
+        document.getElementById('writeNote' + idx).hidden = false;
+      } catch {
+        alert('Không sao chép được tự động. Nội dung prompt:\n\n' + prompt);
+      }
     });
   });
+}
+
+/* ---------------- Grammar notes ---------------- */
+
+function renderGrammarNotes(t) {
+  const notes = t.grammarNotes || [];
+  if (!notes.length) {
+    els.grammarArea.innerHTML = `<p class="drill-empty">Chưa phát hiện được điểm ngữ pháp rõ ràng cho track này.</p>`;
+    return;
+  }
+  els.grammarArea.innerHTML = notes.map(n => `
+    <div class="grammar-card">
+      <div class="grammar-head">
+        <h4>${escapeHtml(n.label)}</h4>
+        <span class="pill pill-small">${escapeHtml(n.level)}</span>
+      </div>
+      <p class="grammar-explain">${escapeHtml(n.explain)}</p>
+      <p class="grammar-example">Ví dụ trong bài: <em>“${escapeHtml(n.example)}”</em></p>
+    </div>`).join('');
 }
 
 init();

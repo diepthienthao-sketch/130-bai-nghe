@@ -78,9 +78,9 @@
 
       <nav class="tabs" id="tabs">
         <button data-tab="transcript" class="active">Transcript</button>
-        <button data-tab="vocab">Từ vựng</button>
+        <button data-tab="vocabdrill">Từ vựng</button>
+        <button data-tab="grammar">Ngữ pháp</button>
         <button data-tab="speaking">Speaking</button>
-        <button data-tab="vocabdrill">Ôn từ vựng</button>
         <button data-tab="writing">Luyện viết câu</button>
         <button data-tab="chatgpt">Luyện nói với AI</button>
       </nav>
@@ -93,18 +93,10 @@
         <div class="transcript" id="transcript"></div>
       </section>
 
-      <section class="tab-panel" id="panel-vocab" hidden>
-        <pre class="raw-block" id="vocabBlock"></pre>
-      </section>
-
-      <section class="tab-panel" id="panel-speaking" hidden>
-        <pre class="raw-block" id="speakingBlock"></pre>
-      </section>
-
       <section class="tab-panel" id="panel-vocabdrill" hidden>
         <div class="drill-intro">
           <h3>Ghi nhớ từ vựng theo ngữ cảnh</h3>
-          <p>Từ vựng của track này, kèm câu ví dụ thật lấy từ chính bài nghe. Bấm thẻ để lật xem câu ví dụ, hoặc chuyển sang chế độ điền từ vào chỗ trống để tự kiểm tra.</p>
+          <p>Từ vựng của track này, kèm câu ví dụ thật lấy từ chính bài nghe. Bấm thẻ để lật xem nghĩa &amp; câu ví dụ, hoặc chuyển sang chế độ điền từ vào chỗ trống để tự kiểm tra.</p>
         </div>
         <div class="drill-mode-toggle" id="drillModeToggle">
           <button data-dmode="flash" class="active">Thẻ ghi nhớ</button>
@@ -113,10 +105,29 @@
         <div id="drillArea"></div>
       </section>
 
+      <section class="tab-panel" id="panel-grammar" hidden>
+        <div class="drill-intro">
+          <h3>Grammar Note — điểm ngữ pháp trong bài</h3>
+          <p>Các điểm ngữ pháp (A1–B1) xuất hiện thật trong bài nghe này, kèm câu ví dụ trích nguyên văn để bạn dễ liên hệ.</p>
+        </div>
+        <div id="grammarArea"></div>
+      </section>
+
+      <section class="tab-panel" id="panel-speaking" hidden>
+        <pre class="raw-block" id="speakingBlock"></pre>
+      </section>
+
       <section class="tab-panel" id="panel-writing" hidden>
         <div class="drill-intro">
           <h3>Luyện viết câu đơn giản</h3>
-          <p>Viết một câu tiếng Anh đơn giản có dùng từ gợi ý, rồi bấm "Xem đáp án mẫu" để so sánh với câu thật trong bài nghe. Không cần giống hệt — miễn đúng nghĩa và dùng đúng từ là được.</p>
+          <p>Viết một câu tiếng Anh đơn giản có dùng từ gợi ý. Bấm "Sao chép prompt chữa bài" rồi dán vào ChatGPT (hoặc Claude, Gemini…) để được chữa bài. Sau đó chép câu trả lời của AI vào sổ tay/notebook điện tử (Google Docs, Notion…) của bạn theo đúng cấu trúc 5 mục dưới đây, để tiện ôn lại sau này.</p>
+          <ol class="notebook-structure">
+            <li>Câu tự viết</li>
+            <li>Lỗi sai</li>
+            <li>Câu đã chữa</li>
+            <li>Cách diễn đạt khác</li>
+            <li>Ghi chú kiến thức cần chú ý</li>
+          </ol>
         </div>
         <div id="writingArea"></div>
       </section>

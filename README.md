@@ -20,19 +20,25 @@ app sẽ chạy tại `https://<username>.github.io/<repo>/`.
   trình phát nhúng (`drive.google.com/file/d/…/preview`). ID được lưu trong
   trình duyệt của bạn, hoặc bạn có thể gán sẵn cho tất cả mọi người dùng app
   (xem phần dưới).
-- **Từ vựng & Speaking prompts** — tab riêng cho bảng từ vựng (IPA + nghĩa) và
-  đề bài nói gợi ý cho A2/B1, lấy nguyên văn từ file gốc.
-- **Luyện nói với AI** — tab mới tự tạo sẵn một đoạn prompt (dựa trên chủ đề,
-  đề bài A2/B1 và một số từ vựng mục tiêu của track) để bạn dán vào ChatGPT
-  (hoặc Claude, Gemini…) và luyện hội thoại nói trực tiếp, có sửa lỗi và gợi ý
-  theo từng lượt trả lời. Bấm "Sao chép prompt" rồi dán vào ChatGPT là dùng
-  được ngay.
-- **Ôn từ vựng theo ngữ cảnh** — thẻ ghi nhớ (flashcard) lật để xem câu ví dụ
-  thật trích từ chính bài nghe, hoặc chế độ "Điền từ vào câu" (cloze) để tự
-  kiểm tra trí nhớ trước khi bấm hiện đáp án.
+- **Từ vựng theo ngữ cảnh** — thẻ ghi nhớ (flashcard) lật để xem nghĩa tiếng
+  Việt + câu ví dụ thật trích từ chính bài nghe, hoặc chế độ "Điền từ vào câu"
+  (cloze) để tự kiểm tra trí nhớ trước khi bấm hiện đáp án. Đây là tab từ vựng
+  duy nhất (đã thay thế bảng từ vựng dạng văn bản thô trước đây).
+- **Grammar Note** — các điểm ngữ pháp A1–B1 được tự động phát hiện thật trong
+  từng bài nghe (thì hiện tại đơn, modal verbs, hiện tại hoàn thành, bị động,
+  so sánh, câu điều kiện, mệnh đề quan hệ, danh động từ…), kèm câu ví dụ trích
+  nguyên văn để dễ liên hệ.
+- **Speaking prompts** — đề bài nói gợi ý cho A2/B1, lấy nguyên văn từ file gốc.
 - **Luyện viết câu** — với mỗi từ vựng mục tiêu, bạn viết một câu đơn giản rồi
-  bấm "Xem đáp án mẫu" để so sánh với câu gốc trong bài nghe (đáp án có sẵn,
-  không cần chấm điểm tự động).
+  bấm "Sao chép prompt chữa bài" để dán vào ChatGPT (hoặc Claude, Gemini…) nhờ
+  chữa. Prompt đã được thiết kế sẵn để AI trả lời đúng theo 5 mục: (1) câu tự
+  viết, (2) lỗi sai, (3) câu đã chữa, (4) cách diễn đạt khác, (5) ghi chú kiến
+  thức cần chú ý — bạn chép 5 mục này vào sổ tay/notebook điện tử (Google Docs,
+  Notion…) để ôn lại dần.
+- **Luyện nói với AI** — tab tự tạo sẵn một đoạn prompt (dựa trên chủ đề, đề
+  bài A2/B1 và một số từ vựng mục tiêu của track) để bạn dán vào ChatGPT (hoặc
+  Claude, Gemini…) và luyện hội thoại nói trực tiếp, có sửa lỗi và gợi ý theo
+  từng lượt trả lời.
 
 ## Cấu trúc project
 
@@ -130,7 +136,14 @@ hiện có.
 `level` được gán tự động theo tỉ lệ từ dài (≥8 ký tự) trong bài — chỉ mang
 tính tham khảo, bạn có thể sửa tay nếu thấy chưa hợp lý.
 
-`vocabItems` (dùng cho tab "Ôn từ vựng" và "Luyện viết câu") được trích tự
-động từ bảng từ vựng gốc, gồm từ, phiên âm IPA, nghĩa tiếng Việt, và câu ví dụ
-— ưu tiên lấy câu ví dụ thật khớp trong chính transcript, nếu không tìm thấy
-thì dùng câu ví dụ gốc trong bảng từ vựng. Mỗi track có khoảng 9–19 từ.
+`vocabItems` (dùng cho tab "Từ vựng" và "Luyện viết câu") gồm từ, phiên âm
+IPA, nghĩa tiếng Việt, và câu ví dụ — ưu tiên lấy câu ví dụ thật khớp trong
+chính transcript, nếu không tìm thấy thì dùng câu ví dụ gốc trong bảng từ
+vựng. Mỗi track có khoảng 9–19 từ.
+
+`grammarNotes` (dùng cho tab "Ngữ pháp") là danh sách điểm ngữ pháp được dò
+tìm tự động bằng regex trên transcript (modal verbs, hiện tại hoàn thành, bị
+động, so sánh, câu điều kiện, mệnh đề quan hệ, danh động từ…), mỗi mục gồm
+nhãn, trình độ, giải thích ngắn, và câu ví dụ trích nguyên văn từ bài. Vì đây
+là phát hiện tự động nên có thể sót hoặc nhận nhầm vài trường hợp — nếu thấy
+chưa hợp lý, bạn có thể sửa tay trực tiếp trong `tracks.json`.
